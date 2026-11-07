@@ -1,0 +1,22 @@
+# ---------------------------------------------------------------------------
+# Tier 0 — SMOKE TEST: needs NOTHING here. `python run_smoke_test.py` runs on a
+# bare Python 3.8+ install (mock backend + pure-python BM25 + offline sample).
+#
+# Tier 1 — REAL RUN on your laptop. Install what you actually use:
+# ---------------------------------------------------------------------------
+
+# Backends (install the one you'll use; you don't need all of them)
+openai>=1.30.0                 # Groq (OpenAI-compatible); set GROQ_MODEL
+google-generativeai>=0.7.0     # Gemini free tier (alternative)
+requests>=2.31.0               # Ollama local backend
+
+# Dense retriever (optional; BM25 works with zero deps). CPU-friendly.
+sentence-transformers>=2.7.0   # E5-base-v2 embeddings
+faiss-cpu>=1.8.0               # vector index
+
+# Real datasets (HotpotQA / 2Wiki / MuSiQue / Bamboogle)
+datasets>=2.19.0               # HuggingFace loaders
+
+# Niceties
+tqdm>=4.66.0
+numpy>=1.24.0

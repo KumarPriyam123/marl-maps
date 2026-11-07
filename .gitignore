@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets
+.env
+*.key
+
+# Large / regenerable data (rebuilt on Kaggle in minutes)
+*.faiss
+data/index/
+**/passages.csv
+**/queries.csv
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

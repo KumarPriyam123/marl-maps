@@ -1,0 +1,108 @@
+[
+  {
+    "id": "s1",
+    "question": "Where was the mother of singer Michael Jackson born?",
+    "answer": "Alabama",
+    "passages": [
+      {"title": "Katherine Jackson", "text": "Katherine Esther Scruse, the mother of the Jackson family including singer Michael Jackson, was born in Barbour County, Alabama.", "is_gold": true},
+      {"title": "Michael Jackson", "text": "Michael Jackson was an American singer and dancer often called the King of Pop. He was born in Gary, Indiana.", "is_gold": true},
+      {"title": "Deloris Jordan", "text": "Deloris Jordan is the mother of basketball player Michael Jordan and was born in North Carolina.", "is_gold": false},
+      {"title": "Gary, Indiana", "text": "Gary is a city in Lake County, Indiana, known as the birthplace of several musicians.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s2",
+    "question": "Who played the character with a series named after it that includes Frost at Christmas in The Santa Clause 3?",
+    "answer": "Martin Short",
+    "passages": [
+      {"title": "The Santa Clause 3: The Escape Clause", "text": "In The Santa Clause 3 the villain Jack Frost is played by the actor Martin Short.", "is_gold": true},
+      {"title": "Jack Frost (film series)", "text": "Jack Frost is a film series whose entries include Frost at Christmas, centered on the character Jack Frost.", "is_gold": true},
+      {"title": "Tim Allen", "text": "Tim Allen plays Scott Calvin, the main character of The Santa Clause films.", "is_gold": false},
+      {"title": "Christmas", "text": "Christmas is an annual festival commemorated on December 25 around the world.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s3",
+    "question": "How many games does a team in the league where Barcelona won titles in 1948 and 1949 play in a season?",
+    "answer": "38",
+    "passages": [
+      {"title": "History of FC Barcelona", "text": "FC Barcelona won La Liga titles in the 1947-48 and 1948-49 seasons.", "is_gold": true},
+      {"title": "La Liga", "text": "La Liga is the top Spanish football division; each team plays 38 matches in a season against the other nineteen clubs.", "is_gold": true},
+      {"title": "Campeonato Profesional 1949", "text": "The 1949 Campeonato Profesional was a Colombian football tournament unrelated to Spanish competitions.", "is_gold": false},
+      {"title": "UER Pineda de Mar", "text": "UER Pineda de Mar is a small Catalan football club founded in the twentieth century.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s4",
+    "question": "What nationality is the director of the film Inception?",
+    "answer": "British",
+    "passages": [
+      {"title": "Inception", "text": "Inception is a 2010 science fiction film written and directed by Christopher Nolan.", "is_gold": true},
+      {"title": "Christopher Nolan", "text": "Christopher Nolan is a British-American film director known for Inception and Interstellar.", "is_gold": true},
+      {"title": "Interstellar", "text": "Interstellar is a 2014 epic science fiction film also directed by Christopher Nolan.", "is_gold": false},
+      {"title": "Leonardo DiCaprio", "text": "Leonardo DiCaprio is an American actor who starred in Inception.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s5",
+    "question": "In which city is the headquarters of the company that developed the Python programming language's reference implementation maintained?",
+    "answer": "Wilmington",
+    "passages": [
+      {"title": "Python Software Foundation", "text": "The Python Software Foundation maintains the reference implementation CPython and is headquartered in Wilmington, Delaware.", "is_gold": true},
+      {"title": "CPython", "text": "CPython is the reference implementation of the Python programming language, stewarded by the Python Software Foundation.", "is_gold": true},
+      {"title": "Guido van Rossum", "text": "Guido van Rossum created the Python programming language in the early 1990s.", "is_gold": false},
+      {"title": "Delaware", "text": "Delaware is a state in the Mid-Atlantic region of the United States.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s6",
+    "question": "Which mountain is taller, the highest peak climbed first by Tenzing Norgay or Mont Blanc?",
+    "answer": "Mount Everest",
+    "passages": [
+      {"title": "Tenzing Norgay", "text": "Tenzing Norgay was a Nepali-Indian Sherpa mountaineer who, with Edmund Hillary, first reached the summit of Mount Everest in 1953.", "is_gold": true},
+      {"title": "Mount Everest", "text": "Mount Everest is Earth's highest mountain above sea level, at 8849 metres.", "is_gold": true},
+      {"title": "Mont Blanc", "text": "Mont Blanc is the highest mountain in the Alps, rising to 4808 metres.", "is_gold": true},
+      {"title": "Edmund Hillary", "text": "Sir Edmund Hillary was a New Zealand mountaineer and explorer.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s7",
+    "question": "What is the capital of the country where the 2016 Summer Olympics were held?",
+    "answer": "Brasilia",
+    "passages": [
+      {"title": "2016 Summer Olympics", "text": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil.", "is_gold": true},
+      {"title": "Brazil", "text": "Brazil is the largest country in South America; its capital is Brasilia.", "is_gold": true},
+      {"title": "Rio de Janeiro", "text": "Rio de Janeiro is a major coastal city in Brazil, famous for its beaches.", "is_gold": false},
+      {"title": "2020 Summer Olympics", "text": "The 2020 Summer Olympics were held in Tokyo, Japan.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s8",
+    "question": "Who wrote the novel that the film Blade Runner is based on?",
+    "answer": "Philip K. Dick",
+    "passages": [
+      {"title": "Blade Runner", "text": "Blade Runner is a 1982 film based on the novel Do Androids Dream of Electric Sheep.", "is_gold": true},
+      {"title": "Do Androids Dream of Electric Sheep?", "text": "Do Androids Dream of Electric Sheep is a science fiction novel written by Philip K. Dick.", "is_gold": true},
+      {"title": "Ridley Scott", "text": "Ridley Scott is the English director who made Blade Runner.", "is_gold": false},
+      {"title": "Harrison Ford", "text": "Harrison Ford is an American actor who played Rick Deckard in Blade Runner.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s9",
+    "question": "Who directed the film Inception?",
+    "answer": "Christopher Nolan",
+    "passages": [
+      {"title": "Inception", "text": "Inception is a 2010 science fiction film written and directed by Christopher Nolan.", "is_gold": true},
+      {"title": "Leonardo DiCaprio", "text": "Leonardo DiCaprio is an American actor who starred in Inception.", "is_gold": false}
+    ]
+  },
+  {
+    "id": "s10",
+    "question": "What is the highest mountain on Earth above sea level?",
+    "answer": "Mount Everest",
+    "passages": [
+      {"title": "Mount Everest", "text": "Mount Everest is the planet's highest mountain above sea level, at 8849 metres.", "is_gold": true},
+      {"title": "K2", "text": "K2 is the second-highest mountain in the world, on the China-Pakistan border.", "is_gold": false}
+    ]
+  }
+]

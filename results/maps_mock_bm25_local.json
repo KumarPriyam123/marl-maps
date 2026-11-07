@@ -1,0 +1,140 @@
+{
+  "config": {
+    "backend": "mock",
+    "retriever": "bm25",
+    "data": "local",
+    "data_path": "C:\\dev\\marl-maps\\data\\sample\\hotpot_sample.json",
+    "n": 10,
+    "top_k": 3,
+    "max_rounds": 3,
+    "verbose": true
+  },
+  "aggregate": {
+    "EM": 20.0,
+    "F1": 20.0,
+    "n": 10,
+    "avg_rounds": 1.0
+  },
+  "records": [
+    {
+      "id": "s1",
+      "question": "Where was the mother of singer Michael Jackson born?",
+      "gold": "Alabama",
+      "pred": "Katherine Esther Scruse",
+      "rounds": 1,
+      "queries": [
+        "Where was the mother of singer Michael Jackson born?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s2",
+      "question": "Who played the character with a series named after it that includes Frost at Christmas in The Santa Clause 3?",
+      "gold": "Martin Short",
+      "pred": "Jack Frost",
+      "rounds": 1,
+      "queries": [
+        "Who played the character with a series named after it that includes Frost at Christmas in The Santa Clause 3?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s3",
+      "question": "How many games does a team in the league where Barcelona won titles in 1948 and 1949 play in a season?",
+      "gold": "38",
+      "pred": "1947",
+      "rounds": 1,
+      "queries": [
+        "How many games does a team in the league where Barcelona won titles in 1948 and 1949 play in a season?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s4",
+      "question": "What nationality is the director of the film Inception?",
+      "gold": "British",
+      "pred": "Christopher Nolan",
+      "rounds": 1,
+      "queries": [
+        "What nationality is the director of the film Inception?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s5",
+      "question": "In which city is the headquarters of the company that developed the Python programming language's reference implementation maintained?",
+      "gold": "Wilmington",
+      "pred": "CPython",
+      "rounds": 1,
+      "queries": [
+        "In which city is the headquarters of the company that developed the Python programming language's reference implementation maintained?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s6",
+      "question": "Which mountain is taller, the highest peak climbed first by Tenzing Norgay or Mont Blanc?",
+      "gold": "Mount Everest",
+      "pred": "Alps",
+      "rounds": 1,
+      "queries": [
+        "Which mountain is taller, the highest peak climbed first by Tenzing Norgay or Mont Blanc?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s7",
+      "question": "What is the capital of the country where the 2016 Summer Olympics were held?",
+      "gold": "Brasilia",
+      "pred": "Rio",
+      "rounds": 1,
+      "queries": [
+        "What is the capital of the country where the 2016 Summer Olympics were held?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s8",
+      "question": "Who wrote the novel that the film Blade Runner is based on?",
+      "gold": "Philip K. Dick",
+      "pred": "Do Androids Dream",
+      "rounds": 1,
+      "queries": [
+        "Who wrote the novel that the film Blade Runner is based on?"
+      ],
+      "em": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "s9",
+      "question": "Who directed the film Inception?",
+      "gold": "Christopher Nolan",
+      "pred": "Christopher Nolan",
+      "rounds": 1,
+      "queries": [
+        "Who directed the film Inception?"
+      ],
+      "em": 1.0,
+      "f1": 1.0
+    },
+    {
+      "id": "s10",
+      "question": "What is the highest mountain on Earth above sea level?",
+      "gold": "Mount Everest",
+      "pred": "Mount Everest",
+      "rounds": 1,
+      "queries": [
+        "What is the highest mountain on Earth above sea level?"
+      ],
+      "em": 1.0,
+      "f1": 1.0
+    }
+  ]
+}
