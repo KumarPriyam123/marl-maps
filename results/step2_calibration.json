@@ -1,0 +1,104 @@
+{
+  "n_calls": 363,
+  "n_questions": 200,
+  "splits": 20,
+  "base_rate_covered_pct": 40.5,
+  "verdict_accuracy_pct": 68.0,
+  "AUROC_raw": 0.7382,
+  "conf_extreme_pct": 75.2,
+  "temperature_T": {
+    "median": 9.641,
+    "min": 7.513,
+    "max": 12.893
+  },
+  "raw": {
+    "ECE": {
+      "mean": 0.2859,
+      "std": 0.0
+    },
+    "Brier": {
+      "mean": 0.2962,
+      "std": 0.0
+    },
+    "NLL": {
+      "mean": 2.084,
+      "std": 0.0
+    }
+  },
+  "temperature": {
+    "ECE": {
+      "mean": 0.0923,
+      "std": 0.0045
+    },
+    "Brier": {
+      "mean": 0.2128,
+      "std": 0.0018
+    },
+    "NLL": {
+      "mean": 0.6166,
+      "std": 0.0051
+    }
+  },
+  "platt": {
+    "ECE": {
+      "mean": 0.0614,
+      "std": 0.0119
+    },
+    "Brier": {
+      "mean": 0.2086,
+      "std": 0.0028
+    },
+    "NLL": {
+      "mean": 0.6041,
+      "std": 0.0068
+    }
+  },
+  "stop_thresholds_platt": [
+    {
+      "tau": 0.5,
+      "stop_rate_pct": 32.5,
+      "precision_pct": 61.0
+    },
+    {
+      "tau": 0.6,
+      "stop_rate_pct": 22.0,
+      "precision_pct": 65.0
+    },
+    {
+      "tau": 0.7,
+      "stop_rate_pct": 12.4,
+      "precision_pct": 55.6
+    },
+    {
+      "tau": 0.8,
+      "stop_rate_pct": 6.9,
+      "precision_pct": 60.0
+    },
+    {
+      "tau": 0.9,
+      "stop_rate_pct": 0.0,
+      "precision_pct": null
+    }
+  ],
+  "by_round": {
+    "0": {
+      "calls": 200,
+      "covered_pct": 34.0,
+      "said_sufficient_pct": 48.0,
+      "verdict_acc_pct": 68.0
+    },
+    "1": {
+      "calls": 104,
+      "covered_pct": 50.0,
+      "said_sufficient_pct": 43.3,
+      "verdict_acc_pct": 72.1
+    },
+    "2": {
+      "calls": 59,
+      "covered_pct": 45.8,
+      "said_sufficient_pct": 20.3,
+      "verdict_acc_pct": 61.0
+    }
+  },
+  "paired_test": "skipped: results/step1_questions.csv not found"
+}

@@ -19,3 +19,4 @@ data/index/
 .idea/
 .DS_Store
 Thumbs.db
+Claude outputs/

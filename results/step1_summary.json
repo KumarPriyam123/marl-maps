@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "backend": "vllm",
+    "model": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+    "embedder": "all-MiniLM-L6-v2",
+    "top_k": 3,
+    "max_rounds": 3,
+    "start_at": 0,
+    "n_questions": 200,
+    "corpus_passages": 9769,
+    "checks": {
+      "no empty predictions (<5%)": true,
+      "no crashed questions (0%)": true,
+      "judge parseable (>=95%)": true,
+      "judge sometimes asks for more": true,
+      "judge confidence captured (>=80%)": true,
+      "retriever finds gold (>=50% any)": true
+    }
+  },
+  "results": {
+    "naive_rag": {
+      "n": 200,
+      "EM": 38.5,
+      "F1": 48.45,
+      "empty_pred_rate": 0.0,
+      "error_rate": 0.0,
+      "avg_retrievals": 1.0,
+      "redundant_retrieval_pct": 0.0,
+      "post_coverage_retrieval_pct": null,
+      "gold_coverage_pct": 34.0,
+      "gold_any_pct": 91.5,
+      "latency_mean_s": 0.873,
+      "latency_p50_s": 0.639,
+      "latency_p90_s": 1.656,
+      "by_type": {
+        "bridge": {
+          "n": 166,
+          "EM": 34.94,
+          "F1": 45.04
+        },
+        "comparison": {
+          "n": 34,
+          "EM": 55.88,
+          "F1": 65.07
+        }
+      }
+    },
+    "maps_scripted": {
+      "n": 200,
+      "EM": 43.5,
+      "F1": 53.73,
+      "empty_pred_rate": 0.0,
+      "error_rate": 0.0,
+      "avg_retrievals": 2.05,
+      "redundant_retrieval_pct": 17.62,
+      "post_coverage_retrieval_pct": 26.19,
+      "gold_coverage_pct": 55.5,
+      "gold_any_pct": 95.5,
+      "latency_mean_s": 3.379,
+      "latency_p50_s": 2.474,
+      "latency_p90_s": 7.812,
+      "by_type": {
+        "bridge": {
+          "n": 166,
+          "EM": 40.96,
+          "F1": 51.81
+        },
+        "comparison": {
+          "n": 34,
+          "EM": 55.88,
+          "F1": 63.11
+        }
+      },
+      "judge": {
+        "calls": 363,
+        "unparseable_pct": 0.0,
+        "said_sufficient_pct": 42.15,
+        "conf_missing_pct": 0.0,
+        "agree_with_gold_coverage_pct": 68.04,
+        "false_sufficient_pct": 16.8,
+        "false_insufficient_pct": 15.15,
+        "ECE_conf_vs_gold_coverage": 0.2859
+      }
+    }
+  }
+}
