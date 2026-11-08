@@ -1,0 +1,387 @@
+{
+  "source": "results/step4_n400_steps.csv",
+  "n_questions": 400,
+  "max_t": 3,
+  "primary_lambda": 0.05,
+  "features_cheap": [
+    "t",
+    "verdict",
+    "conf_logit",
+    "n_new_last",
+    "top_score_last",
+    "mean_score_last",
+    "qsim_last",
+    "dup_last",
+    "pool_size"
+  ],
+  "features_full": [
+    "t",
+    "verdict",
+    "conf_logit",
+    "n_new_last",
+    "top_score_last",
+    "mean_score_last",
+    "qsim_last",
+    "dup_last",
+    "pool_size",
+    "pred_words",
+    "pred_changed",
+    "pred_in_pool"
+  ],
+  "by_lambda": {
+    "0.02": {
+      "stop_at_t0": {
+        "F1": 49.31,
+        "EM": 36.75,
+        "avg_extra_retrievals": 0.0,
+        "llm_calls": 2.0,
+        "reward": 0.4931
+      },
+      "judge_stop": {
+        "F1": 59.47,
+        "EM": 44.75,
+        "avg_extra_retrievals": 1.128,
+        "llm_calls": 4.255,
+        "reward": 0.5722
+      },
+      "always_full": {
+        "F1": 60.15,
+        "EM": 45.25,
+        "avg_extra_retrievals": 3.0,
+        "llm_calls": 8.0,
+        "reward": 0.5415
+      },
+      "oracle": {
+        "F1": 68.78,
+        "EM": 53.75,
+        "avg_extra_retrievals": 0.338,
+        "llm_calls": 2.675,
+        "reward": 0.6811
+      },
+      "learned_cheap_logreg": {
+        "F1": 61.15,
+        "EM": 45.5,
+        "avg_extra_retrievals": 1.22,
+        "llm_calls": 4.44,
+        "reward": 0.5871,
+        "theta_per_fold": [
+          0.85,
+          0.9,
+          0.9,
+          0.9,
+          0.85
+        ]
+      },
+      "learned_full_logreg": {
+        "F1": 60.83,
+        "EM": 45.75,
+        "avg_extra_retrievals": 1.235,
+        "llm_calls": 5.705,
+        "reward": 0.5836,
+        "theta_per_fold": [
+          0.85,
+          0.85,
+          0.95,
+          0.9,
+          0.9
+        ]
+      },
+      "learned_cheap_gbm": {
+        "F1": 60.08,
+        "EM": 45.0,
+        "avg_extra_retrievals": 0.91,
+        "llm_calls": 3.82,
+        "reward": 0.5826,
+        "theta_per_fold": [
+          0.85,
+          0.9,
+          0.9,
+          0.85,
+          0.75
+        ]
+      },
+      "paired_f1_vs_judge_stop": {
+        "learned_cheap_logreg": {
+          "mean": 1.68,
+          "ci95": [
+            -0.85,
+            4.26
+          ],
+          "p_le_0": 0.0953
+        },
+        "learned_full_logreg": {
+          "mean": 1.36,
+          "ci95": [
+            -1.39,
+            4.12
+          ],
+          "p_le_0": 0.1608
+        },
+        "learned_cheap_gbm": {
+          "mean": 0.61,
+          "ci95": [
+            -1.89,
+            3.15
+          ],
+          "p_le_0": 0.3184
+        }
+      }
+    },
+    "0.05": {
+      "stop_at_t0": {
+        "F1": 49.31,
+        "EM": 36.75,
+        "avg_extra_retrievals": 0.0,
+        "llm_calls": 2.0,
+        "reward": 0.4931
+      },
+      "judge_stop": {
+        "F1": 59.47,
+        "EM": 44.75,
+        "avg_extra_retrievals": 1.128,
+        "llm_calls": 4.255,
+        "reward": 0.5383
+      },
+      "always_full": {
+        "F1": 60.15,
+        "EM": 45.25,
+        "avg_extra_retrievals": 3.0,
+        "llm_calls": 8.0,
+        "reward": 0.4515
+      },
+      "oracle": {
+        "F1": 68.74,
+        "EM": 53.75,
+        "avg_extra_retrievals": 0.325,
+        "llm_calls": 2.65,
+        "reward": 0.6711
+      },
+      "learned_cheap_logreg": {
+        "F1": 59.84,
+        "EM": 44.5,
+        "avg_extra_retrievals": 0.92,
+        "llm_calls": 3.84,
+        "reward": 0.5524,
+        "theta_per_fold": [
+          0.85,
+          0.8,
+          0.9,
+          0.85,
+          0.85
+        ]
+      },
+      "learned_full_logreg": {
+        "F1": 57.94,
+        "EM": 43.25,
+        "avg_extra_retrievals": 0.672,
+        "llm_calls": 4.018,
+        "reward": 0.5458,
+        "theta_per_fold": [
+          0.85,
+          0.75,
+          0.75,
+          0.85,
+          0.8
+        ]
+      },
+      "learned_cheap_gbm": {
+        "F1": 58.17,
+        "EM": 43.25,
+        "avg_extra_retrievals": 0.698,
+        "llm_calls": 3.395,
+        "reward": 0.5468,
+        "theta_per_fold": [
+          0.9,
+          0.85,
+          0.8,
+          0.75,
+          0.8
+        ]
+      },
+      "paired_f1_vs_judge_stop": {
+        "learned_cheap_logreg": {
+          "mean": 0.37,
+          "ci95": [
+            -2.12,
+            2.91
+          ],
+          "p_le_0": 0.3798
+        },
+        "learned_full_logreg": {
+          "mean": -1.53,
+          "ci95": [
+            -4.03,
+            0.95
+          ],
+          "p_le_0": 0.8859
+        },
+        "learned_cheap_gbm": {
+          "mean": -1.3,
+          "ci95": [
+            -4.09,
+            1.5
+          ],
+          "p_le_0": 0.8218
+        }
+      }
+    },
+    "0.1": {
+      "stop_at_t0": {
+        "F1": 49.31,
+        "EM": 36.75,
+        "avg_extra_retrievals": 0.0,
+        "llm_calls": 2.0,
+        "reward": 0.4931
+      },
+      "judge_stop": {
+        "F1": 59.47,
+        "EM": 44.75,
+        "avg_extra_retrievals": 1.128,
+        "llm_calls": 4.255,
+        "reward": 0.482
+      },
+      "always_full": {
+        "F1": 60.15,
+        "EM": 45.25,
+        "avg_extra_retrievals": 3.0,
+        "llm_calls": 8.0,
+        "reward": 0.3015
+      },
+      "oracle": {
+        "F1": 68.66,
+        "EM": 53.5,
+        "avg_extra_retrievals": 0.315,
+        "llm_calls": 2.63,
+        "reward": 0.6551
+      },
+      "learned_cheap_logreg": {
+        "F1": 53.85,
+        "EM": 39.75,
+        "avg_extra_retrievals": 0.458,
+        "llm_calls": 2.915,
+        "reward": 0.4927,
+        "theta_per_fold": [
+          0.8,
+          0.65,
+          0.65,
+          0.75,
+          0.85
+        ]
+      },
+      "learned_full_logreg": {
+        "F1": 56.89,
+        "EM": 42.5,
+        "avg_extra_retrievals": 0.38,
+        "llm_calls": 3.14,
+        "reward": 0.5309,
+        "theta_per_fold": [
+          0.75,
+          0.75,
+          0.75,
+          0.75,
+          0.7
+        ]
+      },
+      "learned_cheap_gbm": {
+        "F1": 57.44,
+        "EM": 43.0,
+        "avg_extra_retrievals": 0.505,
+        "llm_calls": 3.01,
+        "reward": 0.5239,
+        "theta_per_fold": [
+          0.75,
+          0.8,
+          0.8,
+          0.75,
+          0.8
+        ]
+      },
+      "paired_f1_vs_judge_stop": {
+        "learned_cheap_logreg": {
+          "mean": -5.62,
+          "ci95": [
+            -8.34,
+            -2.95
+          ],
+          "p_le_0": 1.0
+        },
+        "learned_full_logreg": {
+          "mean": -2.58,
+          "ci95": [
+            -5.18,
+            -0.11
+          ],
+          "p_le_0": 0.9791
+        },
+        "learned_cheap_gbm": {
+          "mean": -2.03,
+          "ci95": [
+            -4.88,
+            0.77
+          ],
+          "p_le_0": 0.9232
+        }
+      }
+    }
+  },
+  "deploy_policy": {
+    "features": [
+      "t",
+      "verdict",
+      "conf_logit",
+      "n_new_last",
+      "top_score_last",
+      "mean_score_last",
+      "qsim_last",
+      "dup_last",
+      "pool_size"
+    ],
+    "lambda": 0.05,
+    "theta": 0.85,
+    "mean": [
+      1.0,
+      0.586667,
+      2.539102,
+      3.0,
+      0.526689,
+      0.469138,
+      0.399046,
+      0.0175,
+      6.0
+    ],
+    "scale": [
+      0.816497,
+      0.492432,
+      8.653321,
+      1.0,
+      0.137061,
+      0.098552,
+      0.336834,
+      0.131125,
+      2.44949
+    ],
+    "coef": [
+      0.356091,
+      -0.201775,
+      0.781977,
+      0.0,
+      -0.34103,
+      0.051428,
+      -0.086887,
+      0.347354,
+      0.356091
+    ],
+    "intercept": 2.443251,
+    "coef_by_feature": {
+      "t": 0.356091,
+      "verdict": -0.201775,
+      "conf_logit": 0.781977,
+      "n_new_last": 0.0,
+      "top_score_last": -0.34103,
+      "mean_score_last": 0.051428,
+      "qsim_last": -0.086887,
+      "dup_last": 0.347354,
+      "pool_size": 0.356091
+    }
+  }
+}
