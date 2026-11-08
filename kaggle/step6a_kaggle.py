@@ -344,16 +344,21 @@ opt = torch.optim.AdamW([p for p in model.parameters() if p.requires_grad], lr=L
                         weight_decay=0.0)
 scaler = torch.amp.GradScaler("cuda", enabled=AMP)
 log, start_step = [], 0
+CFG = {"smoke": SMOKE, "n_e1": N_E1, "n_train_q": N_TRAIN_Q, "prompts": PROMPTS_PER_STEP,
+       "G": G, "lr": LR, "kl_beta": KL_BETA, "lora": [LORA_R, LORA_ALPHA], "model": MODEL}
 if os.path.exists(CKPT):
     ck = torch.load(CKPT, map_location="cpu", weights_only=False)
-    set_peft_model_state_dict(model, ck["lora"])
-    opt.load_state_dict(ck["opt"]); scaler.load_state_dict(ck["scaler"])
-    log, start_step = ck["log"], ck["step"]
-    print(f"resuming from step {start_step}")
+    if ck.get("cfg") != CFG:      # never resume a checkpoint from a different setup
+        print("IGNORING checkpoint from a different configuration:", ck.get("cfg"))
+    else:
+        set_peft_model_state_dict(model, ck["lora"])
+        opt.load_state_dict(ck["opt"]); scaler.load_state_dict(ck["scaler"])
+        log, start_step = ck["log"], ck["step"]
+        print(f"resuming from step {start_step}")
 
 def save_ckpt(step):
     torch.save({"lora": get_peft_model_state_dict(model), "opt": opt.state_dict(),
-                "scaler": scaler.state_dict(), "log": log, "step": step}, CKPT)
+                "scaler": scaler.state_dict(), "log": log, "step": step, "cfg": CFG}, CKPT)
 
 t_run = time.time()
 for step in range(start_step, N_STEPS):
