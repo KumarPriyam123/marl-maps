@@ -1,0 +1,57 @@
+id,query,gain,dup,covered_after,had_missing,pred,gold,f1,em,set,src
+5a8de99d5542995a26add44b,Are Sherwood Stewart and Ekaterina Makarova from the,0.0,True,False,True,No,no,1.0,1.0,E1,1.5B_untrained
+5ae752585542997b22f6a6ce,What was the date of the UK general,1.0,False,True,True,5 July 1945,5 July 1945,1.0,1.0,E1,1.5B_untrained
+5ab3da46554299753aec59c9,What indoor arena hosted SummerSlam 2006 and opened,0.0,False,False,True,TD Banknorth Garden,TD Garden,0.8,0.0,E1,1.5B_untrained
+5ab433675542991751b4d6e6,Where do the Indiana Pacers play their home,1.0,False,True,True,Bankers Life Fieldhouse,Bankers Life Fieldhouse,1.0,1.0,E1,1.5B_untrained
+5a89ef145542992e4fca8493,What pageant did Halima Aden win,0.0,True,False,True,Miss Minnesota USA pageant,Miss Minnesota USA,0.8571428571428571,0.0,E1,1.5B_untrained
+5ab273be554299722f9b4d30,How long did the dynasty that Gustav Adolf,0.0,False,False,True,1945,from 1826 to 1918,0.0,0.0,E1,1.5B_untrained
+5adee4055542995ec70e8f3d,Which song a collaboration with the band Alabama,0.0,False,False,True,Bye Bye Bye,(God Must Have Spent) A Little More Time on You,0.0,0.0,E1,1.5B_untrained
+5abace3455429901930fa8c0,What city did the founder of the school,0.0,False,False,True,Frankfurt,St Albans,0.0,0.0,E1,1.5B_untrained
+5ae213bf554299495565d9e6,What island is the country in which Malcolm,0.0,False,False,True,None,the island of Great Britain,0.0,0.0,E1,1.5B_untrained
+5ae1109455429901ffe4ad42,South Channel Fort is located 6 km north,0.0,False,False,True,Port Phillip,Port Phillip,1.0,1.0,E1,1.5B_untrained
+5a86a5295542991e77181677,Who is Daron Malakian and what is his,0.0,False,False,True,Serj Tankian,Serj Tankian,1.0,1.0,E1,1.5B_untrained
+5a7a4b8f5542990783324efb,What year did C F Martin Company establish,1.0,False,True,True,1833,1833,1.0,1.0,E1,1.5B_untrained
+5a760c3f5542994ccc91869e,A On which former site was the Alon,0.0,False,False,True,the former New Frontier Hotel and Casino,New Frontier Hotel and Casino,0.9090909090909091,0.0,E1,1.5B_untrained
+5a872e8e5542991e7718170c,What has Daniel Greene created for clients including,0.0,False,False,True,paintings and pastels,portrait,0.0,0.0,E2,1.5B_untrained
+5a7265825542997f827839a3,What Olympic medal did Jermain Mackey win in,0.0,False,False,True,Bronze,a silver medal,0.0,0.0,E2,1.5B_untrained
+5abe2b0155429976d4830a83,Max Hoffmann along with Hindenburg and Ludendorff masterminded,0.0,False,True,False,1914,26–30 August 1914,0.5,0.0,E2,1.5B_untrained
+5ae135fb55429920d523431f,Scott Workman was an American stuntman and actor,0.0,False,False,True,The X-Files,WB Television Network,0.0,0.0,E2,1.5B_untrained
+5a8f0a01554299458435d539,What city did Forevermore the band who released,0.0,False,True,False,Indianapolis,Indianapolis,1.0,1.0,E2,1.5B_untrained
+5ab40e1c5542996a3a969f00,Lawerence Turman produced Short Circuit in 1986 with,1.0,False,True,True,1988,1988,1.0,1.0,E2,1.5B_untrained
+5ab28c89554299340b525513,What was the rank higher than Obergruppenf hrer,0.0,False,True,False,Gruppenführer,Reichsführer-SS,0.0,0.0,E2,1.5B_untrained
+5a87e3d65542993e715abff8,Game of Thrones,0.0,False,True,False,Game of Thrones,Game of Thrones,1.0,1.0,E2,1.5B_untrained
+5addfc425542997dc7907101,Which driver born on 17 September 1996 currently,0.0,False,False,True,Michael James Lewis,Esteban Ocon,0.0,0.0,E2,1.5B_untrained
+5ab576dc5542997d4ad1f13d,What music style did Radha Jayalakshmi and the,0.0,False,True,False,Carnatic music,Carnatic music,1.0,1.0,E2,1.5B_untrained
+5a872e8e5542991e7718170c,Daniel Greene portraits Bryant Gumbel Eleanor Roosevelt William,0.0,False,False,True,portraits,portrait,0.0,0.0,E2,7B_logged_query
+5a7265825542997f827839a3,Olympic medal Jermain Mackey 1984,0.0,False,False,True,Silver,a silver medal,0.6666666666666666,0.0,E2,7B_logged_query
+5abe2b0155429976d4830a83,Tannenberg Masurian Lakes Hindenburg Ludendorff Russian,0.0,False,True,False,August 1914,26–30 August 1914,0.8,0.0,E2,7B_logged_query
+5ae135fb55429920d523431f,Scott Workman TV Network Marvel,0.0,False,False,True,Sons of Anarchy,WB Television Network,0.0,0.0,E2,7B_logged_query
+5a8f0a01554299458435d539,Forevermore Indianapolis Indiana,0.0,False,True,False,Indianapolis,Indianapolis,1.0,1.0,E2,7B_logged_query
+5ab40e1c5542996a3a969f00,1988,0.0,False,False,True,1986,1988,0.0,0.0,E2,7B_logged_query
+5ab28c89554299340b525513,Oberst Gruppenf hrer SS rank,0.0,False,True,False,Obergruppenführer,Reichsführer-SS,0.0,0.0,E2,7B_logged_query
+5a87e3d65542993e715abff8,Game of Thrones,0.0,False,True,False,Game of Thrones,Game of Thrones,1.0,1.0,E2,7B_logged_query
+5addfc425542997dc7907101,Force India VJM10 driver 1996 birthdate,0.0,False,False,True,Sergio Pérez,Esteban Ocon,0.0,0.0,E2,7B_logged_query
+5ab576dc5542997d4ad1f13d,Carnatic music style,0.0,False,True,False,Carnatic music,Carnatic music,1.0,1.0,E2,7B_logged_query
+5a8de99d5542995a26add44b,Are Sherwood Stewart and Ekaterina Makarova from the,0.0,True,False,True,No,no,1.0,1.0,E1,1.5B_grpo
+5ae752585542997b22f6a6ce,What was the date of the UK general,1.0,False,True,True,5 July 1945,5 July 1945,1.0,1.0,E1,1.5B_grpo
+5ab3da46554299753aec59c9,What indoor arena hosted SummerSlam 2006 and opened,0.0,False,False,True,TD Banknorth Garden,TD Garden,0.8,0.0,E1,1.5B_grpo
+5ab433675542991751b4d6e6,Where do the Indiana Pacers play their home,1.0,False,True,True,Bankers Life Fieldhouse,Bankers Life Fieldhouse,1.0,1.0,E1,1.5B_grpo
+5a89ef145542992e4fca8493,What pageant did Halima Aden win in 2009,0.0,True,False,True,Miss Minnesota USA pageant,Miss Minnesota USA,0.8571428571428571,0.0,E1,1.5B_grpo
+5ab273be554299722f9b4d30,How long did the dynasty that Gustav Adolf,0.0,False,False,True,1945,from 1826 to 1918,0.0,0.0,E1,1.5B_grpo
+5adee4055542995ec70e8f3d,Which song a collaboration with the band Alabama,0.0,False,False,True,Bye Bye Bye,(God Must Have Spent) A Little More Time on You,0.0,0.0,E1,1.5B_grpo
+5abace3455429901930fa8c0,What city did the founder of the school,0.0,False,False,True,Frankfurt,St Albans,0.0,0.0,E1,1.5B_grpo
+5ae213bf554299495565d9e6,What island is the country in which Malcolm,0.0,False,False,True,None,the island of Great Britain,0.0,0.0,E1,1.5B_grpo
+5ae1109455429901ffe4ad42,South Channel Fort is located 6 km north,0.0,False,False,True,Port Phillip,Port Phillip,1.0,1.0,E1,1.5B_grpo
+5a86a5295542991e77181677,Who wrote the poetry collection Glaring Through Oblivion,0.0,False,False,True,Serj Tankian,Serj Tankian,1.0,1.0,E1,1.5B_grpo
+5a7a4b8f5542990783324efb,What year did C F Martin Company establish,1.0,False,True,True,1833,1833,1.0,1.0,E1,1.5B_grpo
+5a760c3f5542994ccc91869e,A On which former site was the Alon,0.0,False,False,True,the former New Frontier Hotel and Casino,New Frontier Hotel and Casino,0.9090909090909091,0.0,E1,1.5B_grpo
+5a872e8e5542991e7718170c,What has Daniel Greene created for clients including,0.0,False,False,True,paintings and pastels,portrait,0.0,0.0,E2,1.5B_grpo
+5a7265825542997f827839a3,What Olympic medal did Jermain Mackey win in,0.0,False,False,True,Bronze,a silver medal,0.0,0.0,E2,1.5B_grpo
+5abe2b0155429976d4830a83,When did Max Hoffmann along with Hindenburg and,0.0,False,True,False,1914,26–30 August 1914,0.5,0.0,E2,1.5B_grpo
+5ae135fb55429920d523431f,Scott Workman was an American stuntman and actor,0.0,False,False,True,The X-Files,WB Television Network,0.0,0.0,E2,1.5B_grpo
+5a8f0a01554299458435d539,What city did Forevermore the band who released,0.0,False,True,False,Indianapolis,Indianapolis,1.0,1.0,E2,1.5B_grpo
+5ab40e1c5542996a3a969f00,Lawerence Turman's film Short Circuit had a follow,1.0,False,True,True,1988,1988,1.0,1.0,E2,1.5B_grpo
+5ab28c89554299340b525513,What was the rank higher than Obergruppenf hrer,0.0,False,True,False,Gruppenführer,Reichsführer-SS,0.0,0.0,E2,1.5B_grpo
+5a87e3d65542993e715abff8,Which show did Alfie Allen portray Theon Greyjoy,0.0,True,True,False,Game of Thrones,Game of Thrones,1.0,1.0,E2,1.5B_grpo
+5addfc425542997dc7907101,Which driver born on 17 September 1996 currently,0.0,False,False,True,Michael James Lewis,Esteban Ocon,0.0,0.0,E2,1.5B_grpo
+5ab576dc5542997d4ad1f13d,What music style did Radha Jayalakshmi and the,0.0,False,True,False,Carnatic music,Carnatic music,1.0,1.0,E2,1.5B_grpo
