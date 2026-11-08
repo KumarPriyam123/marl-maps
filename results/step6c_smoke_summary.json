@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "run_tag": "step6c",
+    "smoke": true,
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "adapters": {
+      "query": "adapters/step6b/query",
+      "answer": "adapters/step6a"
+    },
+    "slices": {
+      "train": [
+        400,
+        8
+      ],
+      "test": [
+        800,
+        8
+      ]
+    },
+    "judge": "untrained 1.5B in both pipelines",
+    "checks": {
+      "all questions have 4 steps": true,
+      "no empty answers (<5%)": true,
+      "judge parseable (>=90%)": true,
+      "judge confidence captured (>=80%)": true,
+      "trained pipeline differs from base": true
+    }
+  },
+  "results": {
+    "1.5B_base/train": {
+      "by_t_F1": {
+        "0": 17.99,
+        "1": 18.06,
+        "2": 32.78,
+        "3": 27.78
+      },
+      "by_t_gold_covered": {
+        "0": 37.5,
+        "1": 50.0,
+        "2": 62.5,
+        "3": 62.5
+      },
+      "judge_said_sufficient_pct": 0.0,
+      "judge_stop": {
+        "F1": 27.78,
+        "EM": 25.0,
+        "avg_extra_searches": 3.0
+      },
+      "fixed_t1": {
+        "F1": 18.06,
+        "EM": 12.5,
+        "avg_extra_searches": 1.0
+      },
+      "always_full": {
+        "F1": 27.78,
+        "EM": 25.0,
+        "avg_extra_searches": 3.0
+      }
+    },
+    "1.5B_base/test": {
+      "by_t_F1": {
+        "0": 36.25,
+        "1": 31.25,
+        "2": 37.5,
+        "3": 37.5
+      },
+      "by_t_gold_covered": {
+        "0": 50.0,
+        "1": 62.5,
+        "2": 62.5,
+        "3": 62.5
+      },
+      "judge_said_sufficient_pct": 3.12,
+      "judge_stop": {
+        "F1": 37.5,
+        "EM": 25.0,
+        "avg_extra_searches": 2.625
+      },
+      "fixed_t1": {
+        "F1": 31.25,
+        "EM": 25.0,
+        "avg_extra_searches": 1.0
+      },
+      "always_full": {
+        "F1": 37.5,
+        "EM": 25.0,
+        "avg_extra_searches": 3.0
+      }
+    },
+    "1.5B_grpo/train": {
+      "by_t_F1": {
+        "0": 33.33,
+        "1": 36.11,
+        "2": 35.0,
+        "3": 35.0
+      },
+      "by_t_gold_covered": {
+        "0": 37.5,
+        "1": 75.0,
+        "2": 75.0,
+        "3": 75.0
+      },
+      "judge_said_sufficient_pct": 0.0,
+      "judge_stop": {
+        "F1": 35.0,
+        "EM": 25.0,
+        "avg_extra_searches": 3.0
+      },
+      "fixed_t1": {
+        "F1": 36.11,
+        "EM": 25.0,
+        "avg_extra_searches": 1.0
+      },
+      "always_full": {
+        "F1": 35.0,
+        "EM": 25.0,
+        "avg_extra_searches": 3.0
+      }
+    },
+    "1.5B_grpo/test": {
+      "by_t_F1": {
+        "0": 53.75,
+        "1": 53.75,
+        "2": 48.75,
+        "3": 48.75
+      },
+      "by_t_gold_covered": {
+        "0": 50.0,
+        "1": 62.5,
+        "2": 62.5,
+        "3": 62.5
+      },
+      "judge_said_sufficient_pct": 6.25,
+      "judge_stop": {
+        "F1": 48.75,
+        "EM": 37.5,
+        "avg_extra_searches": 2.5
+      },
+      "fixed_t1": {
+        "F1": 53.75,
+        "EM": 37.5,
+        "avg_extra_searches": 1.0
+      },
+      "always_full": {
+        "F1": 48.75,
+        "EM": 37.5,
+        "avg_extra_searches": 3.0
+      }
+    }
+  }
+}
