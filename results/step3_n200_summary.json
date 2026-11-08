@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "backend": "vllm",
+    "model": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+    "embedder": "all-MiniLM-L6-v2",
+    "top_k": 3,
+    "max_rounds": 3,
+    "start_at": 200,
+    "n_questions": 200,
+    "run_tag": "step3",
+    "search_depth": 20,
+    "dup_query_sim": 0.92,
+    "platt": [
+      0.10338,
+      -0.40947
+    ],
+    "corpus_passages": 9769,
+    "checks": {
+      "no empty predictions (<5%)": true,
+      "no crashed questions (0%)": true,
+      "orch never retrieves nothing new": true,
+      "judge parseable (>=95%)": true,
+      "judge sometimes asks for more": true,
+      "judge confidence captured (>=80%)": true,
+      "retriever finds gold (>=50% any)": true
+    }
+  },
+  "results": {
+    "naive_rag": {
+      "n": 200,
+      "EM": 32.5,
+      "F1": 46.11,
+      "empty_pred_rate": 0.0,
+      "error_rate": 0.0,
+      "avg_retrievals": 1.0,
+      "redundant_retrieval_pct": 0.0,
+      "post_coverage_retrieval_pct": null,
+      "gold_coverage_pct": 36.5,
+      "gold_any_pct": 90.5,
+      "avg_llm_calls": 1.0,
+      "stop_reasons": {},
+      "dup_queries_blocked": 0,
+      "latency_mean_s": 0.8,
+      "latency_p50_s": 0.608,
+      "latency_p90_s": 1.57,
+      "by_type": {
+        "bridge": {
+          "n": 161,
+          "EM": 27.95,
+          "F1": 40.43
+        },
+        "comparison": {
+          "n": 39,
+          "EM": 51.28,
+          "F1": 69.56
+        }
+      }
+    },
+    "maps_scripted": {
+      "n": 200,
+      "EM": 42.5,
+      "F1": 57.27,
+      "empty_pred_rate": 0.0,
+      "error_rate": 0.0,
+      "avg_retrievals": 1.99,
+      "redundant_retrieval_pct": 14.14,
+      "post_coverage_retrieval_pct": 26.77,
+      "gold_coverage_pct": 54.5,
+      "gold_any_pct": 95.5,
+      "avg_llm_calls": 3.76,
+      "stop_reasons": {},
+      "dup_queries_blocked": 0,
+      "latency_mean_s": 3.112,
+      "latency_p50_s": 1.824,
+      "latency_p90_s": 6.996,
+      "by_type": {
+        "bridge": {
+          "n": 161,
+          "EM": 38.51,
+          "F1": 53.4
+        },
+        "comparison": {
+          "n": 39,
+          "EM": 58.97,
+          "F1": 73.23
+        }
+      },
+      "judge": {
+        "calls": 354,
+        "unparseable_pct": 0.0,
+        "said_sufficient_pct": 44.07,
+        "conf_missing_pct": 0.0,
+        "agree_with_gold_coverage_pct": 66.1,
+        "false_sufficient_pct": 18.93,
+        "false_insufficient_pct": 14.97,
+        "ECE_conf_vs_gold_coverage": 0.3095
+      }
+    },
+    "orch_rules": {
+      "n": 200,
+      "EM": 43.0,
+      "F1": 57.71,
+      "empty_pred_rate": 0.0,
+      "error_rate": 0.0,
+      "avg_retrievals": 2.005,
+      "redundant_retrieval_pct": 0.0,
+      "post_coverage_retrieval_pct": 30.35,
+      "gold_coverage_pct": 59.5,
+      "gold_any_pct": 97.0,
+      "avg_llm_calls": 3.975,
+      "stop_reasons": {
+        "judge_sufficient": 145,
+        "budget": 44,
+        "duplicate_query": 11
+      },
+      "dup_queries_blocked": 37,
+      "latency_mean_s": 3.52,
+      "latency_p50_s": 1.918,
+      "latency_p90_s": 7.909,
+      "by_type": {
+        "bridge": {
+          "n": 161,
+          "EM": 39.75,
+          "F1": 54.57
+        },
+        "comparison": {
+          "n": 39,
+          "EM": 56.41,
+          "F1": 70.67
+        }
+      },
+      "judge": {
+        "calls": 357,
+        "unparseable_pct": 0.0,
+        "said_sufficient_pct": 40.62,
+        "conf_missing_pct": 0.0,
+        "agree_with_gold_coverage_pct": 65.83,
+        "false_sufficient_pct": 15.69,
+        "false_insufficient_pct": 18.49,
+        "ECE_conf_vs_gold_coverage": 0.2996
+      }
+    },
+    "paired": {
+      "maps_scripted_minus_naive_rag_em": {
+        "mean": 10.0,
+        "ci95": [
+          6.0,
+          14.5
+        ],
+        "p_le_0": 0.0
+      },
+      "maps_scripted_minus_naive_rag_f1": {
+        "mean": 11.16,
+        "ci95": [
+          6.85,
+          15.77
+        ],
+        "p_le_0": 0.0
+      },
+      "orch_rules_minus_maps_scripted_em": {
+        "mean": 0.5,
+        "ci95": [
+          -3.5,
+          4.5
+        ],
+        "p_le_0": 0.4534
+      },
+      "orch_rules_minus_maps_scripted_f1": {
+        "mean": 0.44,
+        "ci95": [
+          -3.31,
+          4.18
+        ],
+        "p_le_0": 0.4133
+      }
+    }
+  }
+}
