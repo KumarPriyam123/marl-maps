@@ -1,0 +1,877 @@
+id,query,gain,dup,covered_after,had_missing,pred,gold,f1,em,set,src
+5a8de99d5542995a26add44b,Are Sherwood Stewart and Ekaterina Makarova from the,0.0,True,False,True,No,no,1.0,1.0,E1,1.5B_untrained
+5ae752585542997b22f6a6ce,What was the date of the UK general,1.0,False,True,True,5 July 1945,5 July 1945,1.0,1.0,E1,1.5B_untrained
+5ab3da46554299753aec59c9,What indoor arena hosted SummerSlam 2006 and opened,0.0,False,False,True,TD Banknorth Garden,TD Garden,0.8,0.0,E1,1.5B_untrained
+5ab433675542991751b4d6e6,Where do the Indiana Pacers play their home,1.0,False,True,True,Bankers Life Fieldhouse,Bankers Life Fieldhouse,1.0,1.0,E1,1.5B_untrained
+5a89ef145542992e4fca8493,What pageant did Halima Aden win,0.0,True,False,True,Miss Minnesota USA pageant,Miss Minnesota USA,0.8571428571428571,0.0,E1,1.5B_untrained
+5ab273be554299722f9b4d30,How long did the dynasty that Gustav Adolf,0.0,False,False,True,1945,from 1826 to 1918,0.0,0.0,E1,1.5B_untrained
+5adee4055542995ec70e8f3d,Which song a collaboration with the band Alabama,0.0,False,False,True,Bye Bye Bye,(God Must Have Spent) A Little More Time on You,0.0,0.0,E1,1.5B_untrained
+5abace3455429901930fa8c0,What city did the founder of the school,0.0,False,False,True,Frankfurt,St Albans,0.0,0.0,E1,1.5B_untrained
+5ae213bf554299495565d9e6,What island is the country in which Malcolm,0.0,False,False,True,Wales,the island of Great Britain,0.0,0.0,E1,1.5B_untrained
+5ae1109455429901ffe4ad42,South Channel Fort is located 6 km north,0.0,False,False,True,Port Phillip,Port Phillip,1.0,1.0,E1,1.5B_untrained
+5a86a5295542991e77181677,Who is Daron Malakian and what is his,0.0,False,False,True,Serj Tankian,Serj Tankian,1.0,1.0,E1,1.5B_untrained
+5a7a4b8f5542990783324efb,What year did C F Martin Company establish,1.0,False,True,True,1833,1833,1.0,1.0,E1,1.5B_untrained
+5a760c3f5542994ccc91869e,A On which former site was the Alon,0.0,False,False,True,the former New Frontier Hotel and Casino,New Frontier Hotel and Casino,0.9090909090909091,0.0,E1,1.5B_untrained
+5a8a04e35542992d82986e51,Robert Boyle was born in Lismore County Waterford,1.0,False,True,True,County Waterford,Ireland,0.0,0.0,E1,1.5B_untrained
+5ae6507e55429929b0807b2d,What neighborhood in New York City has a,0.0,False,False,True,Williamsburg,Chelsea neighborhood,0.0,0.0,E1,1.5B_untrained
+5abdd64a5542991f66106060,Who plays as a winger for what club,0.0,False,False,True,Watford,Leicester City,0.0,0.0,E1,1.5B_untrained
+5a884f4155429938390d3f28,Which artist is one half the hip hop,0.0,False,False,True,Ant,Slug,0.0,0.0,E1,1.5B_untrained
+5ab57e5b554299488d4d99ba,What is the name of the lowest road,0.0,False,False,True,A1101 road,A1101 road,1.0,1.0,E1,1.5B_untrained
+5a8e58cb5542990e94052ae0,Simone Kirby Irish dramatic television series RT Television,0.0,False,False,True,Love/Hate,Love/Hate,1.0,1.0,E1,1.5B_untrained
+5a804ffe5542996402f6a4b1,What character did Paul L Smith play opposite,0.0,False,False,True,Bluto,Bluto,1.0,1.0,E1,1.5B_untrained
+5a78eda255429970f5fffddb,Who was born earlier Dario Fo or Robert,0.5,False,False,True,Dario Fo,Dario Fo,1.0,1.0,E1,1.5B_untrained
+5ae7eb925542994a481bbe26,Who directed the 2004 Hong Kong romantic drama,0.0,False,False,True,Wong Kar-wai,Wong Kar-wai,1.0,1.0,E1,1.5B_untrained
+5ab43b5255429942dd415ef2,What was Victor Banjo's rank and role in,0.0,False,False,True,Colonel,Colonel,1.0,1.0,E1,1.5B_untrained
+5ae0b21255429924de1b712e,Which comedian appeared in a series created by,0.0,False,False,True,Ben O'Brien,Karen Maruyama,0.0,0.0,E1,1.5B_untrained
+5a76610f5542992db947377c,What was the nickname of the family that,1.0,False,True,True,Sassoon family,Rothschilds of the East,0.0,0.0,E1,1.5B_untrained
+5ab2bfbd554299545a2cfa50,How large is the Delamere Forest near the,0.0,False,False,True,972 ha,972 ha,1.0,1.0,E1,1.5B_untrained
+5a850fa75542997b5ce3ff9e,Are One Hundred and One Dalmatians and Fun,0.0,False,False,True,No,yes,0.0,0.0,E1,1.5B_untrained
+5a7b2685554299042af8f713,Who was born first John Woo or Joseph,0.0,False,False,True,Joseph Santley,Joseph Mansfield Santley,0.8,0.0,E1,1.5B_untrained
+5abb067255429966062416c7,What is this produced by Willett distillery which,0.0,False,False,True,Willett Pot Still Reserve Bourbon,Noah's Mill,0.0,0.0,E1,1.5B_untrained
+5ab3041d55429976abd1bc24,What battle did Fran ois de Fleury participate,0.0,False,False,True,Siege of Fort Mifflin,Battle of Monmouth,0.28571428571428575,0.0,E1,1.5B_untrained
+5abfed5b5542994516f4552c,Which person is Jon Flanagan,0.0,False,False,True,Jon Flanagan,Daniel Sturridge,0.0,0.0,E1,1.5B_untrained
+5a85c5cb5542997b5ce4002b,Have both Patterson Companies Inc Marathon Petroleum Corporation,1.0,False,True,True,yes,no,0.0,0.0,E1,1.5B_untrained
+5a7bdc7e5542997c3ec97296,What city and state was J C Ewing,0.0,False,False,True,Texas,"Waco, Texas.",0.6666666666666666,0.0,E1,1.5B_untrained
+5ae33ac15542992e3233c327,Russ Meyer and Lance Rocke appeared in The,0.0,False,False,True,Neil Simon,Roger Ebert,0.0,0.0,E1,1.5B_untrained
+5a7f5e675542995d8a8dde4a,How many decades did Samuel Billy Wilder's career,1.0,False,True,True,five,five,1.0,1.0,E1,1.5B_untrained
+5ab48e015542991779162cda,What New Hampshire county did Benjamin Labaree the,1.0,False,True,True,Sullivan County,Sullivan County,1.0,1.0,E1,1.5B_untrained
+5a850cb25542994c784ddae5,Savage Grace is based on the dysfunctional allegedly,0.0,False,False,True,Barbara Daly Baekeland,Barbara Daly Baekeland,1.0,1.0,E1,1.5B_untrained
+5a7d24dc55429907fabef0b7,What county does the Highland Park and Lake,0.0,False,False,True,King,Pierce County,0.0,0.0,E1,1.5B_untrained
+5a778e745542995d831811c8,What ghost train was located in 1962 World's,1.0,False,True,True,Flight to Mars,Flight to Mars,1.0,1.0,E1,1.5B_untrained
+5a7a511e5542994f819ef1c2,Band that wrote Uncle Tom's Cabin when were,0.0,False,False,True,1991,1984,0.0,0.0,E1,1.5B_untrained
+5ae4d62a55429913cc204523,Where does the Colorado River originate,1.0,False,True,True,central Rocky Mountains,the central Rocky Mountains,1.0,1.0,E1,1.5B_untrained
+5a8458cb55429933447460e9,Which actor starred in both Dr Cabbie and,0.0,False,False,True,Simon Helberg,Kunal Nayyar,0.0,0.0,E1,1.5B_untrained
+5ac088095542992a796ded37,Do Sherman Alexie and Kyle Schickner explore sexual,1.0,False,True,True,No,no,1.0,1.0,E1,1.5B_untrained
+5ab6a8a855429953192ad355,What institute in Hannover Germany does Bruce Allen,0.0,False,False,True,Max Planck Institute for Gravitational Physics,Max Planck Institute for Gravitational Physics,1.0,1.0,E1,1.5B_untrained
+5ade587c5542992fa25da75e,Are Solandra and Petrophytum in the same genus,1.0,False,True,True,Yes,no,0.0,0.0,E1,1.5B_untrained
+5a83412855429954d2e2ec6c,Johan Bj rnsson Printz was the governor of,0.0,False,False,True,the Thirty Years' War,Thirty Years' War,1.0,1.0,E1,1.5B_untrained
+5a85e07f5542994775f60677,What nationality is the composer of In the,0.0,False,False,True,Norwegian,Norwegian,1.0,1.0,E1,1.5B_untrained
+5ae7e56255429952e35ea9d3,Christian rock band Relient K released a free,0.0,False,False,True,Josh Freese,The White Stripes,0.0,0.0,E1,1.5B_untrained
+5ae168495542997b2ef7d1db,What 5th century British people originally used the,1.0,False,True,True,Celtic Britons,Anglo-Saxons,0.0,0.0,E1,1.5B_untrained
+5ae214d35542994d89d5b334,Who created the Nickelodeon sitcom that Tanya Chisholm,0.0,False,False,True,Kathleen Madigan,Scott Fellows,0.0,0.0,E1,1.5B_untrained
+5ac50bc15542996feb3fe9e1,Who preceeded the namesake of Ches Crist as,0.0,False,False,True,Cheves Walling,James A. Garfield,0.0,0.0,E1,1.5B_untrained
+5ae768965542991e8301cc8f,Tennessee Williams,0.0,False,False,True,Tennessee Williams,Tennessee Williams,1.0,1.0,E1,1.5B_untrained
+5ae80a61554299540e5a56fd,Which successful counter terrorist hostage rescue mission had,1.0,False,True,True,Operation Entebbe,Operation Entebbe,1.0,1.0,E1,1.5B_untrained
+5ab7b1cd5542992aa3b8c849,What was the population of Kansas in 2010,1.0,False,True,True,"9,984","9,984",1.0,1.0,E1,1.5B_untrained
+5ae7da225542993210983f94,What is the birthdate of Terence Mncedisi Nombembe,0.0,False,False,True,30 September 1961,26 May 1960,0.0,0.0,E1,1.5B_untrained
+5ae3f1165542995ad6573cb6,Which company publishes the academic journal of contemporary,0.0,False,False,True,Elsevier,MIT Press,0.0,0.0,E1,1.5B_untrained
+5ac01f885542990832d3a1f7,How far north from Salzburg is the Austrian,0.0,False,False,True,33 km,33 km,1.0,1.0,E1,1.5B_untrained
+5ab3ac83554299753aec5984,What city's suburbs was Julia Margaret Guerin Halloran,0.0,False,False,True,Williamstown,Melbourne,0.0,0.0,E1,1.5B_untrained
+5a8c6c33554299653c1aa061,Coober Pedy Airport was used in a game,0.0,False,False,True,two or more players,Ultimate Edition players,0.28571428571428575,0.0,E1,1.5B_untrained
+5ae7aa1655429952e35ea9ae,Two Pints of Lager and a Packet of,0.0,False,False,True,"Will Mellor was a character in the sitcom ""Two Pints of Lager and a Packet of Crisps"".",England,0.0,0.0,E1,1.5B_untrained
+5a7d1d44554299452d57bafb,In Marge We Trust guest starred an actor,0.0,False,False,True,1954,1946,0.0,0.0,E1,1.5B_untrained
+5ae4b83f5542995dadf243cf,Which holiday song was released as a cover,0.0,False,False,True,Christmas Wrapping,Christmas Wrapping,1.0,1.0,E1,1.5B_untrained
+5a8e8b8e5542990e94052b45,Dennis Frank Wise born 16 December 1966 is,0.0,False,False,True,Newcastle United,Newcastle United Football Club,0.6666666666666666,0.0,E1,1.5B_untrained
+5ae6ac1355429908198fa675,What was the BCS title game in which,1.0,False,True,True,2003 Sugar Bowl,2004 Nokia Sugar Bowl,0.5714285714285715,0.0,E1,1.5B_untrained
+5ade2dbe554299728e26c662,Mercy Drive created entrance themes for the actor,0.0,False,False,True,WWE,WWE,1.0,1.0,E1,1.5B_untrained
+5a89e1975542992e4fca8432,What did the man whose cabinet Thomas Walsh,0.0,False,False,True,Agriculture,Constitution of Ireland,0.0,0.0,E1,1.5B_untrained
+5a8bb4fb5542996e8ac889ed,Of what origin is the singer of the,0.0,False,False,True,British,Sri Lankan Tamil origin,0.0,0.0,E1,1.5B_untrained
+5a83176455429954d2e2ec15,Are there any other documentaries besides Protected and,1.0,False,True,True,No,yes,0.0,0.0,E1,1.5B_untrained
+5a84a70d5542997175ce1f13,Who did the singer of All Gold Everything,0.0,False,False,True,Goldenrod Records,Def Jam Recordings,0.0,0.0,E1,1.5B_untrained
+5ae426785542996836b02c45,What alternative metal band based in Atlanta Georgia,0.0,False,False,True,Janus,Sevendust,0.0,0.0,E1,1.5B_untrained
+5ae79ed75542993210983eb7,What is the name of the country variety,0.0,False,False,True,The Voice,"""Hee Haw""",0.0,0.0,E1,1.5B_untrained
+5a90c6465542995651fb51e5,Oscar Wilde,0.0,False,False,True,Oscar Wilde,J. M. Barrie,0.0,0.0,E1,1.5B_untrained
+5abb93a75542993f40c73b3e,Michigan Assembly Plant was built on the site,0.0,False,False,True,Wayne,Auburn Hills,0.0,0.0,E1,1.5B_untrained
+5ac2cda0554299657fa2906e,Did Charleston Hughes play college football for a,0.0,False,False,True,public,a private university,0.0,0.0,E1,1.5B_untrained
+5abd24215542996e802b472d,6th was a regiment at the battle that,0.0,False,False,True,Charles II,King James II,0.4,0.0,E1,1.5B_untrained
+5a779d2d5542992a6e59df27,who did Hillary Rodham Clinton run against in,0.0,False,False,True,Rick Lazio,John Spencer,0.0,0.0,E1,1.5B_untrained
+5abe8bdc55429976d4830b65,What was the name of the general assembly,0.0,False,False,True,Diet or general assembly,"A convocation (from the Latin ""convocare"" meaning ""to call/come together"",",0.0,0.0,E1,1.5B_untrained
+5a72217455429971e9dc92b1,What video game magazine was a part subsidiary,0.5,False,False,True,GamePro,GamePro,1.0,1.0,E1,1.5B_untrained
+5a907f5855429916514e74e1,Between Romesh Ranganathan and Ben Miller who has,1.0,False,True,True,Ben Miller,Ben Miller,1.0,1.0,E1,1.5B_untrained
+5a7ba109554299294a54aa38,Who directed the film Herr Puntila and His,0.0,False,False,True,Alberto Cavalcanti,Michael Curtiz,0.0,0.0,E1,1.5B_untrained
+5a83a119554299334474605e,Which League One football club did Albert Broome,0.0,True,False,True,Manchester United,Oldham Athletic Association,0.0,0.0,E1,1.5B_untrained
+5a8c7447554299585d9e36ae,What singer who originally sang God Made Love,0.0,False,False,True,Mel McDaniel,Don Williams,0.0,0.0,E1,1.5B_untrained
+5a7523e55542993748c897ca,Who is older Mike Patton or Eric Bazilian,0.0,True,False,True,Mike Patton,Eric M. Bazilian,0.0,0.0,E1,1.5B_untrained
+5ae7c5365542993210983f41,Sugarloaf Regional Airport serves the town of Carrabassett,1.0,False,True,True,Carrabassett,Carrabassett Valley,0.6666666666666666,0.0,E1,1.5B_untrained
+5ae0e3cb5542993d6555ec83,When was Sherry Hormann born,0.0,False,False,True,20 April 1960,"July 23, 1968",0.0,0.0,E1,1.5B_untrained
+5ac54e645542993e66e822e9,In which war did Operation VICTOR V a,0.0,False,False,True,World War II,World War II,1.0,1.0,E1,1.5B_untrained
+5ae0429e55429924de1b707f,What year was S Aishwarya's grandmother born in,0.0,True,False,True,1941,1934,0.0,0.0,E1,1.5B_untrained
+5ae17cc555429920d52343e8,when was doc rivers hired as the head,1.0,False,True,True,"May 8, 1951","October 13, 1961",0.0,0.0,E1,1.5B_untrained
+5ae4c32355429960a22e01c2,What fighter profiled in Facing Ali was considered,0.0,False,False,True,Marion Wilson,George Chuvalo,0.0,0.0,E1,1.5B_untrained
+5ae1a7e75542997f29b3c0e8,What college did The 1992 San Diego State,0.0,False,False,True,San Diego State University,San Diego State University,1.0,1.0,E1,1.5B_untrained
+5ae23c5b5542992decbdcc9a,What is the location where John Preston Hings,0.0,False,False,True,Leicestershire,River Soar,0.0,0.0,E1,1.5B_untrained
+5a85f0de5542991dd0999ecd,What famous stadium did both the San Francisco,0.0,False,False,True,Candlestick Park,Candlestick Park,1.0,1.0,E1,1.5B_untrained
+5a770b0b5542993569682cab,What village named after a railroad attorney is,0.0,False,False,True,Altamont,Voorheesville,0.0,0.0,E1,1.5B_untrained
+5aba8e395542994dbf019940,What satire on war and bureaucracy was written,0.0,False,False,True,Bureaucracy,Catch-22,0.0,0.0,E1,1.5B_untrained
+5a8db49b5542994ba4e3dd14,Jim Bambra has contributed to Bambi a Life,0.0,False,False,True,Warhammer,Fighting Fantasy,0.0,0.0,E1,1.5B_untrained
+5ae6e60c5542991bbc976199,Which two prep schools are located in the,0.0,False,False,True,Saint Charles Preparatory School and Hansberry College Prep,"Groton School, founded in 1884, and Lawrence Academy at Groton",0.22222222222222224,0.0,E1,1.5B_untrained
+5a7773a65542997042120a50,Which MacArthur Fellow released an album on the,0.0,False,False,True,Vijay Iyer,Vijay Iyer,1.0,1.0,E1,1.5B_untrained
+5ae8238755429952e35eaa50,What actress and singer is overdubbed in German,0.0,False,False,True,Emma Watson,Selena Gomez,0.0,0.0,E1,1.5B_untrained
+5ab960f2554299743d22eb22,Country that covers how much of the continent's,1.0,False,True,True,47.3%,47.3%,1.0,1.0,E1,1.5B_untrained
+5ab916ac55429919ba4e23a2,Psilogramma wernerbacki is known from the Kingdom of,0.5,False,False,True,over several smaller islands,900,0.0,0.0,E1,1.5B_untrained
+5a72aa405542994cef4bc3c5,What is the name of the former bay,0.0,False,False,True,Bay of Fundy,Seac Pai Bay has been reclaimed from the sea as part of Cotai.,0.26666666666666666,0.0,E1,1.5B_untrained
+5abe737755429965af743f0f,What kind of art does Simon Brown and,1.0,False,True,True,Choral music,music,0.6666666666666666,0.0,E1,1.5B_untrained
+5a7646fc5542992d0ec06088,Which university in Hertfordshire offers a Doctor of,1.0,False,True,True,University of Hertfordshire,University of Hertfordshire,1.0,1.0,E1,1.5B_untrained
+5ade12555542997545bbbe3e,What month was the album containing the song,0.0,False,False,True,1975,September,0.0,0.0,E1,1.5B_untrained
+5a8b3cd55542997f31a41cbf,What is the nickname of the current president,0.0,False,False,True,The nickname of the current president of Rebels MC is not mentioned in the given text.,The Maltese Falcon,0.0,0.0,E1,1.5B_untrained
+5a7f61745542994857a76714,UHF number for Hattiesburg show airing Oct 3,0.0,False,False,True,UHF channel 22,UHF channel 22,1.0,1.0,E1,1.5B_untrained
+5ab1fc41554299340b525454,Which country represents the France national football team,1.0,False,True,True,France,France,1.0,1.0,E1,1.5B_untrained
+5ae0dc47554299603e418480,What is the origin and history of The,0.0,False,False,True,"An American action-comedy television series that aired on CBS from January 26, 1979, to",series,0.14285714285714288,0.0,E1,1.5B_untrained
+5a87c0a95542997e5c09a563,Phillip Buckle Paul van Dyk and an Australian,0.0,False,False,True,Lydia Denker,composer,0.0,0.0,E1,1.5B_untrained
+5ae204a0554299234fd0439c,What title was the politician who was styled,0.0,False,False,True,Baronet,Viscount Weymouth,0.0,0.0,E1,1.5B_untrained
+5a81cf3d55429926c1cdad86,What is the member of the South Korean,1.0,False,True,True,Kim Dong-jun,Kim Dong-jun,1.0,1.0,E1,1.5B_untrained
+5a8a1eb755429970aeb70261,Who directed the 2013 Canadian romantic comedy film,0.0,False,False,True,Joel and Ethan Coen,Michael Dowse,0.0,0.0,E1,1.5B_untrained
+5abb9de2554299642a094aca,What is the real name of the rapper,0.0,False,False,True,Lil' Kim,Kimberly Denise Jones,0.0,0.0,E1,1.5B_untrained
+5abf17145542997ec76fd3b5,Which 100 list compilation is this company where,0.0,False,False,True,NME: The Cool List 2005,Fortune 100,0.0,0.0,E1,1.5B_untrained
+5ae3761d5542990afbd1e160,What are the similarities between Bewsey and Beamont,1.0,False,True,True,William Beamont,Warrington,0.0,0.0,E1,1.5B_untrained
+5a89c2a15542993b751ca991,Where did Anthony Eden serve as prime minister,1.0,False,True,True,United Kingdom,United Kingdom,1.0,1.0,E1,1.5B_untrained
+5abfc4415542993fe9a41e46,Which American composer created the musical 21 Chump,0.0,False,False,True,Lin-Manuel Miranda,Lin-Manuel Miranda,1.0,1.0,E1,1.5B_untrained
+5adfcf2955429925eb1afa9d,Which actress in Liebestraum is also a visual,0.0,True,False,True,Silvia Pinal,"Marilyn Pauline ""Kim"" Novak",0.0,0.0,E1,1.5B_untrained
+5ae122f55542997b2ef7d0f6,Who was the 38th President of the United,1.0,False,True,True,Gerald Ford,Gerald Ford,1.0,1.0,E1,1.5B_untrained
+5adcc6015542990d50227d0c,Have Humphrey Jennings and Ritwik Ghatak both been,0.0,False,False,True,Yes,no,0.0,0.0,E1,1.5B_untrained
+5abffa135542994516f45565,Who wrote the Beatles song A Hard Day's,1.0,False,True,True,John Lennon,Paul McCartney,0.0,0.0,E1,1.5B_untrained
+5ab709b45542992aa3b8c78f,Michael Winslow,0.0,False,False,True,Michael Winslow,Richard Dawson Kiel,0.0,0.0,E1,1.5B_untrained
+5a7503695542993748c89799,Robert Lowther was an English Member of Parliament,1.0,True,True,True,James Lowther,"James Lowther, 1st Earl of Lonsdale",0.5,0.0,E1,1.5B_untrained
+5adc9b16554299438c868e0f,Do both Jack Finney and Thomas Keneally have,0.5,False,False,True,No,no,1.0,1.0,E1,1.5B_untrained
+5a740a655542993a88ae2eee,What song did Grace Jones release in 1983,1.0,False,True,True,My Jamaican Guy,Living My Life,0.3333333333333333,0.0,E1,1.5B_untrained
+5a75d7a85542994ccc918637,What Canadian actor born April 19 1981 starred,0.0,False,False,True,Curtis Harrison,Hayden Christensen,0.0,0.0,E1,1.5B_untrained
+5a77bc455542995d8318128c,What month did the artist who recorded the,0.0,False,False,True,October,February,0.0,0.0,E1,1.5B_untrained
+5abc732c554299700f9d78ce,What significant contributions did Achsa W Sprague make,0.0,False,False,True,Primarily a medium and trance lecturer,Spiritualism,0.0,0.0,E1,1.5B_untrained
+5ac504f95542996feb3fe9d0,Nintendo,0.0,False,False,True,Nintendo,Nintendo,1.0,1.0,E1,1.5B_untrained
+5a7a36de5542994f819ef15a,What city is the network that Major Dad,0.0,True,False,True,New York City,New York City,1.0,1.0,E1,1.5B_untrained
+5a7f9e605542994857a76780,When did the 18th episode of the 13th,0.0,False,False,True,"May 22, 2002","April 28, 2002",0.3333333333333333,0.0,E1,1.5B_untrained
+5ac2d97d554299677310262f,What province is the Pashto cinema located in,0.0,True,False,True,Khyber Pakhtunkhwa,Khyber Pakhtunkhwa,1.0,1.0,E1,1.5B_untrained
+5a75426555429916b01642c7,What Bollywood film features a character who excels,0.0,False,False,True,Galgale Nighale,Dharmatama,0.0,0.0,E1,1.5B_untrained
+5ac4bc9a554299076e296dec,What University was John Appleton aka John de,0.0,False,False,True,"University College, Oxford","was a Master of University College, Oxford, England.",0.6,0.0,E1,1.5B_untrained
+5adfedfa554299025d62a38b,Who directed the French American film Taken that,1.0,False,True,True,Pierre Morel,Pierre Morel,1.0,1.0,E1,1.5B_untrained
+5a778fe255429949eeb29ef9,Who died first Robert Poley or Christopher Marlowe,1.0,False,True,True,Christopher Marlowe,Christopher Marlowe,1.0,1.0,E1,1.5B_untrained
+5a793cfb5542994bb9456fc8,1961,0.0,False,False,True,1961,1980,0.0,0.0,E1,1.5B_untrained
+5ae353435542992e3233c37d,What non profit organization did one of the,0.0,False,False,True,Richard and Helen DeVos Foundation,Copenhagen Suborbitals,0.0,0.0,E1,1.5B_untrained
+5a872e8e5542991e7718170c,What has Daniel Greene created for clients including,0.0,False,False,True,paintings and pastels,portrait,0.0,0.0,E2,1.5B_untrained
+5a7265825542997f827839a3,What Olympic medal did Jermain Mackey win in,0.0,False,False,True,Bronze,a silver medal,0.0,0.0,E2,1.5B_untrained
+5abe2b0155429976d4830a83,Max Hoffmann along with Hindenburg and Ludendorff masterminded,0.0,False,True,False,1914,26–30 August 1914,0.5,0.0,E2,1.5B_untrained
+5ae135fb55429920d523431f,Scott Workman was an American stuntman and actor,0.0,False,False,True,The X-Files,WB Television Network,0.0,0.0,E2,1.5B_untrained
+5a8f0a01554299458435d539,What city did Forevermore the band who released,0.0,False,True,False,Indianapolis,Indianapolis,1.0,1.0,E2,1.5B_untrained
+5ab40e1c5542996a3a969f00,Lawerence Turman produced Short Circuit in 1986 with,1.0,False,True,True,1988,1988,1.0,1.0,E2,1.5B_untrained
+5ab28c89554299340b525513,What was the rank higher than Obergruppenf hrer,0.0,False,True,False,Gruppenführer,Reichsführer-SS,0.0,0.0,E2,1.5B_untrained
+5a87e3d65542993e715abff8,Game of Thrones,0.0,False,True,False,Game of Thrones,Game of Thrones,1.0,1.0,E2,1.5B_untrained
+5addfc425542997dc7907101,Which driver born on 17 September 1996 currently,0.0,False,False,True,Michael James Lewis,Esteban Ocon,0.0,0.0,E2,1.5B_untrained
+5ab576dc5542997d4ad1f13d,What music style did Radha Jayalakshmi and the,0.0,False,True,False,Carnatic music,Carnatic music,1.0,1.0,E2,1.5B_untrained
+5a8d8eb5554299068b959d3a,Which opera has more acts Parsifal or Manon,1.0,True,True,True,Parsifal,Parsifal,1.0,1.0,E2,1.5B_untrained
+5ac5101455429924173fb592,What is the name of the number one,0.0,False,False,True,Be the One,Every Rose Has Its Thorn,0.0,0.0,E2,1.5B_untrained
+5ab91f98554299753720f70d,What song by Coolio is on his Fantiastic,0.0,False,True,False,Fantastic Voyage,Gangsta's Paradise,0.0,0.0,E2,1.5B_untrained
+5ae6371155429929b0807af1,Which composer composed original music for Operation Amsterdam,0.0,False,False,True,Philip Green,Polka,0.0,0.0,E2,1.5B_untrained
+5ac1bff05542994ab5c67dfc,Who was the eldest brother of the Mexican,0.0,False,False,True,Francisco Rafael Arellano Félix,Francisco Rafael Arellano Félix,1.0,1.0,E2,1.5B_untrained
+5a7c2f145542996dd594b8b4,Jewel Staite,0.0,False,False,True,Jason Bourque,McG,0.0,0.0,E2,1.5B_untrained
+5a81e4e8554299676cceb140,University where Rick Stansbury Richard Williams' former assistant,1.0,False,True,True,University of Tulsa,Campbellsville University,0.4,0.0,E2,1.5B_untrained
+5a83041355429966c78a6ae8,What roles did Ralph Bakshi and B la,0.0,False,True,False,director,film director,0.6666666666666666,0.0,E2,1.5B_untrained
+5ab7fa7b5542992aa3b8c897,What genre of music did Billie Joe Armstrong,0.0,False,False,True,punk rock,punk rock,1.0,1.0,E2,1.5B_untrained
+5a8cee9b554299441c6b9f87,Which appliance company headquartered in Louisville Kentucky does,0.0,False,True,False,Hotpoint,GE Appliances,0.0,0.0,E2,1.5B_untrained
+5ab67bf255429954757d32f5,PISCES was developed by the company headquartered in,0.0,True,False,True,Berkeley,"McLean, Virginia",0.0,0.0,E2,1.5B_untrained
+5a77d65055429949eeb29f7b,How many species of Hawaiian hibiscus have white,0.0,False,True,False,7,250,0.0,0.0,E2,1.5B_untrained
+5a7f3f7c55429934daa2fd45,Which band has more members The Futureheads or,1.0,False,True,True,The Futureheads,The Futureheads,1.0,1.0,E2,1.5B_untrained
+5ade811e5542992fa25da7a0,What year was Herman Melville's novel Moby Dick,0.0,False,True,False,1851,1851,1.0,1.0,E2,1.5B_untrained
+5a7633ff5542994ccc918712,When was Ronald Ayers born,0.0,False,False,True,1932,1932,1.0,1.0,E2,1.5B_untrained
+5a88a1475542997e5c09a646,Which genus has more species Salvia or Arachis,0.0,True,True,False,Salvia,Salvia,1.0,1.0,E2,1.5B_untrained
+5a8887a055429938390d3f72,Which reservation is located in Hill and Chouteau,0.0,False,True,False,Rocky Boy Reservation,Rocky Boy's Indian Reservation,0.5714285714285715,0.0,E2,1.5B_untrained
+5a86399e5542994775f60733,Director of Jihad A Story of the Others,0.0,False,False,True,Norwegian,Punjabi/Pashtun,0.0,0.0,E2,1.5B_untrained
+5a84c0765542991dd0999dd9,Who sang the main vocals for Set the,0.0,False,False,True,Martha Wainwright,Gary Lightbody,0.0,0.0,E2,1.5B_untrained
+5adf17f95542995ec70e8f6c,Country of birth for Chris Hemsworth one of,0.0,False,True,False,Australia,Australian,0.0,0.0,E2,1.5B_untrained
+5a7f5ab65542995d8a8dde43,Cheek to cheek tour played shows at the,0.0,False,False,True,"Las Vegas, Nevada",Cosmopolitan of Las Vegas,0.5714285714285715,0.0,E2,1.5B_untrained
+5a8cec13554299441c6b9f7d,Do the operas Vanessa and Le roi malgr,0.0,False,True,False,No,yes,0.0,0.0,E2,1.5B_untrained
+5abce9ca554299114383a193,What was Adam Owen's profession after retiring from,0.0,False,True,False,racehorse breeder and owner,racehorse breeder and owner,1.0,1.0,E2,1.5B_untrained
+5a7a1b845542990783324e5f,Where was the only European Cup Final in,0.0,False,False,True,"Feijenoord Stadion in Rotterdam, Netherlands",Stadio Olimpico,0.0,0.0,E2,1.5B_untrained
+5a7363ec5542991f29ee2dd7,USS Tortuga was named after the Dry Tortugas,0.0,False,False,True,Key West,Key West,1.0,1.0,E2,1.5B_untrained
+5a77321355429972597f1493,Which documentary The Agronomist or American Scary was,0.0,True,True,False,American Scary,The Agronomist,0.0,0.0,E2,1.5B_untrained
+5ab5cd4f554299488d4d9a31,What band did Eric Church the producer of,0.0,False,False,True,Metal Church,In Pursuit,0.0,0.0,E2,1.5B_untrained
+5a83411655429966c78a6b5d,Who created the NBC sitcom Superstore,1.0,False,True,True,Justin Spitzer,Justin Spitzer,1.0,1.0,E2,1.5B_untrained
+5a8d50fb55429941ae14dfa2,How many miles away is the ghost town,0.0,False,True,False,12,75 mi,0.0,0.0,E2,1.5B_untrained
+5ae80919554299540e5a56f6,Who characterized Isabella Kelly's birthplace as one of,0.0,False,False,True,Ferdinand and Isabella,The Changing Scottish Landscape,0.0,0.0,E2,1.5B_untrained
+5ab2b8fe5542991669774070,Which American car rental company is also a,0.5,False,False,True,Enterprise Rent-A-Car,Budget Rent a Car,0.0,0.0,E2,1.5B_untrained
+5a8d0efd5542994ba4e3dbc6,What city did Lev Oborin win the competition,0.0,False,False,True,Moscow,"Warsaw, Poland",0.0,0.0,E2,1.5B_untrained
+5a7125b95542994082a3e5d5,Which town has a greater population as of,0.0,False,True,False,Gardnerville,Gardnerville,1.0,1.0,E2,1.5B_untrained
+5a8a6a2155429930ff3c0dd0,Which tennis player Ken Flach or Lucie af,1.0,False,True,True,Lucie Šafářová,Kenneth Eliot Flach,0.0,0.0,E2,1.5B_untrained
+5ae834e95542997ec272776a,What song by Jimmy Webb about a highwayman,1.0,False,True,True,Highwayman,Highwayman,1.0,1.0,E2,1.5B_untrained
+5a7ab51055429927d897bef6,What year was Jan Bull born,0.0,False,False,True,1927,1961,0.0,0.0,E2,1.5B_untrained
+5ae250b45542996483e64977,Job of Newt Gingrich prior to producing Nine,1.0,False,True,True,Communications director,former Speaker of the U.S. House of Representatives,0.0,0.0,E2,1.5B_untrained
+5a733c925542991f9a20c6b7,The Polar Bear and Daiquiri are both examples,0.0,True,False,True,cocktail,cocktails,0.0,0.0,E2,1.5B_untrained
+5a7e5ec25542991319bc947a,John Newcombe or Kv ta Peschke,0.0,False,True,False,Květa Peschke,Květa Peschke,1.0,1.0,E2,1.5B_untrained
+5adbf2805542994650320c15,when does the role of William Vere Reeve,0.0,False,False,True,1943,The High Sheriff changes every March.,0.0,0.0,E2,1.5B_untrained
+5a845e9055429933447460ec,Which team does the player named Zylan Cheatham,0.0,False,False,True,San Diego State,Sacramento Kings,0.0,0.0,E2,1.5B_untrained
+5a820c0c554299676cceb1fc,What is the name of the company that,0.0,False,False,True,TJX Companies,All Nippon,0.0,0.0,E2,1.5B_untrained
+5a88bd1d554299206df2b357,When did the character on Grey's Anatomy played,0.0,False,True,False,"Season six, episode 5, ""Invasion""","season six, episode 5, ""Invasion""",1.0,1.0,E2,1.5B_untrained
+5a79332555429907847277e7,Who died first Bryce Courtenay or Juan Carlos,0.0,False,True,False,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,E2,1.5B_untrained
+5abd516a5542992ac4f3825c,What religion is the composer for India's first,0.0,False,False,True,Hindu,Hindi,0.0,0.0,E2,1.5B_untrained
+5add26075542994ed6169c9c,What public radio network in New York has,1.0,False,True,True,WAMC,WAMC,1.0,1.0,E2,1.5B_untrained
+5a901f735542990a98493591,How many wives did Lollia Paulina have,0.0,False,False,True,six,second,0.0,0.0,E2,1.5B_untrained
+5ab840e255429934fafe6d3b,What movement was Herbert Blaize a leader of,0.0,False,False,True,black liberation,New Jewel Movement,0.0,0.0,E2,1.5B_untrained
+5ac3d4b6554299204fd21e93,Which magazine is more focused on the adult,0.0,False,True,False,Paper,Paper,1.0,1.0,E2,1.5B_untrained
+5a73b2cb55429908901be31a,Who wrote The Story of the Trapp Family,0.0,False,True,False,Alix Williamson,Maria von Trapp,0.0,0.0,E2,1.5B_untrained
+5ac29cf8554299218029dac2,Who is the American actress who performed Take,0.0,False,False,True,Shari Headley,Rowan Blanchard,0.0,0.0,E2,1.5B_untrained
+5ae686535542996d980e7bdc,The Black Belly of the Tarantula starred an,1.0,False,True,True,Ringo Starr,Ringo Starr,1.0,1.0,E2,1.5B_untrained
+5a8aa1685542992d82986f32,What dance academy did Jing Tian graduate from,0.0,False,True,False,Beijing Dance Academy,Beijing Dance Academy,1.0,1.0,E2,1.5B_untrained
+5a7d7deb5542995f4f402282,What band member of Darkthrone released Darkhorse and,0.0,False,False,True,Fenriz,Shifty Shellshock,0.0,0.0,E2,1.5B_untrained
+5a8c622a554299240d9c2142,Who wrote The Birthday of the World and,0.0,False,False,True,Ursula K. Le Guin,Ursula Kroeber Le Guin,0.75,0.0,E2,1.5B_untrained
+5a7b81715542997c3ec971d4,What award did Daniel Abraham the author of,0.0,False,False,True,CWA International Dagger,Hugo Award,0.0,0.0,E2,1.5B_untrained
+5ae0c29c5542993d6555ec46,What was the profession of the one who,0.0,False,False,True,Composer,"professional wrestler, actor, and hip hop musician",0.0,0.0,E2,1.5B_untrained
+5a7c290c5542990527d55468,Which U S state does Lawton Fort Sill,0.0,False,False,True,Oklahoma,Oklahoma,1.0,1.0,E2,1.5B_untrained
+5a876f785542993e715abf42,Which person William Blake Herron or John Carpenter,0.0,False,True,False,John Carpenter,"musician, editor and composer.",0.0,0.0,E2,1.5B_untrained
+5ae1e6d95542997283cd22c3,Who wrote the 2016 American action comedy film,0.0,False,False,True,Jordan Peele and Alex Rubens,Jordan Peele,0.5714285714285715,0.0,E2,1.5B_untrained
+5ae10df355429920d52342ac,Where was Dave Hughes born,0.0,False,True,False,Alice Springs,"Warrnambool, Victoria",0.0,0.0,E2,1.5B_untrained
+5ae4d8475542993aec5ec0e0,Which opera by William Shakespeare was based on,1.0,False,True,True,Giuseppe Verdi,Giuseppe Verdi,1.0,1.0,E2,1.5B_untrained
+5ab94cf0554299743d22eade,Naval Air Station Ellyson Field was an auxiliary,0.0,True,True,False,Pensacola,Warrington,0.0,0.0,E2,1.5B_untrained
+5ae479745542996836b02cb1,What is the name of the movie that,0.0,False,False,True,Hard Sell,Sex Drive,0.0,0.0,E2,1.5B_untrained
+5a852cd05542997b5ce3ffb0,The birthplace of George McCall Theal is a,0.0,False,False,True,Bay of Fundy,Bay of Fundy,1.0,1.0,E2,1.5B_untrained
+5a8babf05542996e8ac8899e,Whose native growing land is more south Beech,1.0,False,True,True,Beech,Daviesia,0.0,0.0,E2,1.5B_untrained
+5a82fcbd55429954d2e2ebe8,Tatiana Nikolayeva taught Maria Grinberg a Polish pianist,1.0,False,True,True,Jadwiga Szajna-Lewandowska,Maria Szraiber,0.0,0.0,E2,1.5B_untrained
+5a77c60255429967ab105285,Theory advanced by Emil Wolf in Progress in,0.0,False,True,False,"Diffraction, coherence properties of optical fields, spectroscopy of partially coherent radiation, and the theory of direct scattering and inverse",theory of direct scattering and inverse scattering,0.48,0.0,E2,1.5B_untrained
+5adf39ce5542995534e8c76d,What did Karan Kapoor's maternal grandfather deliver,0.0,True,False,True,thunderbolt,Shakespeare performances,0.0,0.0,E2,1.5B_untrained
+5ae694a15542991bbc976141,Why is Minister Pool important to Black Country,0.0,False,False,True,"Minister Pool is a reservoir located in the heart of the city of Lichfield, Staffordshire in the United Kingdom",defence of the Cathedral,0.1111111111111111,0.0,E2,1.5B_untrained
+5ae13bca55429901ffe4ae17,Which American singer songwriter toured with J P,0.0,False,False,True,Debbie Harry,Debbie Harry,1.0,1.0,E2,1.5B_untrained
+5a8a265b5542992d82986ecc,Between Frederick King Keller and Ian Schneider who,0.0,False,True,False,Ian Schneider,Frederick King Keller,0.0,0.0,E2,1.5B_untrained
+5a77121a5542994aec3b71db,Which 1970's film was released first Charley and,0.0,False,False,True,Charley and the Angel,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",0.10526315789473684,0.0,E2,1.5B_untrained
+5ae6911955429908198fa626,M F A starred the actress known for,0.0,False,False,True,Firefly,Mrs. Eastwood & Company,0.0,0.0,E2,1.5B_untrained
+5ae53de455429908b6326599,Paradise Creek is a tributary of which river,0.0,True,False,True,Missouri River,Delaware River,0.5,0.0,E2,1.5B_untrained
+5a813b6f55429903bc27b951,What tribe was the Handleyomys fuscatus previously in,0.0,False,True,False,Oryzomyini,Oryzomyini,1.0,1.0,E2,1.5B_untrained
+5a84b4005542991dd0999d99,When did the Disney sitcom Dog with a,0.0,False,False,True,"September 25, 2015","October 16, 2015",0.3333333333333333,0.0,E2,1.5B_untrained
+5a8cca64554299653c1aa125,who were James Hill and John Vereker 6th,0.5,False,False,True,World War II,British Army,0.0,0.0,E2,1.5B_untrained
+5ab8ed305542991b5579f046,What federal republic does Keene Kansas belong to,0.0,False,False,True,United States,The United States of America,0.6666666666666666,0.0,E2,1.5B_untrained
+5ae0b2f25542993d6555ec1c,What food does one of Daniel Greene's subjects',0.0,False,False,True,dinner,hamburgers,0.0,0.0,E2,1.5B_untrained
+5ae207a65542994d89d5b317,Which genus has more species Lavatera or Oplismenus,0.0,True,True,False,Oplismenus,Oplismenus,1.0,1.0,E2,1.5B_untrained
+5a75383a5542996c70cfaeb3,Who was born first Ulf Merbold or Miros,0.0,False,True,False,Ulf Merbold,Ulf Dietrich Merbold,0.8,0.0,E2,1.5B_untrained
+5ae3fd2c5542995dadf2428f,Are Ian Brown and Dee Snider both actors,0.5,True,False,True,No,no,1.0,1.0,E2,1.5B_untrained
+5abffd10554299012d1db556,What Italian region does Slinzega come from,0.0,True,False,True,Valtellina,Lombardy,0.0,0.0,E2,1.5B_untrained
+5a8f812755429918e830d245,What was Robert M Fomon's connection to the,0.0,False,True,False,Chairman and Chief Executive Officer of E. F. Hutton & Co.,a governor,0.0,0.0,E2,1.5B_untrained
+5ae520315542993aec5ec152,Liz Rose has co written songs with Taylor,0.0,False,True,False,Taylor Swift,Taylor Swift,1.0,1.0,E2,1.5B_untrained
+5a7631cd5542994ccc91870c,Where is the seminar Jeanne Marie Beaumont directed,0.5,True,False,True,The Frost Place Advanced Seminar,"Franconia, New Hampshire",0.0,0.0,E2,1.5B_untrained
+5ac26eed55429951e9e685bf,Where is the Purcell located within Doniphan County,1.0,False,True,True,Doniphan County,the U.S. state of Kansas,0.0,0.0,E2,1.5B_untrained
+5a7e37095542995ed0d166d5,Which film director Robert Z Leonard or Sinclair,0.0,False,True,False,Sinclair Hill,Sinclair Hill,1.0,1.0,E2,1.5B_untrained
+5adf72d35542992d7e9f9369,Are William Kronick and Jon Turteltaub both involved,0.0,False,True,False,no,no,1.0,1.0,E2,1.5B_untrained
+5a876b265542993e715abf33,Who was a more acclaimed guitarist Stephen Christian,1.0,False,True,True,Joe Gooch,and lead guitarist,0.0,0.0,E2,1.5B_untrained
+5a77ddb855429967ab1052d8,Who was the artist behind the True Colors,0.0,False,False,True,Cyndi Lauper,"Cynthia Ann Stephanie ""Cyndi"" Lauper",0.5714285714285715,0.0,E2,1.5B_untrained
+5adcc3ed5542994d58a2f6c4,What group did Carlene LeFevre and Rich LeFevre,0.0,False,False,True,"The ""First Family of Competitive Eating""","the ""First Family of Competitive Eating""",1.0,1.0,E2,1.5B_untrained
+5a76f5b155429972597f1400,What American composer born in 1937 alongside La,1.0,False,True,True,Steve Reich,Philip Morris Glass,0.0,0.0,E2,1.5B_untrained
+5ae2c696554299495565db32,What political office was held by two successive,0.0,False,False,True,Earls of Lauderdale,Keeper of the Privy Seal of Scotland,0.2222222222222222,0.0,E2,1.5B_untrained
+5a875154554299211dda2be7,Who founded Gilley's the honky tonk nightclub at,1.0,False,True,True,Mickey Gilley,Mickey Gilley,1.0,1.0,E2,1.5B_untrained
+5a84cf175542992a431d1aa2,Which band has more constant members Lilys or,0.0,False,True,False,Lilys,Ratatat,0.0,0.0,E2,1.5B_untrained
+5ae675245542991bbc9760dc,What is the name of the father of,0.0,False,False,True,Clovis I,Merovech,0.0,0.0,E2,1.5B_untrained
+5a80b0565542996402f6a5f0,Which band was formed first Lit or Adorable,0.0,True,True,False,Adorable,Adorable,1.0,1.0,E2,1.5B_untrained
+5adde3a45542997545bbbdc2,Are Delmer Daves and Jean Pierre Jeunet both,0.0,False,True,False,Yes,yes,1.0,1.0,E2,1.5B_untrained
+5ac26b7f55429951e9e685ae,Who influenced the electronic dance music genre that,0.0,False,False,True,"Johann Sebastian Bach, Karlheinz Stockhausen, Terry Riley, Philip Glass, and Moondog",hardcore,0.0,0.0,E2,1.5B_untrained
+5adf39295542992d7e9f92df,Which genus has more species Apium or Elodea,0.0,True,True,False,Apium,Apium,1.0,1.0,E2,1.5B_untrained
+5abc19705542993a06baf86e,Black Book starred the actress and writer of,0.0,False,False,True,African-American,Dutch,0.0,0.0,E2,1.5B_untrained
+5ae6914755429908198fa627,Which month did Zuffa purchase the WWC Universal,1.0,False,True,True,January,January 2001,0.6666666666666666,0.0,E2,1.5B_untrained
+5adc9b7a5542994d58a2f679,Shani Gandhi has worked with Kelsea Ballerini in,0.0,False,True,False,United States,American,0.0,0.0,E2,1.5B_untrained
+5a721dfd55429971e9dc928b,Which of Kylian Hazard's older brothers plays for,0.0,False,True,False,Thorgan Hazard,Thorgan Ganael Francis Hazard,0.6666666666666666,0.0,E2,1.5B_untrained
+5a8b50475542997f31a41cd4,Wing Chun starred Michelle Yeoh and a Hong,0.0,False,False,True,street fights,world wushu tournament,0.0,0.0,E2,1.5B_untrained
+5a860aa6554299211dda2a45,Which publication has a more frequent publication schedule,0.0,False,True,False,Utne Reader,The New York Enterprise Report,0.0,0.0,E2,1.5B_untrained
+5ae4585c5542996836b02c89,Which band has more members Band of Skulls,0.0,False,False,True,Band of Skulls,Live,0.0,0.0,E2,1.5B_untrained
+5adfcb5455429906c02daa48,What character in Father Ted was played by,0.0,False,False,True,Father Dougal McGuire,Father Dougal McGuire,1.0,1.0,E2,1.5B_untrained
+5a77a41a5542997042120ab9,What year did Christopher Nolan's Inception come out,0.5,False,False,True,2014,2006,0.0,0.0,E2,1.5B_untrained
+5a8759395542994775f607e0,Who are the brothers that J Todd Anderson,0.0,False,False,True,John Anderson,Joel David Coen,0.0,0.0,E2,1.5B_untrained
+5a84992e5542992a431d1a6d,Who owns the hotel where the 13th Anniversary,0.0,False,False,True,InterContinental Hotels Group PLC,Boyd Gaming,0.0,0.0,E2,1.5B_untrained
+5ac1bce45542994ab5c67def,Are Pothos and Tibouchina Aubl both flowering genera,0.0,True,True,False,No,yes,0.0,0.0,E2,1.5B_untrained
+5ac0641f554299294b218fbe,Immanuel Lutheran Church has how many members,1.0,False,True,True,2.1 million,2.1 million,1.0,1.0,E2,1.5B_untrained
+5a87954f5542996e4f308856,Which genus has more species Bactris and Epigaea,0.0,True,True,False,Epigaea,Bactris,0.0,0.0,E2,1.5B_untrained
+5a8bc03d5542996e8ac88a0b,What was the code name of the landing,1.0,False,True,True,Neptune,Operation Neptune,0.6666666666666666,0.0,E2,1.5B_untrained
+5ab8869155429916710eb081,What is the specialized version of the two,0.0,False,False,True,EA-18G Growler,Boeing EA-18G Growler,0.8,0.0,E2,1.5B_untrained
+5adde17f5542992200553b87,Which NBA team did Aaron Gordon play for,1.0,False,True,True,Orlando Magic,Orlando Magic,1.0,1.0,E2,1.5B_untrained
+5a776ac75542993569682d9b,Who served in the United States Senate more,0.0,False,False,True,Daniel Patrick Moynihan,"Daniel Patrick ""Pat"" Moynihan",0.8571428571428571,0.0,E2,1.5B_untrained
+5ae70ed7554299572ea546a1,Victor Varnada directed Twisted Fortune which starred Glen,0.0,False,False,True,Glen,Charlie Murphy,0.0,0.0,E2,1.5B_untrained
+5ae1fbf05542997f29b3c1e7,When was the Sports Car Club of America's,1.0,False,True,True,1944,1944,1.0,1.0,E2,1.5B_untrained
+5ac1c9a15542994ab5c67e1c,What is the population of Lima Peru,1.0,False,True,True,10 million,more than 10 million,0.6666666666666666,0.0,E2,1.5B_untrained
+5a77c8905542995d831812ce,Who constructed Auburn the Antebellum mansion and was,0.0,False,True,False,Levi Weeks,Levi Weeks,1.0,1.0,E2,1.5B_untrained
+5a89f68f5542992e4fca84b6,What kind of person of authority does John,0.0,False,False,True,Military commander,officer,0.0,0.0,E2,1.5B_untrained
+5a7f62405542992e7d278cf0,What was the name of the publisher who,0.0,False,False,True,Ithys Press,Teriade,0.0,0.0,E2,1.5B_untrained
+5a7ca4485542990527d554f1,What was the address of the Eastern State,0.0,False,True,False,2027 Fairmount Avenue,2027 Fairmount Avenue,1.0,1.0,E2,1.5B_untrained
+5a8347d65542996488c2e3f6,in the 2004 hockey film produced by a,0.0,False,False,True,Herb Brooks,Kurt Russell,0.0,0.0,E2,1.5B_untrained
+5ab8634e5542990e739ec8de,Expert found that no value premium exists claiming,0.0,False,False,True,no value premium exists,The Vanguard Group,0.0,0.0,E2,1.5B_untrained
+5ab85e9e55429934fafe6d8b,What is the founding year of the University,0.0,False,True,False,1614,1614,1.0,1.0,E2,1.5B_untrained
+5a79c9c05542994bb94570a5,Who was the Speaker of the Hawaii House,1.0,False,True,True,Hawaii House of Representatives,"Robert ""Bobby"" Bunda",0.0,0.0,E2,1.5B_untrained
+5a8c616f5542995e66a475de,Which road borders both Pacific Mall and Splendid,0.0,False,True,False,Steeles Avenue,Steeles Avenue,1.0,1.0,E2,1.5B_untrained
+5ab90fdd55429916710eb0fc,Where did the American Whitney family originate from,0.0,False,True,False,"London, England","London, England",1.0,1.0,E2,1.5B_untrained
+5abe7f695542993f32c2a12d,What movie did Nolan North voice as Superboy,0.0,False,False,True,Superman,focus on young superheroes,0.0,0.0,E2,1.5B_untrained
+5abeb0da5542997ec76fd34b,Were both Monkey Kingdom and Anaganaga O Dheerudu,1.0,False,True,True,No,yes,0.0,0.0,E2,1.5B_untrained
+5a7521c55542993748c897c6,Which mine in the early 1900s yielded a,0.0,False,True,False,Burwash Mine,Burwash Mine,1.0,1.0,E2,1.5B_untrained
+5adfda5255429942ec259b5e,What county in Minnesota has a 202 lb,1.0,False,True,True,Dakota County,Douglas,0.0,0.0,E2,1.5B_untrained
+5abaeda95542992ccd8e7e5d,What is the fictional name of the mall,0.0,False,True,False,Twin Pines/Lone Pine Mall,Twin Pines/Lone Pine Mall,1.0,1.0,E2,1.5B_untrained
+5ae68e0055429908198fa607,What type of films does Sneha work in,0.0,False,False,True,Indian film industry,Hindi,0.0,0.0,E2,1.5B_untrained
+5a7577785542992d0ec05fa0,The Northern Chamber Orchestra gives concerts at Knutsford,0.0,False,False,True,"Tatton Park, Knutsford",Tatton Park,0.8,0.0,E2,1.5B_untrained
+5a7d147955429909bec76942,Which star of Chalet Girl also appeared in,0.0,False,False,True,Felicity Jones,Felicity Rose Hadley Jones,0.6666666666666666,0.0,E2,1.5B_untrained
+5a83a2a15542993344746063,When was Manchester High School's first graduating class,0.0,False,True,False,June 1925,June 1925,1.0,1.0,E2,1.5B_untrained
+5ac079e9554299294b218fff,What organization owns both Rosyth Dockyard and the,0.0,False,True,False,Babcock Marine,Navy,0.0,0.0,E2,1.5B_untrained
+5adca8375542990d50227cd4,What year was the song Fading by Rihanna,0.0,False,False,True,2010,2008,0.0,0.0,E2,1.5B_untrained
+5add4f3a5542997545bbbd2c,What is another name for the LRA featured,0.0,False,False,True,Lord's Resistance Army,United Holy Salvation Army and Uganda Christian Army/Movement,0.18181818181818182,0.0,E2,1.5B_untrained
+5ae26cb15542994d89d5b421,Charlie McDermott plays Axl Heck on a tv,0.0,False,False,True,"September 30, 2009","September 30, 2009",1.0,1.0,E2,1.5B_untrained
+5a73cad5554299623ed4ac5e,Wes Studi,1.0,False,True,True,Kevin Costner,"Wesley ""Wes"" Studi",0.0,0.0,E2,1.5B_untrained
+5ae0d5335542990adbacf674,Who created Triumph the Insult Comic Dog,1.0,False,True,True,Robert Smigel,"Robert Smigel, Michael Koman and David Feldman",0.4444444444444445,0.0,E2,1.5B_untrained
+5ab344fc55429969a97a811e,Bloody Mary ingredients Sidecar ingredients,0.0,False,True,False,No,no,1.0,1.0,E2,1.5B_untrained
+5ae1319c55429920d5234301,What 1935 MGM musical did Fayard Nicholas star,1.0,False,True,True,An All-Colored Vaudeville Show,"""An All-Colored Vaudeville Show""",1.0,1.0,E2,1.5B_untrained
+5abee41a5542993fe9a41d79,What type of auto racing performed on clay,0.0,False,True,False,Dirt track racing,Dirt track racing,1.0,1.0,E2,1.5B_untrained
+5a7daad55542995f4f4022b7,What year was the namesake of the small,0.0,False,False,True,1822,1599,0.0,0.0,E2,1.5B_untrained
+5a8ff6635542995651fb5086,Who currently has more locations Bearno's or Patxi's,0.0,False,True,False,Patxi's Chicago Pizza,Bearno's Pizza,0.4,0.0,E2,1.5B_untrained
+5ae3c0cc5542992f92d82369,Peter Marc Jacobson is best known as the,0.0,False,False,True,1957,1957,1.0,1.0,E2,1.5B_untrained
+5a8485fa5542992a431d1a41,Who was the brother of Marcus T Reynolds,1.0,False,True,True,Cuyler Reynolds,Cuyler Reynolds,1.0,1.0,E2,1.5B_untrained
+5ae1389655429901ffe4ae05,What is the Long Island based limited access,0.0,False,True,False,Southern State Parkway,Southern State Parkway,1.0,1.0,E2,1.5B_untrained
+5a7b73ad5542997c3ec9718c,1990 Film Lionheart stars this actor who is,1.0,True,True,True,action films,martial arts action films,0.6666666666666666,0.0,E2,1.5B_untrained
+5a7a68d25542996c55b2dd98,How is the Mountbatten family related to Elizabeth,1.0,False,True,True,Uncle,second cousin once removed,0.0,0.0,E2,1.5B_untrained
+5ae2bb545542992decbdcd88,What is the publication frequency of India Today,1.0,False,True,True,fortnightly,fortnightly,1.0,1.0,E2,1.5B_untrained
+5a8f47a55542997ba9cb3219,Which brand of canned cooked meat by Hormel,1.0,False,True,True,Spam,Spam,1.0,1.0,E2,1.5B_untrained
+5ab1ebff5542993be8fa9882,Which plant genus has a longer common name,0.0,False,True,False,Eustoma,Eustoma,1.0,1.0,E2,1.5B_untrained
+5a7fd7305542992e7d278dc2,What films inspired Family Guy and the character,0.0,False,True,False,The Life of Larry and Larry & Steve,The Life of Larry and Larry & Steve,1.0,1.0,E2,1.5B_untrained
+5abb8aaf5542993f40c73b1c,Jennifer Paige Chambers appeared with the creator of,0.0,False,False,True,Los Angeles,Los Angeles,1.0,1.0,E2,1.5B_untrained
+5abba584554299642a094afa,How many yards did the nephew of Ivory,0.0,False,False,True,523,"1,925 yards",0.0,0.0,E2,1.5B_untrained
+5a804510554299485f5985af,Who directed Belle Sebastian The Adventure Continues,0.0,False,True,False,Christian Duguay,Nicolas Vanier,0.0,0.0,E2,1.5B_untrained
+5abb11c15542992ccd8e7ef8,Yolanda Sald var's parole eligibility date,0.0,False,False,True,"March 30, 2025","March 30, 2025",1.0,1.0,E2,1.5B_untrained
+5ae376a35542990afbd1e163,Are Peter Balakian and James Der Derian both,0.0,False,True,False,No,yes,0.0,0.0,E2,1.5B_untrained
+5adc5b875542996e68525328,In which 2006 St Louis Cardinals season did,0.0,False,False,True,2006,2006 season,0.6666666666666666,0.0,E2,1.5B_untrained
+5ae6b6065542991bbc976168,Which actor has portrayed Luc Deveraux in the,0.0,False,False,True,Scott Adkins,Scott Adkins,1.0,1.0,E2,1.5B_untrained
+5a79d2fe5542994f819ef0c3,Who was born first Aleksandr Ivanovsky or Arthur,0.5,False,False,True,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,E2,1.5B_untrained
+5ab38cdd5542992ade7c6de2,Mimi Smith was the aunt and guardian of,0.0,False,False,True,John Lennon,John Lennon,1.0,1.0,E2,1.5B_untrained
+5ae73d235542991e8301cc29,What production company did Kevin Loader and Rodger,0.0,False,False,True,Free Range Films,Free Range Films,1.0,1.0,E2,1.5B_untrained
+5a7a33205542996a35c1712f,Which British proprietary colony became a royal colony,0.0,False,False,True,New York,Province of New York,0.6666666666666666,0.0,E2,1.5B_untrained
+5a799dfb5542994bb9457029,What 1983 Nissan Datsun sponsored race did Jeff,0.0,False,True,False,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,E2,1.5B_untrained
+5a71095e5542994082a3e4f3,What is the name of Bruce Willis's character,0.0,False,True,False,David Dunn,David Dunn,1.0,1.0,E2,1.5B_untrained
+5aba77be55429955dce3ee44,How many degrees and minutes south of the,0.0,False,False,True,2 degrees and 0 minutes,7°56',0.0,0.0,E2,1.5B_untrained
+5a8af94455429971feec45b6,When was Ben Cardin Jon S Cardin's uncle,0.0,False,True,False,2007,since 2007,0.6666666666666666,0.0,E2,1.5B_untrained
+5abcedb355429959677d6b4f,Chris Jones played with Thomas Needham as the,0.0,False,False,True,Scott Carson,Scott Paul Carson,0.8,0.0,E2,1.5B_untrained
+5a713dcb5542994082a3e6d9,What pursuits did Gevorg Minaskanian and George Stambolian,0.0,False,False,True,Merchant,"American educator, writer,",0.0,0.0,E2,1.5B_untrained
+5ae383e15542992f92d822fb,Which film The Apple Dumpling Gang or Heavyweights,1.0,False,True,True,Heavyweights,Heavyweights,1.0,1.0,E2,1.5B_untrained
+5a85df525542994c784ddb9f,What former president of ABC television is a,0.0,False,False,True,Barack Obama,Robert A. Iger,0.0,0.0,E2,1.5B_untrained
+5a9030ef5542995651fb50e4,Who is the country music artist who wrote,0.0,False,False,True,guitar,American football,0.0,0.0,E2,1.5B_untrained
+5a8a2d2155429930ff3c0cdc,What award did the animated film of House,0.0,False,False,True,Academy Award for Best Animated Short Film,Academy Award for Best Animated Feature,0.7692307692307692,0.0,E2,1.5B_untrained
+5a88fa9e5542993b751ca8de,What NFL team did Adam Amin play for,0.0,False,False,True,Minnesota Vikings,the Bears,0.0,0.0,E2,1.5B_untrained
+5ae7882b554299540e5a55dd,What is the relationship between Fred Gehrke and,0.5,False,False,True,grandfather,great-grandfather,0.0,0.0,E2,1.5B_untrained
+5a81dacc55429926c1cdada0,Who is the author of the play Henry,0.0,False,True,False,William Shakespeare,William Shakespeare,1.0,1.0,E2,1.5B_untrained
+5ab322b1554299194fa93570,Which type of character is featured by the,0.0,False,False,True,fictional character,fictional character,1.0,1.0,E2,1.5B_untrained
+5a8a764555429930ff3c0de1,What is the distinction about his birth that,0.0,False,True,False,Born in 1925,American-born,0.0,0.0,E2,1.5B_untrained
+5a8d93bf554299068b959d46,Is Yangzhou and Jiangyan District both coastal cities,0.0,True,True,False,No,no,1.0,1.0,E2,1.5B_untrained
+5abf04ae5542993fe9a41dbf,What musical action do Ndebele music and musical,0.0,False,True,False,Choral song,played,0.0,0.0,E2,1.5B_untrained
+5a872e8e5542991e7718170c,Daniel Greene portraits Bryant Gumbel Eleanor Roosevelt William,0.0,False,False,True,portraits,portrait,0.0,0.0,E2,7B_logged_query
+5a7265825542997f827839a3,Olympic medal Jermain Mackey 1984,0.0,False,False,True,Silver,a silver medal,0.6666666666666666,0.0,E2,7B_logged_query
+5abe2b0155429976d4830a83,Tannenberg Masurian Lakes Hindenburg Ludendorff Russian,0.0,False,True,False,August 1914,26–30 August 1914,0.8,0.0,E2,7B_logged_query
+5ae135fb55429920d523431f,Scott Workman TV Network Marvel,0.0,False,False,True,Sons of Anarchy,WB Television Network,0.0,0.0,E2,7B_logged_query
+5a8f0a01554299458435d539,Forevermore Indianapolis Indiana,0.0,False,True,False,Indianapolis,Indianapolis,1.0,1.0,E2,7B_logged_query
+5ab40e1c5542996a3a969f00,1988,0.0,False,False,True,1986,1988,0.0,0.0,E2,7B_logged_query
+5ab28c89554299340b525513,Oberst Gruppenf hrer SS rank,0.0,False,True,False,Obergruppenführer,Reichsführer-SS,0.0,0.0,E2,7B_logged_query
+5a87e3d65542993e715abff8,Game of Thrones,0.0,False,True,False,Game of Thrones,Game of Thrones,1.0,1.0,E2,7B_logged_query
+5addfc425542997dc7907101,Force India VJM10 driver 1996 birthdate,0.0,False,False,True,Sergio Pérez,Esteban Ocon,0.0,0.0,E2,7B_logged_query
+5ab576dc5542997d4ad1f13d,Carnatic music style,0.0,False,True,False,Carnatic music,Carnatic music,1.0,1.0,E2,7B_logged_query
+5a8d8eb5554299068b959d3a,Parsifal acts count,1.0,False,True,True,Parsifal,Parsifal,1.0,1.0,E2,7B_logged_query
+5ac5101455429924173fb592,Bret Michaels hit song,1.0,False,True,True,Dancin' (on a Saturday Night),Every Rose Has Its Thorn,0.0,0.0,E2,7B_logged_query
+5ab91f98554299753720f70d,Fantastic Voyage Stevie Wonder sample,0.0,False,True,False,Fantastic Voyage,Gangsta's Paradise,0.0,0.0,E2,7B_logged_query
+5ae6371155429929b0807af1,19th century Bohemian music origins,0.0,False,False,True,Amsterdam Polka,Polka,0.6666666666666666,0.0,E2,7B_logged_query
+5ac1bff05542994ab5c67dfc,Francisco Rafael Arellano F lix eldest brother,1.0,False,True,True,Benjamín Arellano Félix,Francisco Rafael Arellano Félix,0.5714285714285715,0.0,E2,7B_logged_query
+5a7c2f145542996dd594b8b4,Amber Heard 2014 crime thriller director,0.0,False,False,True,Sebastian Gutierrez,McG,0.0,0.0,E2,7B_logged_query
+5a81e4e8554299676cceb140,Rick Stansbury Hall of Fame,1.0,False,True,True,Campbellsville University,Campbellsville University,1.0,1.0,E2,7B_logged_query
+5a83041355429966c78a6ae8,director animator producer,0.0,False,True,False,director,film director,0.6666666666666666,0.0,E2,7B_logged_query
+5ab7fa7b5542992aa3b8c897,punk rock hip hop,0.0,False,False,True,punk rock,punk rock,1.0,1.0,E2,7B_logged_query
+5a8cee9b554299441c6b9f87,Haier GE Louisville,0.0,False,True,False,GE Appliances,GE Appliances,1.0,1.0,E2,7B_logged_query
+5ab67bf255429954757d32f5,Booz Allen Hamilton Inc headquartered city,1.0,False,True,True,"McLean, Virginia","McLean, Virginia",1.0,1.0,E2,7B_logged_query
+5a77d65055429949eeb29f7b,hibiscus species white flowers endemic,0.0,False,True,False,7,250,0.0,0.0,E2,7B_logged_query
+5a7f3f7c55429934daa2fd45,Futureheads members count,1.0,False,True,True,The Futureheads,The Futureheads,1.0,1.0,E2,7B_logged_query
+5ade811e5542992fa25da7a0,1851,0.0,False,True,False,1851,1851,1.0,1.0,E2,7B_logged_query
+5a7633ff5542994ccc918712,Ron Ayers birth year,0.0,False,False,True,1932,1932,1.0,1.0,E2,7B_logged_query
+5a88a1475542997e5c09a646,Arachis species count,0.0,False,True,False,Salvia,Salvia,1.0,1.0,E2,7B_logged_query
+5a8887a055429938390d3f72,Rocky Boy Reservation Chippewa Cree Leader,0.0,False,True,False,Rocky Boy Reservation,Rocky Boy's Indian Reservation,0.5714285714285715,0.0,E2,7B_logged_query
+5a86399e5542994775f60733,Norwegian director descent,0.0,False,False,True,Norwegian,Punjabi/Pashtun,0.0,0.0,E2,7B_logged_query
+5a84c0765542991dd0999dd9,Martha Wainwright Snow Patrol,0.0,False,False,True,Martha Wainwright,Gary Lightbody,0.0,0.0,E2,7B_logged_query
+5adf17f95542995ec70e8f6c,australian actor birthplace,0.0,False,True,False,Australia,Australian,0.0,0.0,E2,7B_logged_query
+5a7f5ab65542995d8a8dde43,cosmopolitan las Vegas,1.0,False,True,True,The Cosmopolitan,Cosmopolitan of Las Vegas,0.4,0.0,E2,7B_logged_query
+5a8cec13554299441c6b9f7d,Vanessa Le roi malgr lui act count,0.0,False,True,False,No,yes,0.0,0.0,E2,7B_logged_query
+5abce9ca554299114383a193,racehorse breeding,0.0,False,True,False,racehorse breeding,racehorse breeder and owner,0.3333333333333333,0.0,E2,7B_logged_query
+5a7a1b845542990783324e5f,1977 european cup final venue,1.0,False,True,True,"Feijenoord Stadion in Rotterdam, Netherlands",Stadio Olimpico,0.0,0.0,E2,7B_logged_query
+5a7363ec5542991f29ee2dd7,Key West Florida motto,1.0,False,True,True,Key West,Key West,1.0,1.0,E2,7B_logged_query
+5a77321355429972597f1493,The Agronomist 2003 American documentary,0.0,False,True,False,The Agronomist,The Agronomist,1.0,1.0,E2,7B_logged_query
+5ab5cd4f554299488d4d9a31,Jay Joyce band,1.0,False,True,True,In Pursuit,In Pursuit,1.0,1.0,E2,7B_logged_query
+5a83411655429966c78a6b5d,Superstore creators,1.0,False,True,True,Justin Spitzer,Justin Spitzer,1.0,1.0,E2,7B_logged_query
+5a8d50fb55429941ae14dfa2,Bodie ghost town distance Lake Tahoe,0.0,False,True,False,12,75 mi,0.0,0.0,E2,7B_logged_query
+5ae80919554299540e5a56f6,Cairnburgh Castle Isabella Kelly,1.0,False,True,True,"1991's ""The Changing Scottish Landscape""",The Changing Scottish Landscape,0.8571428571428571,0.0,E2,7B_logged_query
+5ab2b8fe5542991669774070,Enterprise Holdings ACRA member,0.0,False,False,True,Enterprise Rent-A-Car,Budget Rent a Car,0.0,0.0,E2,7B_logged_query
+5a8d0efd5542994ba4e3dbc6,Chopin Competition Warsaw,1.0,False,True,True,Warsaw,"Warsaw, Poland",0.6666666666666666,0.0,E2,7B_logged_query
+5a7125b95542994082a3e5d5,2010 census population Minden Nevada Gardnerville,0.0,False,True,False,"Minden, Nevada",Gardnerville,0.0,0.0,E2,7B_logged_query
+5a8a6a2155429930ff3c0dd0,Ken Flach Hungary Distance Canada,0.0,False,False,True,Lucie Šafářová,Kenneth Eliot Flach,0.0,0.0,E2,7B_logged_query
+5ae834e95542997ec272776a,Highwayman supergroup members,1.0,False,True,True,Highwayman,Highwayman,1.0,1.0,E2,7B_logged_query
+5a7ab51055429927d897bef6,Jan Bull birth year,0.0,False,False,True,1927,1961,0.0,0.0,E2,7B_logged_query
+5ae250b45542996483e64977,Nine Days Changed World Credits,0.0,False,False,True,Speaker of the House,former Speaker of the U.S. House of Representatives,0.6,0.0,E2,7B_logged_query
+5a733c925542991f9a20c6b7,Mint Chocolate Cocktail,0.0,False,False,True,cocktail,cocktails,0.0,0.0,E2,7B_logged_query
+5a7e5ec25542991319bc947a,Kv ta Peschke birth date,0.0,False,True,False,John Newcombe,Květa Peschke,0.0,0.0,E2,7B_logged_query
+5adbf2805542994650320c15,william vere reeve king fane play role,0.0,False,False,True,1943,The High Sheriff changes every March.,0.0,0.0,E2,7B_logged_query
+5a845e9055429933447460ec,Buddy Hield Oklahoma team,1.0,False,True,True,Sacramento Kings,Sacramento Kings,1.0,1.0,E2,7B_logged_query
+5a820c0c554299676cceb1fc,Value Alliance member companies Narita,0.0,False,False,True,Narita International Airport Corporation,All Nippon,0.0,0.0,E2,7B_logged_query
+5a88bd1d554299206df2b357,Jackson Avery debut episode season 6 episode 5,0.0,False,True,False,"Season six, episode 5","season six, episode 5, ""Invasion""",0.888888888888889,0.0,E2,7B_logged_query
+5a79332555429907847277e7,BryceCourtenayJuanCarlosOnettiDeathDate,0.0,False,True,False,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,E2,7B_logged_query
+5abd516a5542992ac4f3825c,Krrish film series composer religion,0.5,False,False,True,Hindu,Hindi,0.0,0.0,E2,7B_logged_query
+5add26075542994ed6169c9c,WAMC Albany NPR,1.0,False,True,True,WAMC,WAMC,1.0,1.0,E2,7B_logged_query
+5a901f735542990a98493591,vitellius wives count,1.0,False,True,True,three,second,0.0,0.0,E2,7B_logged_query
+5ab840e255429934fafe6d3b,Maurice Bishop movement goals,1.0,False,True,True,New Jewel Movement,New Jewel Movement,1.0,1.0,E2,7B_logged_query
+5ac3d4b6554299204fd21e93,Paper JackandJilladultfocus,0.0,False,True,False,Paper,Paper,1.0,1.0,E2,7B_logged_query
+5a73b2cb55429908901be31a,Maria von Trapp Agathe Whitehead,0.0,False,True,False,Alix Williamson,Maria von Trapp,0.0,0.0,E2,7B_logged_query
+5ac29cf8554299218029dac2,Dayna Hart Sabrina Carpenter,0.0,False,False,True,Dayna Hart,Rowan Blanchard,0.0,0.0,E2,7B_logged_query
+5ae686535542996d980e7bdc,Barbara Bach Ringo Starr Marriage,0.0,False,False,True,Ringo Starr,Ringo Starr,1.0,1.0,E2,7B_logged_query
+5a8aa1685542992d82986f32,Beijing Dance Academy Beijing Film Academy,0.0,False,True,False,Beijing Dance Academy and Beijing Film Academy,Beijing Dance Academy,0.6,0.0,E2,7B_logged_query
+5a7d7deb5542995f4f402282,Starry Eyed Surprise vocals member,0.0,False,False,True,Shifty Shellshock,Shifty Shellshock,1.0,1.0,E2,7B_logged_query
+5a8c622a554299240d9c2142,Birthday of the World Ursula K Le Guin,1.0,False,True,True,Ursula K. Le Guin,Ursula Kroeber Le Guin,0.75,0.0,E2,7B_logged_query
+5a7b81715542997c3ec971d4,Dagger and the Coin 2017 award,0.0,False,False,True,CWA International Dagger,Hugo Award,0.0,0.0,E2,7B_logged_query
+5ae0c29c5542993d6555ec46,songwriter producer,0.0,False,False,True,songwriter producer,"professional wrestler, actor, and hip hop musician",0.0,0.0,E2,7B_logged_query
+5a7c290c5542990527d55468,Oklahoma,0.0,False,False,True,Oklahoma,Oklahoma,1.0,1.0,E2,7B_logged_query
+5a876f785542993e715abf42,WilliamBlakeHerronRolesFilmIndustry,0.0,False,True,False,John Carpenter,"musician, editor and composer.",0.0,0.0,E2,7B_logged_query
+5ae1e6d95542997283cd22c3,Jordan Peele Alex Rubens,0.0,False,False,True,Jordan Peele and Alex Rubens,Jordan Peele,0.5714285714285715,0.0,E2,7B_logged_query
+5ae10df355429920d52342ac,DaveHughesBirthplace,0.0,False,True,False,Alice Springs,"Warrnambool, Victoria",0.0,0.0,E2,7B_logged_query
+5ae4d8475542993aec5ec0e0,Shakespeare play adapted opera,1.0,False,True,True,Giuseppe Verdi,Giuseppe Verdi,1.0,1.0,E2,7B_logged_query
+5ab94cf0554299743d22eade,Chevalier Field Pensacola,0.0,False,True,False,Pensacola,Warrington,0.0,0.0,E2,7B_logged_query
+5ae479745542996836b02cb1,Healing Sean Anders,0.0,False,False,True,Hard Sell,Sex Drive,0.0,0.0,E2,7B_logged_query
+5a852cd05542997b5ce3ffb0,Saint John New Brunswick Bay,1.0,False,True,True,Bay of Fundy,Bay of Fundy,1.0,1.0,E2,7B_logged_query
+5a8babf05542996e8ac8899e,Daviesia Beech,1.0,False,True,True,Daviesia,Daviesia,1.0,1.0,E2,7B_logged_query
+5a82fcbd55429954d2e2ebe8,Tatiana Nikolayeva taught Maria Grinberg,1.0,False,True,True,Maria Grinberg,Maria Szraiber,0.5,0.0,E2,7B_logged_query
+5a77c60255429967ab105285,Progression theories Emil Wolf,0.0,False,True,False,"The theory advanced by the author of Progress in Optics, Emil Wolf, is the theory of direct scattering and inverse scattering",theory of direct scattering and inverse scattering,0.56,0.0,E2,7B_logged_query
+5adf39ce5542995534e8c76d,Geoffrey Kendal delivery work,1.0,False,True,True,Shakespeare performances,Shakespeare performances,1.0,1.0,E2,7B_logged_query
+5ae694a15542991bbc976141,Minister Pool history importance Black Country defense,0.0,False,False,True,Minister Pool is important to Black Country and the West Midlands in England because it is a reservoir located between Bird Street and,defence of the Cathedral,0.0,0.0,E2,7B_logged_query
+5ae13bca55429901ffe4ae17,Cyndi Lauper True Colors tour 2007 American singer,0.0,False,False,True,Cyndi Lauper,Debbie Harry,0.0,0.0,E2,7B_logged_query
+5a8a265b5542992d82986ecc,frederick king keller jobs,0.0,False,True,False,Ian Schneider,Frederick King Keller,0.0,0.0,E2,7B_logged_query
+5a77121a5542994aec3b71db,Boatniks 1970 release date,1.0,False,True,True,The Boatniks,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",0.11764705882352941,0.0,E2,7B_logged_query
+5ae6911955429908198fa626,E reality series Jewel Staite known,0.0,False,False,True,Saw Dogs,Mrs. Eastwood & Company,0.0,0.0,E2,7B_logged_query
+5ae53de455429908b6326599,Brodhead Creek Poconos river,1.0,False,True,True,Delaware River,Delaware River,1.0,1.0,E2,7B_logged_query
+5a813b6f55429903bc27b951,Oryzomyini Thomasomyini comparison,0.0,False,True,False,Oryzomyini,Oryzomyini,1.0,1.0,E2,7B_logged_query
+5a84b4005542991dd0999d99,Dog with a Blog ending,0.0,False,False,True,"September 25, 2015","October 16, 2015",0.3333333333333333,0.0,E2,7B_logged_query
+5a8cca64554299653c1aa125,James Hill military career,0.5,False,False,True,World War II,British Army,0.0,0.0,E2,7B_logged_query
+5ab8ed305542991b5579f046,United States 50 states,1.0,False,True,True,United States,The United States of America,0.6666666666666666,0.0,E2,7B_logged_query
+5ae0b2f25542993d6555ec1c,Daniel Greene subjects restaurants,0.0,False,False,True,breakfast,hamburgers,0.0,0.0,E2,7B_logged_query
+5ae207a65542994d89d5b317,oplismenus species count lavatera,0.0,False,True,False,Oplismenus,Oplismenus,1.0,1.0,E2,7B_logged_query
+5a75383a5542996c70cfaeb3,Ulf Merbold Miros aw Hermaszewski birthdate,0.0,False,True,False,Ulf Merbold,Ulf Dietrich Merbold,0.8,0.0,E2,7B_logged_query
+5ae3fd2c5542995dadf2428f,Ian Brown Dee Snider careers,0.0,False,False,True,No,no,1.0,1.0,E2,7B_logged_query
+5abffd10554299012d1db556,Valtellina Lombardy,0.0,False,False,True,Valtellina,Lombardy,0.0,0.0,E2,7B_logged_query
+5a8f812755429918e830d245,Governor Pacific Stock Exchange,0.0,False,True,False,Chairman and Chief Executive Officer,a governor,0.0,0.0,E2,7B_logged_query
+5ae520315542993aec5ec152,Liz Rose Taylor Swift co written songs,0.0,False,True,False,Taylor Swift,Taylor Swift,1.0,1.0,E2,7B_logged_query
+5a7631cd5542994ccc91870c,Seminar 2007 2010 location,0.0,False,False,True,Kripalu Center,"Franconia, New Hampshire",0.0,0.0,E2,7B_logged_query
+5ac26eed55429951e9e685bf,doniphan county kansas,1.0,False,True,True,"Doniphan County, Kansas",the U.S. state of Kansas,0.28571428571428575,0.0,E2,7B_logged_query
+5a7e37095542995ed0d166d5,1894 1889 younger,0.0,False,True,False,Sinclair Hill,Sinclair Hill,1.0,1.0,E2,7B_logged_query
+5adf72d35542992d7e9f9369,William Kronick television writing,0.0,False,True,False,No,no,1.0,1.0,E2,7B_logged_query
+5a876b265542993e715abf33,Stephen Christian Joe Gooch Awards,0.0,False,False,True,Joe Gooch,and lead guitarist,0.0,0.0,E2,7B_logged_query
+5a77ddb855429967ab1052d8,She Unusual artist True Colors,1.0,False,True,True,Cyndi Lauper,"Cynthia Ann Stephanie ""Cyndi"" Lauper",0.5714285714285715,0.0,E2,7B_logged_query
+5adcc3ed5542994d58a2f6c4,First Family Competitive Eating,1.0,False,True,True,"The ""First Family of Competitive Eating""","the ""First Family of Competitive Eating""",1.0,1.0,E2,7B_logged_query
+5a76f5b155429972597f1400,Steve Reich minimal music,0.0,False,False,True,Steve Reich,Philip Morris Glass,0.0,0.0,E2,7B_logged_query
+5ae2c696554299495565db32,Thirlestane Castle Earls Lauderdale,0.0,False,False,True,Earls of Lauderdale,Keeper of the Privy Seal of Scotland,0.2222222222222222,0.0,E2,7B_logged_query
+5a875154554299211dda2be7,Gilley's Club Pasadena Texas,1.0,False,True,True,Mickey Gilley,Mickey Gilley,1.0,1.0,E2,7B_logged_query
+5a84cf175542992a431d1aa2,Lilys members history Ratatat lineup comparison,0.0,False,True,False,Lilys,Ratatat,0.0,0.0,E2,7B_logged_query
+5ae675245542991bbc9760dc,Childeric I father name,0.0,False,False,True,Childeric I,Merovech,0.0,0.0,E2,7B_logged_query
+5a80b0565542996402f6a5f0,Adorable Coventry 1990 Lit Fullerton 1995,0.0,False,True,False,Adorable,Adorable,1.0,1.0,E2,7B_logged_query
+5adde3a45542997545bbbdc2,Delmer Daves Jean Pierre Jeunet directors,0.0,False,True,False,Yes,yes,1.0,1.0,E2,7B_logged_query
+5ac26b7f55429951e9e685ae,scotch hausen influences electronic dance music,0.0,False,False,True,Tim Hecker,hardcore,0.0,0.0,E2,7B_logged_query
+5adf39295542992d7e9f92df,Elodea species count,0.0,False,True,False,Apium,Apium,1.0,1.0,E2,7B_logged_query
+5abc19705542993a06baf86e,Carice van Houten heritage,0.0,False,False,True,Jewish,Dutch,0.0,0.0,E2,7B_logged_query
+5ae6914755429908198fa627,Zuffa purchased WEC month,1.0,False,True,True,January,January 2001,0.6666666666666666,0.0,E2,7B_logged_query
+5adc9b7a5542994d58a2f679,Nashville Tennessee,0.0,False,True,False,United States,American,0.0,0.0,E2,7B_logged_query
+5a721dfd55429971e9dc928b,Thorgan Hazard Belgium national team,0.0,False,True,False,Thorgan Hazard,Thorgan Ganael Francis Hazard,0.6666666666666666,0.0,E2,7B_logged_query
+5a8b50475542997f31a41cd4,Wong Shun Leung martial arts tournament,0.0,False,False,True,Wong Shun Leung,world wushu tournament,0.0,0.0,E2,7B_logged_query
+5a860aa6554299211dda2a45,Utne Reader frequency NYER,0.0,False,True,False,Utne Reader,The New York Enterprise Report,0.0,0.0,E2,7B_logged_query
+5ae4585c5542996836b02c89,Live band members count,1.0,False,True,True,Live,Live,1.0,1.0,E2,7B_logged_query
+5adfcb5455429906c02daa48,Death in Paradise characters,1.0,False,True,True,Humphrey Goodman,Father Dougal McGuire,0.0,0.0,E2,7B_logged_query
+5a77a41a5542997042120ab9,Inception release year,0.0,False,False,True,2010,2006,0.0,0.0,E2,7B_logged_query
+5a8759395542994775f607e0,Coen brothers filmographies,1.0,False,True,True,Joel David Coen,Joel David Coen,1.0,1.0,E2,7B_logged_query
+5a84992e5542992a431d1a6d,Orleans Casino Paradise Nevada,1.0,False,True,True,Boyd Gaming,Boyd Gaming,1.0,1.0,E2,7B_logged_query
+5ac1bce45542994ab5c67def,Pothos Tibouchina flowering genus comparison,0.0,False,True,False,Yes,yes,1.0,1.0,E2,7B_logged_query
+5ac0641f554299294b218fbe,lcms member count,1.0,False,True,True,2.1 million,2.1 million,1.0,1.0,E2,7B_logged_query
+5a87954f5542996e4f308856,Bactris species count Epigaea species count,0.0,False,True,False,Epigaea,Bactris,0.0,0.0,E2,7B_logged_query
+5a8bc03d5542996e8ac88a0b,LBK code name details,0.0,False,False,True,LBK,Operation Neptune,0.0,0.0,E2,7B_logged_query
+5ab8869155429916710eb081,EA 18G Growler VAQ 138,1.0,False,True,True,EA-18G Growler,Boeing EA-18G Growler,0.8,0.0,E2,7B_logged_query
+5adde17f5542992200553b87,Aaron Gordon Chicago Bulls,1.0,False,True,True,Orlando Magic,Orlando Magic,1.0,1.0,E2,7B_logged_query
+5a776ac75542993569682d9b,Dennis Kux elections count,1.0,False,True,True,Daniel Patrick Moynihan,"Daniel Patrick ""Pat"" Moynihan",0.8571428571428571,0.0,E2,7B_logged_query
+5ae70ed7554299572ea546a1,Charlie Murphy Eddie Murphy,1.0,False,True,True,Eddie Murphy,Charlie Murphy,0.5,0.0,E2,7B_logged_query
+5ae1fbf05542997f29b3c1e7,sports car club america formed,1.0,False,True,True,1944,1944,1.0,1.0,E2,7B_logged_query
+5ac1c9a15542994ab5c67e1c,Lima Per population,1.0,False,True,True,10 million,more than 10 million,0.6666666666666666,0.0,E2,7B_logged_query
+5a77c8905542995d831812ce,Levi Weeks Antebellum Mansion Manhattan Well Murder,0.0,False,True,False,Levi Weeks,Levi Weeks,1.0,1.0,E2,7B_logged_query
+5a89f68f5542992e4fca84b6,Governor military background,0.0,False,False,True,Military officer,officer,0.6666666666666666,0.0,E2,7B_logged_query
+5a7f62405542992e7d278cf0,Publishers 1939 Finnegans Wake,0.0,False,False,True,Ithys Press,Teriade,0.0,0.0,E2,7B_logged_query
+5a7ca4485542990527d554f1,Eastern State Penitentiary address,0.0,False,True,False,2027 Fairmount Avenue,2027 Fairmount Avenue,1.0,1.0,E2,7B_logged_query
+5a8347d65542996488c2e3f6,kurt russell coach herb brooks,0.0,False,False,True,Herb Brooks,Kurt Russell,0.0,0.0,E2,7B_logged_query
+5ab8634e5542990e739ec8de,value premium expert findings,0.0,False,False,True,claiming that Fama and French's research is period dependent,The Vanguard Group,0.0,0.0,E2,7B_logged_query
+5ab85e9e55429934fafe6d8b,1614 university Groningen Netherlands,0.0,False,True,False,1614,1614,1.0,1.0,E2,7B_logged_query
+5a79c9c05542994bb94570a5,Hawaii House of Representatives member 1947 birth date,1.0,False,True,True,Hawaii House of Representatives,"Robert ""Bobby"" Bunda",0.0,0.0,E2,7B_logged_query
+5a8c616f5542995e66a475de,Steeles Avenue Redlea Avenue,0.0,False,True,False,Steeles Avenue,Steeles Avenue,1.0,1.0,E2,7B_logged_query
+5ab90fdd55429916710eb0fc,London England Watertown Massachusetts,0.0,False,True,False,"London, England","London, England",1.0,1.0,E2,7B_logged_query
+5abe7f695542993f32c2a12d,Young Justice plot themes,1.0,False,True,True,Young Justice,focus on young superheroes,0.3333333333333333,0.0,E2,7B_logged_query
+5abeb0da5542997ec76fd34b,Monkey Kingdom AnaganagaDisney,0.0,False,False,True,No,yes,0.0,0.0,E2,7B_logged_query
+5a7521c55542993748c897c6,Temagami Lorrain Mine 16 ton sample 1935,0.0,False,True,False,Burwash Mine,Burwash Mine,1.0,1.0,E2,7B_logged_query
+5adfda5255429942ec259b5e,Kensington Runestone location,1.0,False,True,True,Douglas County,Douglas,0.6666666666666666,0.0,E2,7B_logged_query
+5abaeda95542992ccd8e7e5d,Puente Hills Mall Back to the Future filming,0.0,False,True,False,Twin Pines/Lone Pine Mall,Twin Pines/Lone Pine Mall,1.0,1.0,E2,7B_logged_query
+5ae68e0055429908198fa607,comedy films actress types,0.0,False,False,True,South Indian film industry,Hindi,0.0,0.0,E2,7B_logged_query
+5a7577785542992d0ec05fa0,Tatton Park Knutsford,1.0,False,True,True,Tatton Park,Tatton Park,1.0,1.0,E2,7B_logged_query
+5a7d147955429909bec76942,Felicity Jones Chalet Girl Treasure Seekers,1.0,False,True,True,Felicity Jones,Felicity Rose Hadley Jones,0.6666666666666666,0.0,E2,7B_logged_query
+5a83a2a15542993344746063,1922 reopening date,0.0,False,True,False,June 1925,June 1925,1.0,1.0,E2,7B_logged_query
+5ac079e9554299294b218fff,Babcock Marine Royal Navy,0.0,False,True,False,Royal Navy,Navy,0.6666666666666666,0.0,E2,7B_logged_query
+5adca8375542990d50227cd4,2009,0.0,False,False,True,2010,2008,0.0,0.0,E2,7B_logged_query
+5add4f3a5542997545bbbd2c,LRA alternative name genocide,1.0,False,True,True,United Holy Salvation Army,United Holy Salvation Army and Uganda Christian Army/Movement,0.6666666666666666,0.0,E2,7B_logged_query
+5ae26cb15542994d89d5b421,The Middle premiere date,1.0,False,True,True,"September 30, 2009","September 30, 2009",1.0,1.0,E2,7B_logged_query
+5a73cad5554299623ed4ac5e,Wes Studi Powwow Highway,0.0,False,False,True,Kevin Costner,"Wesley ""Wes"" Studi",0.0,0.0,E2,7B_logged_query
+5ae0d5335542990adbacf674,Triumph Insult Comic Dog creator details,1.0,False,True,True,Robert Smigel,"Robert Smigel, Michael Koman and David Feldman",0.4444444444444445,0.0,E2,7B_logged_query
+5ab344fc55429969a97a811e,vodka cognac tomato juice,0.0,False,True,False,No,no,1.0,1.0,E2,7B_logged_query
+5ae1319c55429920d5234301,Nicholas Brothers 1935 MGM musical,1.0,False,True,True,An All-Colored Vaudeville Show,"""An All-Colored Vaudeville Show""",1.0,1.0,E2,7B_logged_query
+5abee41a5542993fe9a41d79,australian street stock championship type,0.0,False,True,False,Dirt track racing,Dirt track racing,1.0,1.0,E2,7B_logged_query
+5a7daad55542995f4f4022b7,Query Namesake island birth year,0.0,False,False,True,1991,1599,0.0,0.0,E2,7B_logged_query
+5a8ff6635542995651fb5086,Bearno's Kentucky Locations Patxi's Current Stores,0.0,False,True,False,Patxi's Chicago Pizza,Bearno's Pizza,0.4,0.0,E2,7B_logged_query
+5ae3c0cc5542992f92d82369,1957 Fran Drescher birth year,1.0,False,True,True,1957,1957,1.0,1.0,E2,7B_logged_query
+5a8485fa5542992a431d1a41,Marcus T Reynolds brother,1.0,False,True,True,Cuyler Reynolds,Cuyler Reynolds,1.0,1.0,E2,7B_logged_query
+5ae1389655429901ffe4ae05,Bethpage State Parkway interchange Southern State Parkway,0.0,False,True,False,Southern State Parkway,Southern State Parkway,1.0,1.0,E2,7B_logged_query
+5a7b73ad5542997c3ec9718c,Jean Claude Van Damme action,1.0,False,True,True,action films,martial arts action films,0.6666666666666666,0.0,E2,7B_logged_query
+5a7a68d25542996c55b2dd98,patricia mountbatten ii elizabeth,1.0,False,True,True,"Louis Mountbatten, 1st Earl Mountbatten of Burma",second cousin once removed,0.0,0.0,E2,7B_logged_query
+5ae2bb545542992decbdcd88,India Today magazine frequency published,1.0,False,True,True,fortnightly,fortnightly,1.0,1.0,E2,7B_logged_query
+5a8f47a55542997ba9cb3219,Query spam hormel canned meat usage,1.0,False,True,True,Spam,Spam,1.0,1.0,E2,7B_logged_query
+5ab1ebff5542993be8fa9882,Myrtus common name length,0.0,False,True,False,Eustoma,Eustoma,1.0,1.0,E2,7B_logged_query
+5a7fd7305542992e7d278dc2,peter griffin origin films,0.0,False,True,False,The Life of Larry and Larry & Steve,The Life of Larry and Larry & Steve,1.0,1.0,E2,7B_logged_query
+5abb8aaf5542993f40c73b1c,Jennifer Paige Chambers Jiminy Glick Ed Grimley city,0.0,False,False,True,Los Angeles,Los Angeles,1.0,1.0,E2,7B_logged_query
+5abba584554299642a094afa,Vad Lee 2004 stats,0.0,False,False,True,523,"1,925 yards",0.0,0.0,E2,7B_logged_query
+5a804510554299485f5985af,Belle Sebastian The Adventure Continues director Christian Duguay,0.0,False,True,False,Christian Duguay,Nicolas Vanier,0.0,0.0,E2,7B_logged_query
+5abb11c15542992ccd8e7ef8,parole date Yolanda Sald var,0.0,False,False,True,"March 30, 2025","March 30, 2025",1.0,1.0,E2,7B_logged_query
+5ae376a35542990afbd1e163,Peter Balakian academic status James Der Derian profession,0.0,False,True,False,No,yes,0.0,0.0,E2,7B_logged_query
+5adc5b875542996e68525328,2006 Jason Isringhausen hip surgery,1.0,False,True,True,2006,2006 season,0.6666666666666666,0.0,E2,7B_logged_query
+5ae6b6065542991bbc976168,Matt Battaglia Other Movies,0.0,False,False,True,Scott Adkins,Scott Adkins,1.0,1.0,E2,7B_logged_query
+5a79d2fe5542994f819ef0c3,Aleksandr Ivanovsky Arthur Lubin birthdates,0.5,False,False,True,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,E2,7B_logged_query
+5ab38cdd5542992ade7c6de2,john lennon guardian Liverpool,0.0,False,False,True,John Lennon,John Lennon,1.0,1.0,E2,7B_logged_query
+5ae73d235542991e8301cc29,My Cousin Rachel production details,1.0,False,True,True,Free Range Films,Free Range Films,1.0,1.0,E2,7B_logged_query
+5a7a33205542996a35c1712f,New York Province royal colony,0.0,False,False,True,New York,Province of New York,0.6666666666666666,0.0,E2,7B_logged_query
+5a799dfb5542994bb9457029,Caesars Palace Grand Prix 1983 Nissansponsor,0.0,False,True,False,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,E2,7B_logged_query
+5a71095e5542994082a3e4f3,David Dunn Unbreakable,0.0,False,True,False,David Dunn,David Dunn,1.0,1.0,E2,7B_logged_query
+5aba77be55429955dce3ee44,Ascension Island coordinates south equator,1.0,False,True,True,7°56',7°56',1.0,1.0,E2,7B_logged_query
+5a8af94455429971feec45b6,benjamin cardin senator 2007,0.0,False,True,False,2007,since 2007,0.6666666666666666,0.0,E2,7B_logged_query
+5abcedb355429959677d6b4f,Scott Carson Alan Smith,1.0,False,True,True,Scott Carson,Scott Paul Carson,0.8,0.0,E2,7B_logged_query
+5a713dcb5542994082a3e6d9,Armenian surname Gevork Minaskanian George Stambolian,0.0,False,False,True,Merchant,"American educator, writer,",0.0,0.0,E2,7B_logged_query
+5ae383e15542992f92d822fb,Heavyweights release year,1.0,False,True,True,Heavyweights,Heavyweights,1.0,1.0,E2,7B_logged_query
+5a85df525542994c784ddb9f,Christine McCarthy CFO Disney Robert Iger,1.0,False,True,True,Barack Obama,Robert A. Iger,0.0,0.0,E2,7B_logged_query
+5a9030ef5542995651fb50e4,Show Her Mike Reid Sport,1.0,False,True,True,American football,American football,1.0,1.0,E2,7B_logged_query
+5a8a2d2155429930ff3c0cdc,Animated film nominated award,0.0,False,False,True,Golden Globe Award for Best Animated Feature Film,Academy Award for Best Animated Feature,0.7142857142857143,0.0,E2,7B_logged_query
+5a88fa9e5542993b751ca8de,Adam AminNFL team,0.0,False,False,True,Minnesota Vikings,the Bears,0.0,0.0,E2,7B_logged_query
+5ae7882b554299540e5a55dd,MLB Draft pick signing details,0.0,False,False,True,Drafted,great-grandfather,0.0,0.0,E2,7B_logged_query
+5a81dacc55429926c1cdada0,William Shakespeare,0.0,False,True,False,William Shakespeare,William Shakespeare,1.0,1.0,E2,7B_logged_query
+5ab322b1554299194fa93570,Poppins series third book character type,1.0,False,True,True,Magical English nanny,fictional character,0.0,0.0,E2,7B_logged_query
+5a8a764555429930ff3c0de1,Bill Pollack birth distinction,0.0,False,True,False,American-born driver,American-born,0.6666666666666666,0.0,E2,7B_logged_query
+5a8d93bf554299068b959d46,yangzhou jiangyan coastal,0.0,False,True,False,No,no,1.0,1.0,E2,7B_logged_query
+5abf04ae5542993fe9a41dbf,Ndebele music Musical bow common feature,0.0,False,True,False,Playing,played,0.0,0.0,E2,7B_logged_query
+5a8de99d5542995a26add44b,Ekaterina Makarova Sherwood Stewart,1.0,False,True,True,No,no,1.0,1.0,E1,1.5B_grpo
+5ae752585542997b22f6a6ce,1945 UK general election,1.0,False,True,True,5 July 1945,5 July 1945,1.0,1.0,E1,1.5B_grpo
+5ab3da46554299753aec59c9,TD Banknorth Garden,1.0,False,True,True,TD Banknorth Garden,TD Garden,0.8,0.0,E1,1.5B_grpo
+5ab433675542991751b4d6e6,Bankers Life Fieldhouse,0.0,False,False,True,Bankers Life Fieldhouse,Bankers Life Fieldhouse,1.0,1.0,E1,1.5B_grpo
+5a89ef145542992e4fca8493,Miss Minnesota USA,1.0,False,True,True,Miss Minnesota USA,Miss Minnesota USA,1.0,1.0,E1,1.5B_grpo
+5ab273be554299722f9b4d30,Gotha Saxe Coburg and Gotha,1.0,False,True,True,1918,from 1826 to 1918,0.4,0.0,E1,1.5B_grpo
+5adee4055542995ec70e8f3d,NSYNC Bye Bye Bye,0.5,False,False,True,Gossip,(God Must Have Spent) A Little More Time on You,0.0,0.0,E1,1.5B_grpo
+5abace3455429901930fa8c0,Vienna Mozart Society,0.5,False,False,True,Bushey,St Albans,0.0,0.0,E1,1.5B_grpo
+5ae213bf554299495565d9e6,Watford,0.0,False,False,True,Wales,the island of Great Britain,0.0,0.0,E1,1.5B_grpo
+5ae1109455429901ffe4ad42,Sorrento Port,1.0,False,True,True,Port Phillip,Port Phillip,1.0,1.0,E1,1.5B_grpo
+5a86a5295542991e77181677,Serj Tankian,0.0,False,False,True,Serj Tankian,Serj Tankian,1.0,1.0,E1,1.5B_grpo
+5a7a4b8f5542990783324efb,C F Martin Company,1.0,False,True,True,1833,1833,1.0,1.0,E1,1.5B_grpo
+5a760c3f5542994ccc91869e,New Query Former site of New Frontier Hotel,1.0,False,True,True,the former New Frontier Hotel and Casino,New Frontier Hotel and Casino,0.9090909090909091,0.0,E1,1.5B_grpo
+5a8a04e35542992d82986e51,Lismore County Waterford,0.0,False,False,True,County Waterford,Ireland,0.0,0.0,E1,1.5B_grpo
+5ae6507e55429929b0807b2d,Lower East Side,0.0,False,False,True,East Village,Chelsea neighborhood,0.0,0.0,E1,1.5B_grpo
+5abdd64a5542991f66106060,Marcus Rashford Kylian Mbapp Robert Lewandowski Gonzalo Higua,0.0,False,False,True,Manchester United,Leicester City,0.0,0.0,E1,1.5B_grpo
+5a884f4155429938390d3f28,Slug of Atmosphere,1.0,False,True,True,Slug,Slug,1.0,1.0,E1,1.5B_grpo
+5ab57e5b554299488d4d99ba,Wisbech to Long Sutton A1101,0.0,False,False,True,A1101,A1101 road,0.6666666666666666,0.0,E1,1.5B_grpo
+5a8e58cb5542990e94052ae0,Love Hate 2014,1.0,False,True,True,Love/Hate,Love/Hate,1.0,1.0,E1,1.5B_grpo
+5a804ffe5542996402f6a4b1,Robin Williams and Paul L Smith played opposite,0.0,False,False,True,Glossu Rabban,Bluto,0.0,0.0,E1,1.5B_grpo
+5a78eda255429970f5fffddb,Dario Fo lived longer than Robert Benchley,0.5,True,False,True,Dario Fo,Dario Fo,1.0,1.0,E1,1.5B_grpo
+5ae7eb925542994a481bbe26,2004 Hong Kong romantic drama written and directed,1.0,False,True,True,Wong Kar-wai,Wong Kar-wai,1.0,1.0,E1,1.5B_grpo
+5ab43b5255429942dd415ef2,Victor Banjo was a Colonel in the Nigerian,0.0,False,False,True,Colonel,Colonel,1.0,1.0,E1,1.5B_grpo
+5ae0b21255429924de1b712e,Seinfeld,0.0,False,False,True,Jerry Seinfeld,Karen Maruyama,0.0,0.0,E1,1.5B_grpo
+5a76610f5542992db947377c,Charles Sackville 2nd Duke of Dorset,0.0,False,False,True,Sassoon family,Rothschilds of the East,0.0,0.0,E1,1.5B_grpo
+5ab2bfbd554299545a2cfa50,Cuddington Heath Cheshire Content Cuddington Heath is a,0.0,False,False,True,972 ha,972 ha,1.0,1.0,E1,1.5B_grpo
+5a850fa75542997b5ce3ff9e,Fun and Fancy Free is an animated film,1.0,False,True,True,yes,yes,1.0,1.0,E1,1.5B_grpo
+5a7b2685554299042af8f713,John Woo born first,1.0,False,True,True,Joseph Santley,Joseph Mansfield Santley,0.8,0.0,E1,1.5B_grpo
+5abb067255429966062416c7,Willett Pot Still Reserve,0.0,False,False,True,Willett Pot Still Reserve Bourbon,Noah's Mill,0.0,0.0,E1,1.5B_grpo
+5ab3041d55429976abd1bc24,Piscataway,0.0,False,False,True,Monmouth Campaign,Battle of Monmouth,0.4,0.0,E1,1.5B_grpo
+5abfed5b5542994516f4552c,Shaun Wright Phillips,0.0,False,False,True,Phil Neal,Daniel Sturridge,0.0,0.0,E1,1.5B_grpo
+5a85c5cb5542997b5ce4002b,Patterson Companies Inc Marathon Petroleum Corporation Forbes,1.0,False,True,True,Yes,no,0.0,0.0,E1,1.5B_grpo
+5a7bdc7e5542997c3ec97296,Baylor University Texas,1.0,False,True,True,Texas,"Waco, Texas.",0.6666666666666666,0.0,E1,1.5B_grpo
+5ae33ac15542992e3233c327,Russ Meyer and Russ Meyer co wrote Beyond,0.0,False,False,True,Roger Ebert,Roger Ebert,1.0,1.0,E1,1.5B_grpo
+5a7f5e675542995d8a8dde4a,Billy Wilder's career spanned more than 50 decades,1.0,False,True,True,50,five,0.0,0.0,E1,1.5B_grpo
+5ab48e015542991779162cda,Charlestown New Hampshire,1.0,False,True,True,New Hampshire County,Sullivan County,0.4,0.0,E1,1.5B_grpo
+5a850cb25542994c784ddae5,Barbara Daly Baekeland,1.0,False,True,True,Barbara Daly Baekeland,Barbara Daly Baekeland,1.0,1.0,E1,1.5B_grpo
+5a7d24dc55429907fabef0b7,Burien Washington,0.0,False,False,True,King,Pierce County,0.0,0.0,E1,1.5B_grpo
+5a778e745542995d831811c8,Seattle Center's Fun Forest 1962 World's Fair,0.0,False,False,True,Ghost Train,Flight to Mars,0.0,0.0,E1,1.5B_grpo
+5a7a511e5542994f819ef1c2,Warrant band formation year,1.0,False,True,True,1984,1984,1.0,1.0,E1,1.5B_grpo
+5ae4d62a55429913cc204523,Colorado River,1.0,False,True,True,Colorado River,the central Rocky Mountains,0.0,0.0,E1,1.5B_grpo
+5a8458cb55429933447460e9,Kunal Nayyar Vinay Virmani and Adrianne Palicki,1.0,False,True,True,Simon Helberg,Kunal Nayyar,0.0,0.0,E1,1.5B_grpo
+5ac088095542992a796ded37,Does Sherman Alexie address sexual themes in his,1.0,False,True,True,No,no,1.0,1.0,E1,1.5B_grpo
+5ab6a8a855429953192ad355,Einstein Home director Max Planck Institute for Gravitational,1.0,False,True,True,Max Planck Institute for Gravitational Physics,Max Planck Institute for Gravitational Physics,1.0,1.0,E1,1.5B_grpo
+5ade587c5542992fa25da75e,Solandra and Petrophytum are in the rose family,1.0,False,True,True,Yes,no,0.0,0.0,E1,1.5B_grpo
+5a83412855429954d2e2ec6c,New Query New Sweden colony established during which,1.0,False,True,True,Thirty Years' War,Thirty Years' War,1.0,1.0,E1,1.5B_grpo
+5a85e07f5542994775f60677,Edvard Grieg,1.0,False,True,True,Norwegian,Norwegian,1.0,1.0,E1,1.5B_grpo
+5ae7e56255429952e35ea9d3,Relient K,0.0,False,False,True,Elbow,The White Stripes,0.0,0.0,E1,1.5B_grpo
+5ae168495542997b2ef7d1db,Anglo Saxon Bishops of Ramsbury,0.0,False,False,True,Anglo Saxon Bishops of Ramsbury,Anglo-Saxons,0.0,0.0,E1,1.5B_grpo
+5ae214d35542994d89d5b334,Big Time Rush,1.0,False,True,True,Scott Fellows,Scott Fellows,1.0,1.0,E1,1.5B_grpo
+5ac50bc15542996feb3fe9e1,Chester A Arthur,1.0,False,True,True,Chester A Arthur,James A. Garfield,0.0,0.0,E1,1.5B_grpo
+5ae768965542991e8301cc8f,The Glass Menagerie,1.0,False,True,True,Tennessee Williams,Tennessee Williams,1.0,1.0,E1,1.5B_grpo
+5ae80a61554299540e5a56fd,Mivtsa Yonatan,0.0,False,False,True,Operation Thunderbolt,Operation Entebbe,0.5,0.0,E1,1.5B_grpo
+5ab7b1cd5542992aa3b8c849,Brown County Kansas population in 2010,1.0,False,True,True,"9,984","9,984",1.0,1.0,E1,1.5B_grpo
+5ae7da225542993210983f94,Terence Mncedisi Nombembe,0.0,False,False,True,30 September 1961,26 May 1960,0.0,0.0,E1,1.5B_grpo
+5ae3f1165542995ad6573cb6,Artforum,0.0,False,False,True,Artforum,MIT Press,0.0,0.0,E1,1.5B_grpo
+5ac01f885542990832d3a1f7,Tarsdorf,0.0,False,False,True,33 km,33 km,1.0,1.0,E1,1.5B_grpo
+5ab3ac83554299753aec5984,Williamstown,1.0,False,True,True,Melbourne,Melbourne,1.0,1.0,E1,1.5B_grpo
+5a8c6c33554299653c1aa061,Forza Horizon 3,1.0,False,True,True,Forza Horizon 3,Ultimate Edition players,0.0,0.0,E1,1.5B_grpo
+5ae7aa1655429952e35ea9ae,Will Mellor in Two Pints of Lager and,1.0,False,True,True,"Will Mellor is an actor who starred in the British sitcom ""Two Pints of Lager and a Packet of Cris",England,0.0,0.0,E1,1.5B_grpo
+5a7d1d44554299452d57bafb,Sab Shimono was born in 1956,0.0,False,False,True,1956,1946,0.0,0.0,E1,1.5B_grpo
+5ae4b83f5542995dadf243cf,Christmas Wrapping,1.0,False,True,True,Christmas Wrapping,Christmas Wrapping,1.0,1.0,E1,1.5B_grpo
+5a8e8b8e5542990e94052b45,New Query Newcastle United,1.0,False,True,True,Newcastle United,Newcastle United Football Club,0.6666666666666666,0.0,E1,1.5B_grpo
+5ae6ac1355429908198fa675,Sugar Bowl,1.0,False,True,True,Sugar Bowl,2004 Nokia Sugar Bowl,0.6666666666666666,0.0,E1,1.5B_grpo
+5ade2dbe554299728e26c662,Maven Huffman Randy Orton World Wrestling Entertainment,1.0,False,True,True,WWE,WWE,1.0,1.0,E1,1.5B_grpo
+5a89e1975542992e4fca8432,Minister for Agriculture,0.0,False,False,True,Ministry of Agriculture,Constitution of Ireland,0.3333333333333333,0.0,E1,1.5B_grpo
+5a8bb4fb5542996e8ac889ed,M I A,1.0,False,True,True,Sri Lankan Tamil,Sri Lankan Tamil origin,0.8571428571428571,0.0,E1,1.5B_grpo
+5a83176455429954d2e2ec15,Protected,1.0,False,True,True,No,yes,0.0,0.0,E1,1.5B_grpo
+5a84a70d5542997175ce1f13,Trinidad James,1.0,False,True,True,Def Jam Recordings,Def Jam Recordings,1.0,1.0,E1,1.5B_grpo
+5ae426785542996836b02c45,All That Remains,0.0,False,False,True,Janus,Sevendust,0.0,0.0,E1,1.5B_grpo
+5ae79ed75542993210983eb7,Roy Clark,1.0,False,True,True,Hee Haw,"""Hee Haw""",1.0,1.0,E1,1.5B_grpo
+5a90c6465542995651fb51e5,Oscar Wilde,0.0,False,False,True,Oscar Wilde,J. M. Barrie,0.0,0.0,E1,1.5B_grpo
+5abb93a75542993f40c73b3e,Chrysler assembly plant in Mexico,1.0,False,True,True,Wayne,Auburn Hills,0.0,0.0,E1,1.5B_grpo
+5ac2cda0554299657fa2906e,Northwood,1.0,False,True,True,private,a private university,0.6666666666666666,0.0,E1,1.5B_grpo
+5abd24215542996e802b472d,Battle of the Boyne,1.0,False,True,True,King James II,King James II,1.0,1.0,E1,1.5B_grpo
+5a779d2d5542992a6e59df27,Rick Lazio,0.0,False,False,True,Rick Lazio,John Spencer,0.0,0.0,E1,1.5B_grpo
+5abe8bdc55429976d4830b65,Sejm,0.0,False,False,True,Sejm,"A convocation (from the Latin ""convocare"" meaning ""to call/come together"",",0.0,0.0,E1,1.5B_grpo
+5a72217455429971e9dc92b1,VCJ,0.0,False,False,True,VCJ,GamePro,0.0,0.0,E1,1.5B_grpo
+5a907f5855429916514e74e1,Romesh Ranganathan,1.0,False,True,True,Ben Miller,Ben Miller,1.0,1.0,E1,1.5B_grpo
+5a7ba109554299294a54aa38,Casablanca 1942,1.0,False,True,True,Alberto Cavalcanti,Michael Curtiz,0.0,0.0,E1,1.5B_grpo
+5a83a119554299334474605e,Oldham Athletic,1.0,False,True,True,Oldham Athletic,Oldham Athletic Association,0.8,0.0,E1,1.5B_grpo
+5a8c7447554299585d9e36ae,Mel McDaniel,0.0,False,False,True,Mel McDaniel,Don Williams,0.0,0.0,E1,1.5B_grpo
+5a7523e55542993748c897ca,Eric Bazilian,0.0,False,False,True,Mike Patton,Eric M. Bazilian,0.0,0.0,E1,1.5B_grpo
+5ae7c5365542993210983f41,Franklin County Maine,0.0,False,False,True,Carrabassett Valley,Carrabassett Valley,1.0,1.0,E1,1.5B_grpo
+5ae0e3cb5542993d6555ec83,Shawn Levy,1.0,False,True,True,1968,"July 23, 1968",0.5,0.0,E1,1.5B_grpo
+5ac54e645542993e66e822e9,Operation Undertone US and French Armies Battle of,1.0,False,True,True,World War II,World War II,1.0,1.0,E1,1.5B_grpo
+5ae0429e55429924de1b707f,M S Subbulakshmi,0.0,False,False,True,1941,1934,0.0,0.0,E1,1.5B_grpo
+5ae17cc555429920d52343e8,Walter A Brown,0.0,False,False,True,"May 8, 1951","October 13, 1961",0.0,0.0,E1,1.5B_grpo
+5ae4c32355429960a22e01c2,George Chuvalo,1.0,False,True,True,Marion Wilson,George Chuvalo,0.0,0.0,E1,1.5B_grpo
+5ae1a7e75542997f29b3c0e8,San Diego State Aztecs represented San Diego State,0.0,False,False,True,San Diego State University,San Diego State University,1.0,1.0,E1,1.5B_grpo
+5ae23c5b5542992decbdcc9a,Leicester Leicestershire England,1.0,False,True,True,the River Soar,River Soar,1.0,1.0,E1,1.5B_grpo
+5a85f0de5542991dd0999ecd,San Francisco 49ers played in Candlestick Park which,0.0,False,False,True,Candlestick Park,Candlestick Park,1.0,1.0,E1,1.5B_grpo
+5a770b0b5542993569682cab,Altamont,0.0,False,False,True,Altamont,Voorheesville,0.0,0.0,E1,1.5B_grpo
+5aba8e395542994dbf019940,Mario Puzo,0.0,False,False,True,Bureaucracy,Catch-22,0.0,0.0,E1,1.5B_grpo
+5a8db49b5542994ba4e3dd14,Fighting Fantasy,1.0,False,True,True,Fighting Fantasy,Fighting Fantasy,1.0,1.0,E1,1.5B_grpo
+5ae6e60c5542991bbc976199,New Query Which two prep schools are in,0.0,False,False,True,Saint Charles Preparatory School,"Groton School, founded in 1884, and Lawrence Academy at Groton",0.14285714285714288,0.0,E1,1.5B_grpo
+5a7773a65542997042120a50,Vijay Iyer,1.0,False,True,True,Vijay Iyer,Vijay Iyer,1.0,1.0,E1,1.5B_grpo
+5ae8238755429952e35eaa50,Emma Watson Selena Gomez Anna Kendrick Danielle Campbell,0.0,False,False,True,Emma Watson,Selena Gomez,0.0,0.0,E1,1.5B_grpo
+5ab960f2554299743d22eb22,Brazil Guyana Venezuela,1.0,False,True,True,47.3%,47.3%,1.0,1.0,E1,1.5B_grpo
+5ab916ac55429919ba4e23a2,Federated States of Micronesia,0.0,False,False,True,over 6,900,0.0,0.0,E1,1.5B_grpo
+5a72aa405542994cef4bc3c5,Island chain becoming one,0.0,False,False,True,Leeward Antilles,Seac Pai Bay has been reclaimed from the sea as part of Cotai.,0.0,0.0,E1,1.5B_grpo
+5abe737755429965af743f0f,Simon Brown and Thomas Tallis both compose music,1.0,False,True,True,Choral music,music,0.6666666666666666,0.0,E1,1.5B_grpo
+5a7646fc5542992d0ec06088,University of Hertfordshire,1.0,False,True,True,University of Hertfordshire,University of Hertfordshire,1.0,1.0,E1,1.5B_grpo
+5ade12555542997545bbbe3e,Extra Texture Read All About It,1.0,False,True,True,September 1975,September,0.6666666666666666,0.0,E1,1.5B_grpo
+5a8b3cd55542997f31a41cbf,Rebels MC president nickname,0.5,True,False,True,Alex Vella,The Maltese Falcon,0.0,0.0,E1,1.5B_grpo
+5a7f61745542994857a76714,WHLT,0.0,False,False,True,UHF channel 22,UHF channel 22,1.0,1.0,E1,1.5B_grpo
+5ab1fc41554299340b525454,France national football team represents which country,1.0,False,True,True,France,France,1.0,1.0,E1,1.5B_grpo
+5ae0dc47554299603e418480,Bo Luke Daisy and Uncle Jesse's adventures in,0.0,False,False,True,"An American action-comedy television series that aired on CBS from January 26, 1979, to",series,0.14285714285714288,0.0,E1,1.5B_grpo
+5a87c0a95542997e5c09a563,Lydia Denker,0.0,False,False,True,Laura Mae Corrigan,composer,0.0,0.0,E1,1.5B_grpo
+5ae204a0554299234fd0439c,Jimmy Chipperfield,0.0,False,False,True,Marquess of Bath,Viscount Weymouth,0.0,0.0,E1,1.5B_grpo
+5a81cf3d55429926c1cdad86,Song Seung heon,0.0,False,False,True,Seungri,Kim Dong-jun,0.0,0.0,E1,1.5B_grpo
+5a8a1eb755429970aeb70261,2013 Canadian romantic comedy film directed by Joel,0.0,False,False,True,Joel and Ethan Coen,Michael Dowse,0.0,0.0,E1,1.5B_grpo
+5abb9de2554299642a094aca,Lil' Kim,0.5,False,False,True,Kimberly Denise Jones,Kimberly Denise Jones,1.0,1.0,E1,1.5B_grpo
+5abf17145542997ec76fd3b5,Aetna,1.0,False,True,True,Fortune 100,Fortune 100,1.0,1.0,E1,1.5B_grpo
+5ae3761d5542990afbd1e160,Bewsey and Beamont Collegiate Academy both are schools,1.0,False,True,True,schools,Warrington,0.0,0.0,E1,1.5B_grpo
+5a89c2a15542993b751ca991,Anthony Eden,1.0,False,True,True,United Kingdom,United Kingdom,1.0,1.0,E1,1.5B_grpo
+5abfc4415542993fe9a41e46,Lin Manuel Miranda,1.0,False,True,True,Lin-Manuel Miranda,Lin-Manuel Miranda,1.0,1.0,E1,1.5B_grpo
+5adfcf2955429925eb1afa9d,Kevin Anderson,0.0,False,False,True,Silvia Pinal,"Marilyn Pauline ""Kim"" Novak",0.0,0.0,E1,1.5B_grpo
+5ae122f55542997b2ef7d0f6,Richard Nixon,0.0,False,False,True,Gerald Ford,Gerald Ford,1.0,1.0,E1,1.5B_grpo
+5adcc6015542990d50227d0c,Humphrey Jennings recognized by Government of India,1.0,False,True,True,Yes,no,0.0,0.0,E1,1.5B_grpo
+5abffa135542994516f45565,Things We Said Today,1.0,False,True,True,Paul McCartney,Paul McCartney,1.0,1.0,E1,1.5B_grpo
+5ab709b45542992aa3b8c78f,Lois Chiles,0.0,False,False,True,Michael Winslow,Richard Dawson Kiel,0.0,0.0,E1,1.5B_grpo
+5a7503695542993748c89799,James Lowther,1.0,False,True,True,James Lowther,"James Lowther, 1st Earl of Lonsdale",0.5,0.0,E1,1.5B_grpo
+5adc9b16554299438c868e0f,Jack Finney and Thomas Keneally are both English,0.5,False,False,True,No,no,1.0,1.0,E1,1.5B_grpo
+5a740a655542993a88ae2eee,Grace Jones My Jamaican Guy,0.5,False,False,True,My Jamaican Guy,Living My Life,0.3333333333333333,0.0,E1,1.5B_grpo
+5a75d7a85542994ccc918637,Hayden Christensen,1.0,False,True,True,Hayden Christensen,Hayden Christensen,1.0,1.0,E1,1.5B_grpo
+5a77bc455542995d8318128c,Sara Evans,1.0,False,True,True,February,February,1.0,1.0,E1,1.5B_grpo
+5abc732c554299700f9d78ce,Achsa W Sprague best known as a medium,0.0,False,False,True,Achsa W. Sprague was best known as a medium and trance lecturer.,Spiritualism,0.0,0.0,E1,1.5B_grpo
+5ac504f95542996feb3fe9d0,Nintendo,0.0,False,False,True,Nintendo,Nintendo,1.0,1.0,E1,1.5B_grpo
+5a7a36de5542994f819ef15a,CBS,1.0,False,True,True,New York City,New York City,1.0,1.0,E1,1.5B_grpo
+5a7f9e605542994857a76780,When did the 18th episode of The Simpsons,0.5,False,False,True,"November 6, 2001","April 28, 2002",0.0,0.0,E1,1.5B_grpo
+5ac2d97d554299677310262f,Peshawar Khyber Pakhtunkhwa,1.0,False,True,True,Khyber Pakhtunkhwa,Khyber Pakhtunkhwa,1.0,1.0,E1,1.5B_grpo
+5a75426555429916b01642c7,Matka gambling,0.0,False,False,True,Galgale Nighale,Dharmatama,0.0,0.0,E1,1.5B_grpo
+5ac4bc9a554299076e296dec,University College Oxford,1.0,False,True,True,"University College, Oxford","was a Master of University College, Oxford, England.",0.6,0.0,E1,1.5B_grpo
+5adfedfa554299025d62a38b,Taken,1.0,False,True,True,Pierre Morel,Pierre Morel,1.0,1.0,E1,1.5B_grpo
+5a778fe255429949eeb29ef9,Robert Poley or Christopher Marlowe,1.0,False,True,True,Christopher Marlowe,Christopher Marlowe,1.0,1.0,E1,1.5B_grpo
+5a793cfb5542994bb9456fc8,Jacqueline Cochran,1.0,False,True,True,2016,1980,0.0,0.0,E1,1.5B_grpo
+5ae353435542992e3233c37d,Peter Madsen,1.0,False,True,True,Richard and Helen DeVos Foundation,Copenhagen Suborbitals,0.0,0.0,E1,1.5B_grpo
+5a872e8e5542991e7718170c,Bryant Gumbel Eleanor Roosevelt William Randolph Hearst and,0.0,False,False,True,portraits,portrait,0.0,0.0,E2,1.5B_grpo
+5a7265825542997f827839a3,Michael Nunn,0.0,False,False,True,Olympic medal: Silver,a silver medal,0.8,0.0,E2,1.5B_grpo
+5abe2b0155429976d4830a83,Tannenberg and Masurian Lakes,0.0,False,True,False,1914,26–30 August 1914,0.5,0.0,E2,1.5B_grpo
+5ae135fb55429920d523431f,The X Files,0.0,False,False,True,The X-Files,WB Television Network,0.0,0.0,E2,1.5B_grpo
+5a8f0a01554299458435d539,Indy Indiana formed in 2009,0.0,False,True,False,Indianapolis,Indianapolis,1.0,1.0,E2,1.5B_grpo
+5ab40e1c5542996a3a969f00,Short Circuit 2,1.0,False,True,True,1988,1988,1.0,1.0,E2,1.5B_grpo
+5ab28c89554299340b525513,Gruppenf hrer,0.0,False,True,False,Gruppenführer,Reichsführer-SS,0.0,0.0,E2,1.5B_grpo
+5a87e3d65542993e715abff8,Game of Thrones,0.0,False,True,False,Game of Thrones,Game of Thrones,1.0,1.0,E2,1.5B_grpo
+5addfc425542997dc7907101,Nico H lkenberg born 17 September 1996 now,0.0,False,False,True,Sergio Pérez,Esteban Ocon,0.0,0.0,E2,1.5B_grpo
+5ab576dc5542997d4ad1f13d,Radha Jayalakshmi and the Priya sisters were both,0.0,False,True,False,Carnatic music,Carnatic music,1.0,1.0,E2,1.5B_grpo
+5a8d8eb5554299068b959d3a,Parsifal has more acts,1.0,False,True,True,Parsifal,Parsifal,1.0,1.0,E2,1.5B_grpo
+5ac5101455429924173fb592,Bret Michaels,1.0,False,True,True,"""Every Rose Has Its Thorn""",Every Rose Has Its Thorn,1.0,1.0,E2,1.5B_grpo
+5ab91f98554299753720f70d,Fantastic Voyage,0.0,False,True,False,Pastime Paradise,Gangsta's Paradise,0.5,0.0,E2,1.5B_grpo
+5ae6371155429929b0807af1,Philip Green composed Pierement Waltz and Amsterdam Polka,1.0,False,True,True,Pierement Waltz and Amsterdam Polka,Polka,0.33333333333333337,0.0,E2,1.5B_grpo
+5ac1bff05542994ab5c67dfc,Benjam n Arellano F lix,1.0,False,True,True,Benjamín Arellano Félix,Francisco Rafael Arellano Félix,0.5714285714285715,0.0,E2,1.5B_grpo
+5a7c2f145542996dd594b8b4,Friday Night Lights 2014 French American crime thriller,0.0,False,False,True,Sebastian Gutierrez,McG,0.0,0.0,E2,1.5B_grpo
+5a81e4e8554299676cceb140,Rick Stansbury,1.0,False,True,True,Campbellsville University,Campbellsville University,1.0,1.0,E2,1.5B_grpo
+5a83041355429966c78a6ae8,Ralph Bakshi and B la Ga l both,0.0,False,True,False,director,film director,0.6666666666666666,0.0,E2,1.5B_grpo
+5ab7fa7b5542992aa3b8c897,Green Day Pinhead Gunpowder,0.0,False,False,True,punk rock,punk rock,1.0,1.0,E2,1.5B_grpo
+5a8cee9b554299441c6b9f87,Haier has North American rights to GE Appliances,0.0,False,True,False,GE Appliances,GE Appliances,1.0,1.0,E2,1.5B_grpo
+5ab67bf255429954757d32f5,Booz Allen Hamilton Inc,1.0,False,True,True,"McLean, Virginia","McLean, Virginia",1.0,1.0,E2,1.5B_grpo
+5a77d65055429949eeb29f7b,Hibiscus arnottianus,0.0,False,True,False,7,250,0.0,0.0,E2,1.5B_grpo
+5a7f3f7c55429934daa2fd45,The Futureheads,1.0,False,True,True,Marcy Playground,The Futureheads,0.0,0.0,E2,1.5B_grpo
+5ade811e5542992fa25da7a0,Moby Dick published in what year,0.0,False,True,False,1851,1851,1.0,1.0,E2,1.5B_grpo
+5a7633ff5542994ccc918712,Ernest Eldridge born 18 July 1897 was a,0.0,False,False,True,1932,1932,1.0,1.0,E2,1.5B_grpo
+5a88a1475542997e5c09a646,Salvia or Arachis,0.0,False,True,False,Salvia,Salvia,1.0,1.0,E2,1.5B_grpo
+5a8887a055429938390d3f72,Rocky Boy Reservation,0.0,False,True,False,Rocky Boy Reservation,Rocky Boy's Indian Reservation,0.5714285714285715,0.0,E2,1.5B_grpo
+5a86399e5542994775f60733,Deeyah Khan,1.0,False,True,True,Punjabi/Pashtun,Punjabi/Pashtun,1.0,1.0,E2,1.5B_grpo
+5a84c0765542991dd0999dd9,Martha Wainwright,0.0,False,False,True,Martha Wainwright,Gary Lightbody,0.0,0.0,E2,1.5B_grpo
+5adf17f95542995ec70e8f6c,Thor The Dark World was directed by Alan,0.0,False,True,False,Australia,Australian,0.0,0.0,E2,1.5B_grpo
+5a7f5ab65542995d8a8dde43,The Cosmopolitan in Las Vegas,1.0,False,True,True,The Cosmopolitan,Cosmopolitan of Las Vegas,0.4,0.0,E2,1.5B_grpo
+5a8cec13554299441c6b9f7d,Vanessa Le roi malgr lui same number of,0.0,False,True,False,No,yes,0.0,0.0,E2,1.5B_grpo
+5abce9ca554299114383a193,Michael Owen's profession after retiring from football is,0.0,False,True,False,Successful racehorse breeder and owner,racehorse breeder and owner,0.888888888888889,0.0,E2,1.5B_grpo
+5a7a1b845542990783324e5f,Borussia M nchengladbach,0.0,False,False,True,"Feijenoord Stadion in Rotterdam, Netherlands",Stadio Olimpico,0.0,0.0,E2,1.5B_grpo
+5a7363ec5542991f29ee2dd7,Key West,1.0,False,True,True,Key West,Key West,1.0,1.0,E2,1.5B_grpo
+5a77321355429972597f1493,The Agronomist,0.0,False,True,False,The Agronomist,The Agronomist,1.0,1.0,E2,1.5B_grpo
+5ab5cd4f554299488d4d9a31,Jay Joyce,1.0,False,True,True,In Pursuit,In Pursuit,1.0,1.0,E2,1.5B_grpo
+5a83411655429966c78a6b5d,Superstore,1.0,False,True,True,Justin Spitzer,Justin Spitzer,1.0,1.0,E2,1.5B_grpo
+5a8d50fb55429941ae14dfa2,Bodie California how many miles from Lake Tahoe,0.0,False,True,False,12,75 mi,0.0,0.0,E2,1.5B_grpo
+5ae80919554299540e5a56f6,Cairnburgh Castle,1.0,False,True,True,"1991's ""The Changing Scottish Landscape""",The Changing Scottish Landscape,0.8571428571428571,0.0,E2,1.5B_grpo
+5ab2b8fe5542991669774070,Enterprise Rent A Car,0.5,False,False,True,Enterprise Rent-A-Car,Budget Rent a Car,0.0,0.0,E2,1.5B_grpo
+5a8d0efd5542994ba4e3dbc6,International Chopin Piano Competition,1.0,False,True,True,Warsaw,"Warsaw, Poland",0.6666666666666666,0.0,E2,1.5B_grpo
+5a7125b95542994082a3e5d5,Minden Nevada,0.0,False,True,False,"Gardnerville, Nevada",Gardnerville,0.6666666666666666,0.0,E2,1.5B_grpo
+5a8a6a2155429930ff3c0dd0,Ken Flach,1.0,False,True,True,Lucie Šafářová,Kenneth Eliot Flach,0.0,0.0,E2,1.5B_grpo
+5ae834e95542997ec272776a,The Highwayman,1.0,False,True,True,Highwayman,Highwayman,1.0,1.0,E2,1.5B_grpo
+5a7ab51055429927d897bef6,Will Self,1.0,False,True,True,1961,1961,1.0,1.0,E2,1.5B_grpo
+5ae250b45542996483e64977,Pope John Paul II,0.0,False,False,True,Speaker of the House,former Speaker of the U.S. House of Representatives,0.6,0.0,E2,1.5B_grpo
+5a733c925542991f9a20c6b7,Dessert,0.0,False,False,True,Dessert,cocktails,0.0,0.0,E2,1.5B_grpo
+5a7e5ec25542991319bc947a,John Newcombe,0.0,False,True,False,Květa Peschke,Květa Peschke,1.0,1.0,E2,1.5B_grpo
+5adbf2805542994650320c15,when did William Vere Reeve King Fane become,0.0,False,False,True,1943,The High Sheriff changes every March.,0.0,0.0,E2,1.5B_grpo
+5a845e9055429933447460ec,Oklahoma,0.0,False,False,True,San Diego State,Sacramento Kings,0.0,0.0,E2,1.5B_grpo
+5a820c0c554299676cceb1fc,Narita International Airport Corporation,0.0,False,False,True,Narita International Airport Corporation,All Nippon,0.0,0.0,E2,1.5B_grpo
+5a88bd1d554299206df2b357,Lee Daniels' The Butler,0.0,False,True,False,"Season six, episode 5, ""Invasion""","season six, episode 5, ""Invasion""",1.0,1.0,E2,1.5B_grpo
+5a79332555429907847277e7,Bryce Courtenay died first,0.0,False,True,False,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,E2,1.5B_grpo
+5abd516a5542992ac4f3825c,Satyajit Ray,0.0,False,False,True,Hinduism,Hindi,0.0,0.0,E2,1.5B_grpo
+5add26075542994ed6169c9c,WAMC,1.0,False,True,True,WAMC,WAMC,1.0,1.0,E2,1.5B_grpo
+5a901f735542990a98493591,Vitellius had how many wives,1.0,False,True,True,three,second,0.0,0.0,E2,1.5B_grpo
+5ab840e255429934fafe6d3b,Maurice Bishop's leadership movement focused on socio economic,1.0,False,True,True,New Jewel Movement,New Jewel Movement,1.0,1.0,E2,1.5B_grpo
+5ac3d4b6554299204fd21e93,Jack and Jill,0.0,False,True,False,Paper,Paper,1.0,1.0,E2,1.5B_grpo
+5a73b2cb55429908901be31a,Maria von Trapp,0.0,False,True,False,Alix Williamson,Maria von Trapp,0.0,0.0,E2,1.5B_grpo
+5ac29cf8554299218029dac2,Sabrina Carpenter performed Take On The World with,0.0,False,False,True,Dayna Hart,Rowan Blanchard,0.0,0.0,E2,1.5B_grpo
+5ae686535542996d980e7bdc,Ringo Starr,0.0,False,False,True,Ringo Starr,Ringo Starr,1.0,1.0,E2,1.5B_grpo
+5a8aa1685542992d82986f32,Beijing Dance Academy,0.0,False,True,False,Beijing Dance Academy,Beijing Dance Academy,1.0,1.0,E2,1.5B_grpo
+5a7d7deb5542995f4f402282,Shifty Shellshock,0.0,False,False,True,Shifty Shellshock,Shifty Shellshock,1.0,1.0,E2,1.5B_grpo
+5a8c622a554299240d9c2142,Ursula K Le Guin,1.0,False,True,True,Ursula K. Le Guin,Ursula Kroeber Le Guin,0.75,0.0,E2,1.5B_grpo
+5a7b81715542997c3ec971d4,The CWA International Dagger,0.0,False,False,True,CWA International Dagger,Hugo Award,0.0,0.0,E2,1.5B_grpo
+5ae0c29c5542993d6555ec46,Bernie Taupin,0.0,False,False,True,Composer,"professional wrestler, actor, and hip hop musician",0.0,0.0,E2,1.5B_grpo
+5a7c290c5542990527d55468,Oklahoma,0.0,False,False,True,Oklahoma,Oklahoma,1.0,1.0,E2,1.5B_grpo
+5a876f785542993e715abf42,William Blake Herron held more diverse roles in,0.0,False,True,False,John Carpenter,"musician, editor and composer.",0.0,0.0,E2,1.5B_grpo
+5ae1e6d95542997283cd22c3,Jordan Peele and Alex Rubens,1.0,False,True,True,Jordan Peele and Alex Rubens,Jordan Peele,0.5714285714285715,0.0,E2,1.5B_grpo
+5ae10df355429920d52342ac,Who is the host of Australia's Got Talent,0.0,False,True,False,"Warrnambool, Victoria","Warrnambool, Victoria",1.0,1.0,E2,1.5B_grpo
+5ae4d8475542993aec5ec0e0,Aida,0.0,False,False,True,William Shakespeare,Giuseppe Verdi,0.0,0.0,E2,1.5B_grpo
+5ab94cf0554299743d22eade,NAS Pensacola,0.0,False,True,False,Pensacola,Warrington,0.0,0.0,E2,1.5B_grpo
+5ae479745542996836b02cb1,Katrina Bowden Hard Sell Sean Anders,0.0,False,False,True,Hard Sell,Sex Drive,0.0,0.0,E2,1.5B_grpo
+5a852cd05542997b5ce3ffb0,Saint John New Brunswick,1.0,False,True,True,Bay of Fundy,Bay of Fundy,1.0,1.0,E2,1.5B_grpo
+5a8babf05542996e8ac8899e,Beech vs Daviesia native growing land location,1.0,False,True,True,Daviesia,Daviesia,1.0,1.0,E2,1.5B_grpo
+5a82fcbd55429954d2e2ebe8,Tatiana Nikolayeva taught Vladimir Horowitz,1.0,False,True,True,Maria Grinberg,Maria Szraiber,0.5,0.0,E2,1.5B_grpo
+5a77c60255429967ab105285,Emil Wolf advanced the theory of direct scattering,0.0,False,True,False,The theory of direct scattering,theory of direct scattering and inverse scattering,0.7272727272727273,0.0,E2,1.5B_grpo
+5adf39ce5542995534e8c76d,Prithviraj Kapoor,0.0,False,False,True,thunderbolt,Shakespeare performances,0.0,0.0,E2,1.5B_grpo
+5ae694a15542991bbc976141,Minister Pool importance to Black Country and West,0.0,False,False,True,"Minister Pool is a reservoir located between Bird Street and Dam Street in the heart of the city of Lichfield,",defence of the Cathedral,0.1,0.0,E2,1.5B_grpo
+5ae13bca55429901ffe4ae17,Debbie Harry toured with J P Doherty on,1.0,False,True,True,Debbie Harry,Debbie Harry,1.0,1.0,E2,1.5B_grpo
+5a8a265b5542992d82986ecc,Frederick King Keller,0.0,False,True,False,Ian Schneider,Frederick King Keller,0.0,0.0,E2,1.5B_grpo
+5a77121a5542994aec3b71db,The Boatniks,1.0,False,True,True,Charley and the Angel,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",0.10526315789473684,0.0,E2,1.5B_grpo
+5ae6911955429908198fa626,Francesca Eastwood starred in Sela Ann Ward's E,1.0,False,True,True,Mrs. Eastwood & Company,Mrs. Eastwood & Company,1.0,1.0,E2,1.5B_grpo
+5ae53de455429908b6326599,Brodhead Creek,1.0,False,True,True,Delaware River,Delaware River,1.0,1.0,E2,1.5B_grpo
+5a813b6f55429903bc27b951,Megaoryzomys curioi was previously in the Oryzomyini tribe,0.0,False,True,False,Oryzomyini,Oryzomyini,1.0,1.0,E2,1.5B_grpo
+5a84b4005542991dd0999d99,When did Dog with a Blog end,0.0,False,False,True,"September 25, 2015","October 16, 2015",0.3333333333333333,0.0,E2,1.5B_grpo
+5a8cca64554299653c1aa125,James Hill and John Vereker 6th Viscount Gort,0.5,False,False,True,Victoria Cross,British Army,0.0,0.0,E2,1.5B_grpo
+5ab8ed305542991b5579f046,United States,1.0,False,True,True,United States,The United States of America,0.6666666666666666,0.0,E2,1.5B_grpo
+5ae0b2f25542993d6555ec1c,Elizabeth Taylor's dinner at Emilio's was Three colored,0.0,False,False,True,Scalappine al Marsala,hamburgers,0.0,0.0,E2,1.5B_grpo
+5ae207a65542994d89d5b317,Lavatera or Oplismenus genus number of species,0.0,True,True,False,Oplismenus,Oplismenus,1.0,1.0,E2,1.5B_grpo
+5a75383a5542996c70cfaeb3,Ulf Merbold or Miros aw Hermaszewski,0.0,False,True,False,Ulf Merbold,Ulf Dietrich Merbold,0.8,0.0,E2,1.5B_grpo
+5ae3fd2c5542995dadf2428f,Dee Snider is an actor,0.5,False,False,True,No,no,1.0,1.0,E2,1.5B_grpo
+5abffd10554299012d1db556,Valtellina,0.0,False,False,True,Valtellina,Lombardy,0.0,0.0,E2,1.5B_grpo
+5a8f812755429918e830d245,E F Hutton Co,0.0,False,True,False,Chairman and Chief Executive Officer of E. F. Hutton & Co.,a governor,0.0,0.0,E2,1.5B_grpo
+5ae520315542993aec5ec152,Taylor Swift and Liz Rose,0.0,False,True,False,Taylor Swift,Taylor Swift,1.0,1.0,E2,1.5B_grpo
+5a7631cd5542994ccc91870c,Hagerstown Community College,0.0,False,False,True,Hagerstown Community College,"Franconia, New Hampshire",0.0,0.0,E2,1.5B_grpo
+5ac26eed55429951e9e685bf,Doniphan County Kansas,1.0,False,True,True,"Doniphan County, Kansas",the U.S. state of Kansas,0.28571428571428575,0.0,E2,1.5B_grpo
+5a7e37095542995ed0d166d5,Robert Z Leonard,0.0,False,True,False,Sinclair Hill,Sinclair Hill,1.0,1.0,E2,1.5B_grpo
+5adf72d35542992d7e9f9369,Jon Turteltaub is a television writer,0.0,False,True,False,No,no,1.0,1.0,E2,1.5B_grpo
+5a876b265542993e715abf33,Stephen Christian,1.0,False,True,True,Joe Gooch,and lead guitarist,0.0,0.0,E2,1.5B_grpo
+5a77ddb855429967ab1052d8,Cyndi Lauper,1.0,False,True,True,Cyndi Lauper,"Cynthia Ann Stephanie ""Cyndi"" Lauper",0.5714285714285715,0.0,E2,1.5B_grpo
+5adcc3ed5542994d58a2f6c4,Rich LeFevre and Carlene LeFevre formed the First,0.0,False,False,True,"The ""First Family of Competitive Eating""","the ""First Family of Competitive Eating""",1.0,1.0,E2,1.5B_grpo
+5a76f5b155429972597f1400,Terry Riley,0.0,False,False,True,Steve Reich,Philip Morris Glass,0.0,0.0,E2,1.5B_grpo
+5ae2c696554299495565db32,Earls of Lauderdale,0.0,False,False,True,Earls of Lauderdale,Keeper of the Privy Seal of Scotland,0.2222222222222222,0.0,E2,1.5B_grpo
+5a875154554299211dda2be7,Gilley's Club,1.0,False,True,True,Mickey Gilley,Mickey Gilley,1.0,1.0,E2,1.5B_grpo
+5a84cf175542992a431d1aa2,Kurt Heasley Mike Stroud,0.0,False,True,False,Lilys,Ratatat,0.0,0.0,E2,1.5B_grpo
+5ae675245542991bbc9760dc,Clovis I,1.0,False,True,True,Merovech,Merovech,1.0,1.0,E2,1.5B_grpo
+5a80b0565542996402f6a5f0,Lit or Adorable,0.0,False,True,False,Adorable,Adorable,1.0,1.0,E2,1.5B_grpo
+5adde3a45542997545bbbdc2,Are Delmer Daves and Jean Pierre Jeunet involved,0.0,False,True,False,Yes,yes,1.0,1.0,E2,1.5B_grpo
+5ac26b7f55429951e9e685ae,DJ Scotch Egg influenced the electronic dance music,0.0,False,False,True,DJ Scotch Egg,hardcore,0.0,0.0,E2,1.5B_grpo
+5adf39295542992d7e9f92df,Apium or Elodea which genus has more species,0.0,True,True,False,Apium,Apium,1.0,1.0,E2,1.5B_grpo
+5abc19705542993a06baf86e,Rachel Stein,0.0,False,False,True,Dutch,Dutch,1.0,1.0,E2,1.5B_grpo
+5ae6914755429908198fa627,Zuffa purchased the organization in July 1982,1.0,False,True,True,"July 11, 2016",January 2001,0.0,0.0,E2,1.5B_grpo
+5adc9b7a5542994d58a2f679,Kelsea Ballerini worked with Shani Gandhi in Nashville,0.0,False,True,False,"Nashville, Tennessee",American,0.0,0.0,E2,1.5B_grpo
+5a721dfd55429971e9dc928b,Eden Hazard plays for the German Bundesliga club,0.0,False,True,False,Thorgan Hazard,Thorgan Ganael Francis Hazard,0.6666666666666666,0.0,E2,1.5B_grpo
+5a8b50475542997f31a41cd4,Yen Chi tan,1.0,False,True,True,Wong Shun Leung,world wushu tournament,0.0,0.0,E2,1.5B_grpo
+5a860aa6554299211dda2a45,Utne Reader or The New York Enterprise Report,0.0,False,True,False,Utne Reader,The New York Enterprise Report,0.0,0.0,E2,1.5B_grpo
+5ae4585c5542996836b02c89,Live,1.0,False,True,True,Live,Live,1.0,1.0,E2,1.5B_grpo
+5adfcb5455429906c02daa48,Ardal O'Hanlon,0.0,False,False,True,Father Dougal McGuire,Father Dougal McGuire,1.0,1.0,E2,1.5B_grpo
+5a77a41a5542997042120ab9,Inception,0.0,False,False,True,2010,2006,0.0,0.0,E2,1.5B_grpo
+5a8759395542994775f607e0,J Todd Anderson worked with the Coen brothers,1.0,False,True,True,Joel David Coen,Joel David Coen,1.0,1.0,E2,1.5B_grpo
+5a84992e5542992a431d1a6d,The Orleans,1.0,False,True,True,Boyd Gaming,Boyd Gaming,1.0,1.0,E2,1.5B_grpo
+5ac1bce45542994ab5c67def,Pothos is a flowering genus of plants,0.0,False,True,False,Yes,yes,1.0,1.0,E2,1.5B_grpo
+5ac0641f554299294b218fbe,Lutheran Church Missouri Synod members,1.0,False,True,True,2.1 million,2.1 million,1.0,1.0,E2,1.5B_grpo
+5a87954f5542996e4f308856,Bactris vs Epigaea species count,0.0,False,True,False,Epigaea,Bactris,0.0,0.0,E2,1.5B_grpo
+5a8bc03d5542996e8ac88a0b,LBK,0.0,False,False,True,Mighty Midgets,Operation Neptune,0.0,0.0,E2,1.5B_grpo
+5ab8869155429916710eb081,EA 18G Growler,0.5,False,False,True,EA-18G Growler,Boeing EA-18G Growler,0.8,0.0,E2,1.5B_grpo
+5adde17f5542992200553b87,Aaron Gordon,1.0,False,True,True,Orlando Magic,Orlando Magic,1.0,1.0,E2,1.5B_grpo
+5a776ac75542993569682d9b,Daniel Patrick Moynihan was elected more times,0.0,False,False,True,Daniel Patrick Moynihan,"Daniel Patrick ""Pat"" Moynihan",0.8571428571428571,0.0,E2,1.5B_grpo
+5ae70ed7554299572ea546a1,Charlie Murphy,1.0,False,True,True,Charlie Murphy,Charlie Murphy,1.0,1.0,E2,1.5B_grpo
+5ae1fbf05542997f29b3c1e7,Sports Car Club of America,1.0,False,True,True,1944,1944,1.0,1.0,E2,1.5B_grpo
+5ac1c9a15542994ab5c67e1c,Lima Per,1.0,False,True,True,10 million,more than 10 million,0.6666666666666666,0.0,E2,1.5B_grpo
+5a77c8905542995d831812ce,Levi Weeks constructed Auburn the Antebellum mansion and,0.0,False,True,False,Levi Weeks,Levi Weeks,1.0,1.0,E2,1.5B_grpo
+5a89f68f5542992e4fca84b6,Governor Stapleton Cotton 1st Viscount Combermere 1814,0.0,False,False,True,Military commander,officer,0.0,0.0,E2,1.5B_grpo
+5a7f62405542992e7d278cf0,James Joyce Finnegans Wake 1939 publisher,0.5,False,False,True,Ithys Press,Teriade,0.0,0.0,E2,1.5B_grpo
+5a7ca4485542990527d554f1,Eastern State Penitentiary,0.0,False,True,False,2027 Fairmount Avenue,2027 Fairmount Avenue,1.0,1.0,E2,1.5B_grpo
+5a8347d65542996488c2e3f6,Herb Brooks coach USA hockey 2004 film,0.0,False,False,True,Miracle,Kurt Russell,0.0,0.0,E2,1.5B_grpo
+5ab8634e5542990e739ec8de,John C Bogle found that value premium does,1.0,False,True,True,no value premium exists,The Vanguard Group,0.0,0.0,E2,1.5B_grpo
+5ab85e9e55429934fafe6d8b,University of Groningen,0.0,False,True,False,1614,1614,1.0,1.0,E2,1.5B_grpo
+5a79c9c05542994bb94570a5,Hawaii State House of Representatives,1.0,False,True,True,Hawaii House of Representatives,"Robert ""Bobby"" Bunda",0.0,0.0,E2,1.5B_grpo
+5a8c616f5542995e66a475de,Pacific Mall and Splendid China Mall are bordered,0.0,False,True,False,Steeles Avenue,Steeles Avenue,1.0,1.0,E2,1.5B_grpo
+5ab90fdd55429916710eb0fc,Watertown Massachusetts,0.0,False,True,False,"London, England","London, England",1.0,1.0,E2,1.5B_grpo
+5abe7f695542993f32c2a12d,Young Justice,1.0,False,True,True,Young Justice,focus on young superheroes,0.3333333333333333,0.0,E2,1.5B_grpo
+5abeb0da5542997ec76fd34b,Monkey Kingdom was connected with Disney but Anaganaga,0.0,False,False,True,Yes,yes,1.0,1.0,E2,1.5B_grpo
+5a7521c55542993748c897c6,Burwash Mine,0.0,False,True,False,Burwash Mine,Burwash Mine,1.0,1.0,E2,1.5B_grpo
+5adfda5255429942ec259b5e,Shakopee Minnesota,0.0,False,False,True,Scott County,Douglas,0.0,0.0,E2,1.5B_grpo
+5abaeda95542992ccd8e7e5d,Puente Hills Mall,0.0,False,True,False,Twin Pines/Lone Pine Mall,Twin Pines/Lone Pine Mall,1.0,1.0,E2,1.5B_grpo
+5ae68e0055429908198fa607,Nikhil Dwivedi,0.0,False,False,True,South Indian film industry,Hindi,0.0,0.0,E2,1.5B_grpo
+5a7577785542992d0ec05fa0,Heritage Centre Macclesfield,0.0,False,False,True,Knutsford,Tatton Park,0.0,0.0,E2,1.5B_grpo
+5a7d147955429909bec76942,Felicity Jones,1.0,False,True,True,Felicity Jones,Felicity Rose Hadley Jones,0.6666666666666666,0.0,E2,1.5B_grpo
+5a83a2a15542993344746063,Manchester High School West 1925,0.0,False,True,False,June 1925,June 1925,1.0,1.0,E2,1.5B_grpo
+5ac079e9554299294b218fff,Babcock Marine,0.0,False,True,False,Royal Navy,Navy,0.6666666666666666,0.0,E2,1.5B_grpo
+5adca8375542990d50227cd4,Fading Rihanna song,1.0,False,True,True,2010,2008,0.0,0.0,E2,1.5B_grpo
+5add4f3a5542997545bbbd2c,Joseph Kony's Lord's Resistance Army,1.0,False,True,True,United Holy Salvation Army,United Holy Salvation Army and Uganda Christian Army/Movement,0.6666666666666666,0.0,E2,1.5B_grpo
+5ae26cb15542994d89d5b421,The Middle premiered on September 30 2009,1.0,False,True,True,"September 30, 2009","September 30, 2009",1.0,1.0,E2,1.5B_grpo
+5a73cad5554299623ed4ac5e,Gary Farmer,0.0,False,False,True,Kevin Costner,"Wesley ""Wes"" Studi",0.0,0.0,E2,1.5B_grpo
+5ae0d5335542990adbacf674,Conan O'Brien,0.0,False,False,True,Robert Smigel,"Robert Smigel, Michael Koman and David Feldman",0.4444444444444445,0.0,E2,1.5B_grpo
+5ab344fc55429969a97a811e,Bloody Mary ingredients,0.0,False,True,False,No,no,1.0,1.0,E2,1.5B_grpo
+5ae1319c55429920d5234301,Fayard Nicholas,1.0,False,True,True,An All-Colored Vaudeville Show,"""An All-Colored Vaudeville Show""",1.0,1.0,E2,1.5B_grpo
+5abee41a5542993fe9a41d79,Australian Street Stock Championship Dirt track racing,0.0,False,True,False,Dirt track racing,Dirt track racing,1.0,1.0,E2,1.5B_grpo
+5a7daad55542995f4f4022b7,Who was the namesake of the small island,0.0,False,False,True,2000,1599,0.0,0.0,E2,1.5B_grpo
+5a8ff6635542995651fb5086,Bearno's or Patxi's Chicago Pizza,0.0,False,True,False,Patxi's Chicago Pizza,Bearno's Pizza,0.4,0.0,E2,1.5B_grpo
+5ae3c0cc5542992f92d82369,Fran Drescher was born in 1957,1.0,False,True,True,1957,1957,1.0,1.0,E2,1.5B_grpo
+5a8485fa5542992a431d1a41,Marcus T Reynolds,1.0,False,True,True,Cuyler Reynolds,Cuyler Reynolds,1.0,1.0,E2,1.5B_grpo
+5ae1389655429901ffe4ae05,Bethpage State Parkway begins with an interchange at,0.0,False,True,False,Southern State Parkway,Southern State Parkway,1.0,1.0,E2,1.5B_grpo
+5a7b73ad5542997c3ec9718c,Jean Claude Van Damme,1.0,False,True,True,action films,martial arts action films,0.6666666666666666,0.0,E2,1.5B_grpo
+5a7a68d25542996c55b2dd98,Patricia Mountbatten,0.0,False,False,True,Eldest daughter,second cousin once removed,0.0,0.0,E2,1.5B_grpo
+5ae2bb545542992decbdcd88,HDFC Bank,0.0,False,False,True,annually,fortnightly,0.0,0.0,E2,1.5B_grpo
+5a8f47a55542997ba9cb3219,Klenger Burger,0.0,False,False,True,Spam,Spam,1.0,1.0,E2,1.5B_grpo
+5ab1ebff5542993be8fa9882,Myrtus or Eustoma,0.0,False,True,False,Eustoma,Eustoma,1.0,1.0,E2,1.5B_grpo
+5a7fd7305542992e7d278dc2,Family Guy Peter Griffith Larry Steve,0.0,False,True,False,The Life of Larry and Larry & Steve,The Life of Larry and Larry & Steve,1.0,1.0,E2,1.5B_grpo
+5abb8aaf5542993f40c73b1c,Martin Short,1.0,False,True,True,Los Angeles,Los Angeles,1.0,1.0,E2,1.5B_grpo
+5abba584554299642a094afa,Adrian Peterson,1.0,False,True,True,"1,925 yards","1,925 yards",1.0,1.0,E2,1.5B_grpo
+5a804510554299485f5985af,Christian Duguay,0.0,False,True,False,Nicolas Vanier,Nicolas Vanier,1.0,1.0,E2,1.5B_grpo
+5abb11c15542992ccd8e7ef8,Yolanda Sald var's parole date,0.0,False,False,True,"March 30, 2025","March 30, 2025",1.0,1.0,E2,1.5B_grpo
+5ae376a35542990afbd1e163,Are Peter Balakian and James Der Derian both,0.0,False,True,False,No,yes,0.0,0.0,E2,1.5B_grpo
+5adc5b875542996e68525328,Jason Isringhausen born in 1972 blew ten saves,1.0,False,True,True,2006,2006 season,0.6666666666666666,0.0,E2,1.5B_grpo
+5ae6b6065542991bbc976168,Matt Battaglia,0.0,False,False,True,Matt Battaglia,Scott Adkins,0.0,0.0,E2,1.5B_grpo
+5a79d2fe5542994f819ef0c3,Aleksandr Ivanovsky,0.5,False,False,True,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,E2,1.5B_grpo
+5ab38cdd5542992ade7c6de2,John Lennon,0.0,False,False,True,John Lennon,John Lennon,1.0,1.0,E2,1.5B_grpo
+5ae73d235542991e8301cc29,Free Range Films,0.0,False,False,True,Free Range Films,Free Range Films,1.0,1.0,E2,1.5B_grpo
+5a7a33205542996a35c1712f,New York,0.0,False,False,True,Province of New York,Province of New York,1.0,1.0,E2,1.5B_grpo
+5a799dfb5542994bb9457029,Caesars Palace Grand Prix 1983,0.0,False,True,False,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,E2,1.5B_grpo
+5a71095e5542994082a3e4f3,David Dunn,0.0,False,True,False,David Dunn,David Dunn,1.0,1.0,E2,1.5B_grpo
+5aba77be55429955dce3ee44,Guano deposits and caves on Ascension Island,1.0,False,True,True,7°56',7°56',1.0,1.0,E2,1.5B_grpo
+5a8af94455429971feec45b6,Ben Cardin has been in office since 2007,0.0,False,True,False,2007,since 2007,0.6666666666666666,0.0,E2,1.5B_grpo
+5abcedb355429959677d6b4f,Aaron Lennon James Milner Rio Ferdinand Scott Carson,1.0,False,True,True,Scott Carson,Scott Paul Carson,0.8,0.0,E2,1.5B_grpo
+5a713dcb5542994082a3e6d9,Gevork Minaskanian and George Stambolian both had the,0.0,False,False,True,merchant,"American educator, writer,",0.0,0.0,E2,1.5B_grpo
+5ae383e15542992f92d822fb,Heavyweights film,1.0,False,True,True,Heavyweights,Heavyweights,1.0,1.0,E2,1.5B_grpo
+5a85df525542994c784ddb9f,Robert A Iger,0.0,False,False,True,Barack Obama,Robert A. Iger,0.0,0.0,E2,1.5B_grpo
+5a9030ef5542995651fb50e4,Ronnie Milsap a country music artist was also,0.0,False,False,True,baseball,American football,0.0,0.0,E2,1.5B_grpo
+5a8a2d2155429930ff3c0cdc,Howl's Moving Castle,1.0,False,True,True,Academy Award for Best Animated Feature,Academy Award for Best Animated Feature,1.0,1.0,E2,1.5B_grpo
+5a88fa9e5542993b751ca8de,Adam Amin,0.0,False,False,True,Minnesota Vikings,the Bears,0.0,0.0,E2,1.5B_grpo
+5ae7882b554299540e5a55dd,23rd overall pick in 2010 MLB Draft is,0.5,False,False,True,Drafted,great-grandfather,0.0,0.0,E2,1.5B_grpo
+5a81dacc55429926c1cdada0,William Walton,0.0,False,True,False,William Walton,William Shakespeare,0.5,0.0,E2,1.5B_grpo
+5ab322b1554299194fa93570,Mary Poppins,1.0,False,True,True,Magical English nanny,fictional character,0.0,0.0,E2,1.5B_grpo
+5a8a764555429930ff3c0de1,Bill Pollack won the Pebble Beach race in,0.0,False,True,False,American-born driver,American-born,0.6666666666666666,0.0,E2,1.5B_grpo
+5a8d93bf554299068b959d46,Yangzhou and Jiangyan District are coastal cities,0.0,True,True,False,No,no,1.0,1.0,E2,1.5B_grpo
+5abf04ae5542993fe9a41dbf,Ndebele music uses leg rattles and clapping of,0.0,False,True,False,Playing,played,0.0,0.0,E2,1.5B_grpo
