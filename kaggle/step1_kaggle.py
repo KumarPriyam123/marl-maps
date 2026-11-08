@@ -36,7 +36,11 @@ print("installed:", pkgs)
 
 
 # %% CELL 2 — config ===========================================================
-import os, re, json, time, math, string, collections
+import os
+# vLLM starts its engine in a child process. With the default "fork", any CUDA use
+# in this notebook before CELL 5 breaks it ("CUDA error: initialization error").
+os.environ["VLLM_WORKER_MULTIPROC_METHOD"] = "spawn"
+import re, json, time, math, string, collections
 import numpy as np, pandas as pd, faiss
 
 BACKEND     = "vllm"   # must match CELL 1 ("vllm" or "hf")
