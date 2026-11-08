@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "run_tag": "step6a",
+    "smoke": false,
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "n_steps": 250,
+    "prompts_per_step": 8,
+    "G": 4,
+    "lr": 3e-05,
+    "kl_beta": 0.02,
+    "lora": [
+      16,
+      32
+    ],
+    "n_train_q": 4000,
+    "n_e1": 300,
+    "n_e2_items": 600,
+    "e2_rebuild_match": 1.0,
+    "checks": {
+      "training ran all steps": true,
+      "no NaN in log": true,
+      "groups carry signal (>=25% live)": false,
+      "E2 pools rebuilt faithfully (>=95%)": true,
+      "answers not empty after training (<5%)": true
+    }
+  },
+  "train": {
+    "reward_first": 0.8493,
+    "reward_last": 0.9619,
+    "f1_first": 59.0,
+    "f1_last": 66.44,
+    "kl_last": 0.37839,
+    "sec_per_step": 23.9
+  },
+  "before": {
+    "E1": {
+      "F1": 54.9,
+      "EM": 45.0
+    },
+    "E2_t0": {
+      "F1": 35.65,
+      "EM": 25.5,
+      "F1_7b_logged": 44.08
+    },
+    "E2_t1": {
+      "F1": 43.75,
+      "EM": 29.0,
+      "F1_7b_logged": 56.89
+    },
+    "E2_t3": {
+      "F1": 47.88,
+      "EM": 33.0,
+      "F1_7b_logged": 60.45
+    }
+  },
+  "after": {
+    "E1": {
+      "F1": 67.93,
+      "EM": 60.0
+    },
+    "E2_t0": {
+      "F1": 43.25,
+      "EM": 34.0,
+      "F1_7b_logged": 44.08
+    },
+    "E2_t1": {
+      "F1": 54.09,
+      "EM": 40.5,
+      "F1_7b_logged": 56.89
+    },
+    "E2_t3": {
+      "F1": 58.08,
+      "EM": 44.0,
+      "F1_7b_logged": 60.45
+    }
+  },
+  "paired": {
+    "E1_f1_after_minus_before": {
+      "mean": 13.03,
+      "ci95": [
+        8.8,
+        17.37
+      ],
+      "p_le_0": 0.0
+    },
+    "E2_t0_f1_after_minus_before": {
+      "mean": 7.6,
+      "ci95": [
+        2.9,
+        12.32
+      ],
+      "p_le_0": 0.0003
+    },
+    "E2_t0_f1_after_minus_7b": {
+      "mean": -0.83,
+      "ci95": [
+        -5.56,
+        3.7
+      ],
+      "p_le_0": 0.64
+    },
+    "E2_t1_f1_after_minus_before": {
+      "mean": 10.34,
+      "ci95": [
+        5.09,
+        15.76
+      ],
+      "p_le_0": 0.0001
+    },
+    "E2_t1_f1_after_minus_7b": {
+      "mean": -2.8,
+      "ci95": [
+        -7.92,
+        2.09
+      ],
+      "p_le_0": 0.8622
+    },
+    "E2_t3_f1_after_minus_before": {
+      "mean": 10.2,
+      "ci95": [
+        5.08,
+        15.48
+      ],
+      "p_le_0": 0.0
+    },
+    "E2_t3_f1_after_minus_7b": {
+      "mean": -2.37,
+      "ci95": [
+        -7.88,
+        3.15
+      ],
+      "p_le_0": 0.799
+    }
+  }
+}
