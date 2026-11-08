@@ -1,0 +1,1801 @@
+set,id,t,gold,pred,em,f1,f1_7b,model
+E1,5a72fcd65542992359bc31f3,-1,Black Panther Party for Self-Defense,The Black Panther Party,0.0,0.7499999999999999,,1.5B_untrained
+E1,5a90b6725542995651fb51c7,-1,John Cornyn,John Cornyn,1.0,1.0,,1.5B_untrained
+E1,5a77ee555542992a6e59e005,-1,Swiss International Air Lines,Crossair,0.0,0.0,,1.5B_untrained
+E1,5ae74e1c5542997b22f6a6a2,-1,Quentin Tarantino,Quentin Tarantino directed the 1994 American black comedy neo-noir crime film producted by Harvey Weinstein,0.0,0.25,,1.5B_untrained
+E1,5a8461e85542992ef85e23d5,-1,Tame Impala,Tame Impala,1.0,1.0,,1.5B_untrained
+E1,5adc2c03554299438c868d66,-1,2014,2005,0.0,0.0,,1.5B_untrained
+E1,5ac2527e55429951e9e68548,-1,Ulrich,Ulrich Walter,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ac23da355429951e9e684c4,-1,"3,200","1,250",0.0,0.0,,1.5B_untrained
+E1,5abc3fc05542993a06baf8b5,-1,Florida Atlantic,Florida Atlantic,1.0,1.0,,1.5B_untrained
+E1,5a864e425542994775f60741,-1,Bill Steer,Bill Steer,1.0,1.0,,1.5B_untrained
+E1,5ae77b26554299540e5a55cb,-1,Beximco,Beximco,1.0,1.0,,1.5B_untrained
+E1,5ac4e19a5542996feb3fe964,-1,West Bromwich Albion,Stevenage Football Club,0.0,0.0,,1.5B_untrained
+E1,5ac240c755429951e9e684ee,-1,Ridley Scott,Ridley Scott,1.0,1.0,,1.5B_untrained
+E1,5ae34bc15542990afbd1e107,-1,Miriam Margolyes,Miriam Margolyes,1.0,1.0,,1.5B_untrained
+E1,5abdb3925542996e802b4817,-1,"4,472","4,472",1.0,1.0,,1.5B_untrained
+E1,5ae087e2554299603e41841e,-1,film,Film industry,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ae253365542994d89d5b3d8,-1,Spider-Man 2,Spider-Man 2,1.0,1.0,,1.5B_untrained
+E1,5add2f105542994ed6169cba,-1,no,Yes,0.0,0.0,,1.5B_untrained
+E1,5a86e19c5542996432c57206,-1,five,5,0.0,0.0,,1.5B_untrained
+E1,5ae0ccd855429924de1b7179,-1,Bruce Timm,Bruce Timm,1.0,1.0,,1.5B_untrained
+E1,5a7a282a5542990783324ea1,-1,1882,1882,1.0,1.0,,1.5B_untrained
+E1,5a88aaee5542993e715ac05f,-1,Circus Circus Enterprises,Circus Circus,0.0,0.8,,1.5B_untrained
+E1,5ab94ea8554299743d22eaf1,-1,yes,"Yes, Sparaxis and Salvinia are both types of plant.",0.0,0.19999999999999998,,1.5B_untrained
+E1,5ab897e355429916710eb096,-1,1901,1901,1.0,1.0,,1.5B_untrained
+E1,5adde7aa5542997dc79070a0,-1,British,English,0.0,0.0,,1.5B_untrained
+E1,5ae258705542994d89d5b3ee,-1,Shania Twain,Shania Twain,1.0,1.0,,1.5B_untrained
+E1,5a8501b45542994c784ddaca,-1,Loretta Lynn,"Hank Williams, Jr.",0.0,0.0,,1.5B_untrained
+E1,5a8534675542997b5ce3ffc5,-1,yes,"Yes, both XLR8R and Dragon magazines exist.",0.0,0.25,,1.5B_untrained
+E1,5a7a65a35542994f819ef1d2,-1,The Poor Kid,"The fifteenth season finale of the American animated television series ""South Park"" is titled ""You're Getting Old"", and",0.0,0.0,,1.5B_untrained
+E1,5ae7fa2c5542994a481bbe5a,-1,27 June 1964,1932,0.0,0.0,,1.5B_untrained
+E1,5abfee6d5542994516f45530,-1,"February 7, 2013","February 7, 2013",1.0,1.0,,1.5B_untrained
+E1,5abbe02c554299642a094b8e,-1,hotel and golfing centre,"The former country house, north east of Mottram St. Andrew, now serves as Mottram Hall, a hotel and",0.0,0.2,,1.5B_untrained
+E1,5a8f8e5e5542997ba9cb32be,-1,25 April 2015,25 April 2015,1.0,1.0,,1.5B_untrained
+E1,5abf2c8b5542990832d3a13a,-1,1917,1917,1.0,1.0,,1.5B_untrained
+E1,5adcddef5542992c1e3a243e,-1,Common,Dave Chappelle,0.0,0.0,,1.5B_untrained
+E1,5a74bd2555429929fddd84df,-1,Topos V,Topos V,1.0,1.0,,1.5B_untrained
+E1,5a734f095542994cef4bc52c,-1,Built between 1811 and 1837,"The Hills Tavern was renamed the Century Inn because it had been the oldest tavern in continuous use on the National Road, until",0.0,0.0,,1.5B_untrained
+E1,5abcfe765542993a06baf9e5,-1,stage showgirl,stage showgirl,1.0,1.0,,1.5B_untrained
+E1,5addca245542997dc790702a,-1,Desiderius Erasmus Roterodamus,Erasmus University Rotterdam,0.0,0.3333333333333333,,1.5B_untrained
+E1,5a72478b5542990c210a40a6,-1,Istor-o-Nal,Siguang Ri,0.0,0.0,,1.5B_untrained
+E1,5a8e0ed055429917b4a5bcfd,-1,"Bury, Greater Manchester, England","Bury, Greater Manchester, England",1.0,1.0,,1.5B_untrained
+E1,5ab84c3655429916710eb020,-1,1983,1983,1.0,1.0,,1.5B_untrained
+E1,5a8019cb5542992bc0c4a6a6,-1,Brothers Grimm,The Brothers Grimm,1.0,1.0,,1.5B_untrained
+E1,5abaab2e55429901930fa886,-1,1999,1999,1.0,1.0,,1.5B_untrained
+E1,5abaaf2f55429901930fa896,-1,National League,National League (NL),0.0,0.8,,1.5B_untrained
+E1,5ae2040b5542997f29b3c201,-1,SEAT León,SEAT León,1.0,1.0,,1.5B_untrained
+E1,5ab7d9d95542995dae37e9b9,-1,22,4,0.0,0.0,,1.5B_untrained
+E1,5a78c57e55429970f5fffd7a,-1,"Alfred Allen Santell also known as Al Santell (born September 14, 1895 in San Francisco, California)","Aleksei Balabanov was born first, as he was born on February 25, 195",0.0,0.13793103448275862,,1.5B_untrained
+E1,5a87f1555542993e715ac014,-1,ludomania,gambling,0.0,0.0,,1.5B_untrained
+E1,5a715d8b5542994082a3e7fc,-1,1890,1956,0.0,0.0,,1.5B_untrained
+E1,5ae60d30554299546bf8303c,-1,Max Immelmann,Max Immelmann,1.0,1.0,,1.5B_untrained
+E1,5ab82d835542992aa3b8c8a7,-1,Sgt. Duke Lukela,Dennis Chun,0.0,0.0,,1.5B_untrained
+E1,5a77e67255429949eeb29f92,-1,McCarthy Building,Cannon Building,0.0,0.5,,1.5B_untrained
+E1,5ae5c3ff5542990ba0bbb2d7,-1,The Fresh Prince of Bel-Air,The Fresh Prince of Bel-Air,1.0,1.0,,1.5B_untrained
+E1,5abe788755429965af743f1a,-1,Chivas Regal,White Horse,0.0,0.0,,1.5B_untrained
+E1,5ae25d045542992decbdcccd,-1,"1,606,000","1,606,000",1.0,1.0,,1.5B_untrained
+E1,5ae4af025542995dadf243ac,-1,George James Hodges,Lou Rowan,0.0,0.0,,1.5B_untrained
+E1,5a881bbf55429938390d3ee1,-1,Cartoon Network,KTV2,0.0,0.0,,1.5B_untrained
+E1,5a8fc1ca55429918e830d2cb,-1,United States,United States,1.0,1.0,,1.5B_untrained
+E1,5abe3e6555429976d4830aa1,-1,Colin Chapman,Colin Chapman,1.0,1.0,,1.5B_untrained
+E1,5ae3cce05542994393b9e767,-1,Afro-textured hair,Afro-textured hair,1.0,1.0,,1.5B_untrained
+E1,5ab8776455429934fafe6de1,-1,11 October 1957,1960,0.0,0.0,,1.5B_untrained
+E1,5a90395055429933b8a204a6,-1,American Pie,American Pie,1.0,1.0,,1.5B_untrained
+E1,5a7605e655429976ec32bce8,-1,The Steinway Tower,"The Steinway Tower is taller than the 126 Madison Avenue building, as planned.",0.0,0.3076923076923077,,1.5B_untrained
+E1,5a8d6edd554299441c6b9fdd,-1,Wichita City Carnegie Library Building,Wichita City Carnegie Library Building,1.0,1.0,,1.5B_untrained
+E1,5ae660fc5542996d980e7b32,-1,United States,United States,1.0,1.0,,1.5B_untrained
+E1,5adebcd0554299728e26c7a0,-1,"5,435",Santa Clara University,0.0,0.0,,1.5B_untrained
+E1,5a8cb7ce554299653c1aa0f8,-1,Ulysses S. Grant,Ulysses S. Grant,1.0,1.0,,1.5B_untrained
+E1,5ab2e6e5554299166977412c,-1,Ferrari 250 GTO,Ferrari 250 GTO,1.0,1.0,,1.5B_untrained
+E1,5a77cb295542995d831812dd,-1,Woman,"""Sunshine of Your Love""",0.0,0.0,,1.5B_untrained
+E1,5ab5336d5542990594ba9d25,-1,Nicola Marschall,William Porcher Miles,0.0,0.0,,1.5B_untrained
+E1,5adc3efc554299438c868d90,-1,Grantham railway station,"Sedgebrook railway station was formerly a station on the Nottingham to Grantham line, which opened as the Amberg",0.0,0.33333333333333337,,1.5B_untrained
+E1,5a904e1f5542995651fb5115,-1,no,"No, Crazy English and The Tree That Remembers are not both animated features.",0.0,0.15384615384615385,,1.5B_untrained
+E1,5ab37d2155429969a97a8162,-1,alternative rock,Post-hardcore and alternative rock,0.0,0.6666666666666666,,1.5B_untrained
+E1,5a7b53045542992d025e6801,-1,"November 8, 2011","November 8, 2011",1.0,1.0,,1.5B_untrained
+E1,5ae79f2e5542993210983eb8,-1,Kings County,Westchester County,0.0,0.5,,1.5B_untrained
+E1,5ab3fc79554299233955002b,-1,secretary,Assistant Librarian,0.0,0.0,,1.5B_untrained
+E1,5a7129745542994082a3e5fc,-1,University of Delaware,Delaware,0.0,0.5,,1.5B_untrained
+E1,5a89e2ad5542992e4fca8440,-1,"November 9, 1993","June 3, 1997",0.0,0.0,,1.5B_untrained
+E1,5a78cc0555429974737f789a,-1,"Richard L. ""Rick"" Rosenthal, Jr.",Gary Nelson,0.0,0.0,,1.5B_untrained
+E1,5a7fb2875542994857a767bf,-1,yes,Yes,1.0,1.0,,1.5B_untrained
+E1,5ab607af554299488d4d9a8b,-1,2010,2010,1.0,1.0,,1.5B_untrained
+E1,5ae1ea6f5542997f29b3c1a2,-1,25 August 1954,1956,0.0,0.0,,1.5B_untrained
+E1,5ae69b8f5542996d980e7c52,-1,Algirdas,Algirdas,1.0,1.0,,1.5B_untrained
+E1,5a8aee7755429950cd6afc04,-1,American Civil War,American Civil War,1.0,1.0,,1.5B_untrained
+E1,5ae4a3795542995ad6573deb,-1,yes,Yes,1.0,1.0,,1.5B_untrained
+E1,5a762afc554299109176e698,-1,DJ Lord,DJ Lord,1.0,1.0,,1.5B_untrained
+E1,5ade24a15542992fa25da6e3,-1,England,England,1.0,1.0,,1.5B_untrained
+E1,5a8dd1e855429917b4a5bcbc,-1,Tampa Bay Lightning,Rick Bennett,0.0,0.0,,1.5B_untrained
+E1,5a866f3755429960ec39b6a4,-1,World War II,American Civil War,0.0,0.3333333333333333,,1.5B_untrained
+E1,5a8d836a554299068b959d1d,-1,Innere Stadt first district,Innere Stadt,0.0,0.6666666666666666,,1.5B_untrained
+E1,5a77bf185542997042120b12,-1,Moana,Maslin Beach,0.0,0.0,,1.5B_untrained
+E1,5ae0edc75542997b2ef7d07c,-1,no,No,1.0,1.0,,1.5B_untrained
+E1,5ab5939d5542992aa134a364,-1,Vasudeva of Kabul,Ageel bin Muhammad al-Badr Hamidaddin,0.0,0.0,,1.5B_untrained
+E1,5ae4321d5542995ad6573d1b,-1,Premier League,Premier League,1.0,1.0,,1.5B_untrained
+E1,5abc2585554299700f9d77f7,-1,Richard Stuart Linklater,"No, Carroll Ballard did not receive an American film director award for Best Director and Best Picture. Richard Linklater did receive",0.0,0.1739130434782609,,1.5B_untrained
+E1,5a89e9e155429946c8d6ea0d,-1,yes,"Yes, Veronica and Ulex are both in the flowering plant family. Veronica is a genus of flowering plants in the family",0.0,0.10526315789473684,,1.5B_untrained
+E1,5a74c7f75542996c70cfade4,-1,United States,United States,1.0,1.0,,1.5B_untrained
+E1,5abdb56655429965af743df7,-1,"Maryculter, Scotland",Storybook Glen,0.0,0.0,,1.5B_untrained
+E1,5a72b2695542991f9a20c56f,-1,Mykhailo Pylypovych Kravchuk,"Israel Gelfand was born first, as shown by the information provided in the retrieved chunks. Israel Gelfand was",0.0,0.0,,1.5B_untrained
+E1,5a80d3d4554299260e20a17d,-1,Francis Stokes,Francis Stokes,1.0,1.0,,1.5B_untrained
+E1,5ac432715542997ea680ca29,-1,"""Collier's Weekly""","""Collier's Weekly"" magazine",0.0,0.8,,1.5B_untrained
+E1,5ae48cf55542995ad6573d73,-1,Academy Award,Paul N. J. Ottosson was nominated for an Academy Award for Best Sound Mixing for his work on the sequel,0.0,0.19999999999999998,,1.5B_untrained
+E1,5ac1a03f55429963665198c2,-1,Boise State,Fresno State Bulldogs,0.0,0.4,,1.5B_untrained
+E1,5ab99757554299131ca4238b,-1,The Kinks,The Kinks,1.0,1.0,,1.5B_untrained
+E1,5ae400cf5542995dadf242c2,-1,1000,1000 acres,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ae3642b5542994393b9e6a6,-1,1936,1936,1.0,1.0,,1.5B_untrained
+E1,5a8f174b55429918e830d185,-1,liberal politician of Zapotec origin from Oaxaca.,Benito Juárez,0.0,0.0,,1.5B_untrained
+E1,5a75d0e45542992db94736d3,-1,Noël Peirce Coward,Noël Coward,0.0,0.8,,1.5B_untrained
+E1,5a7e8af255429949594199fc,-1,Carleton University,Duke University,0.0,0.5,,1.5B_untrained
+E1,5ae212d4554299495565d9e0,-1,Iron Rattler,Iron Rattler,1.0,1.0,,1.5B_untrained
+E1,5a809a585542992bc0c4a774,-1,Stirling Castle,Stirling Castle,1.0,1.0,,1.5B_untrained
+E1,5a7dbb8d5542990b8f503a4e,-1,Marion Bartoli,Marion Bartoli,1.0,1.0,,1.5B_untrained
+E1,5a7bbfda554299042af8f7d5,-1,"August 5, 1962","August 5, 1962",1.0,1.0,,1.5B_untrained
+E1,5ae62edf5542996de7b71b7d,-1,Voss,Voss (water),0.0,0.6666666666666666,,1.5B_untrained
+E1,5ab5b0735542992aa134a38b,-1,Jack Bender,Ronny Yu,0.0,0.0,,1.5B_untrained
+E1,5a8a29225542992d82986ed5,-1,Los Angeles,Los Angeles,1.0,1.0,,1.5B_untrained
+E1,5ade02835542997545bbbe0a,-1,yes,Yes,1.0,1.0,,1.5B_untrained
+E1,5a79d9d95542994f819ef0ce,-1,Lester Cole,Arnold Wesker,0.0,0.0,,1.5B_untrained
+E1,5a866b635542991e7718164e,-1,Ramin Djawadi,Randall Poster,0.0,0.0,,1.5B_untrained
+E1,5a77b1a455429967ab105236,-1,Grants,Both the University of Peradeniya and University of Arkansas are state universities in their respective countries.,0.0,0.0,,1.5B_untrained
+E1,5ae279c05542992decbdcd1d,-1,$500 Million Investment,$500 Million,0.0,0.8,,1.5B_untrained
+E1,5adc2cd25542994650320c9c,-1,North Carolina,Utah,0.0,0.0,,1.5B_untrained
+E1,5ab8f1fa5542991b5579f078,-1,BTS,BTS,1.0,1.0,,1.5B_untrained
+E1,5a7272725542997f827839d5,-1,Gabe Kaplan,Gabe Kaplan,1.0,1.0,,1.5B_untrained
+E1,5adbd0965542994650320bf3,-1,yellow and black,Yellow and black,1.0,1.0,,1.5B_untrained
+E1,5adce3fe5542992c1e3a246b,-1,Dannii Minogue,Danni Minogue,0.0,0.5,,1.5B_untrained
+E1,5ae6568d5542995703ce8b56,-1,Aaron Burr,Aaron Burr,1.0,1.0,,1.5B_untrained
+E1,5a8f0ff15542995b44241f44,-1,"Tori Amos (born Myra Ellen Amos, August 22, 1963 ) is an American singer-songwriter, pianist",Tori Amos plays the piano.,0.0,0.23529411764705882,,1.5B_untrained
+E1,5a76acfd554299373536014e,-1,Tionne Tenese Watkins,T-Boz,0.0,0.0,,1.5B_untrained
+E1,5ae241145542996483e64945,-1,"Dr. Remy ""Thirteen"" Hadley","Dr. Remy ""Thirteen"" Hadley",1.0,1.0,,1.5B_untrained
+E1,5ae1c653554299234fd042f3,-1,Larry Krystkowiak,Larry Krystkowiak,1.0,1.0,,1.5B_untrained
+E1,5a85de4f5542994775f6066b,-1,James Wan,Peter Safran,0.0,0.0,,1.5B_untrained
+E1,5a72ad485542994cef4bc3cf,-1,Sarah MacLean,Sarah MacLean,1.0,1.0,,1.5B_untrained
+E1,5a876a9b5542996e4f3087e4,-1,"London, England","London, England",1.0,1.0,,1.5B_untrained
+E1,5a72ab305542994cef4bc3c8,-1,2015 Oklahoma Sooners football team,2015 Oklahoma Sooners football team,1.0,1.0,,1.5B_untrained
+E1,5ade830055429939a52fe8d7,-1,yes,"No, Carl Maria von Weber and Claudio Monteverdi were not of different ethnicities.",0.0,0.0,,1.5B_untrained
+E1,5ae6618455429908198fa5b5,-1,Lord Voldemort,Lord Voldemort,1.0,1.0,,1.5B_untrained
+E1,5ab97e8e554299753720f81d,-1,the world,France,0.0,0.0,,1.5B_untrained
+E1,5ab8afe955429916710eb0ad,-1,Jimmy Kimmel,Jimmy Kimmel,1.0,1.0,,1.5B_untrained
+E1,5a7329765542994cef4bc486,-1,film director,Ken Kwapis and Len Wiseman are Americans who have the occupation of film and television director and screenwriter.,0.0,0.21052631578947367,,1.5B_untrained
+E1,5ac49d795542996feb3fe915,-1,"January 29, 1940","January 29, 1940",1.0,1.0,,1.5B_untrained
+E1,5ae18d4d554299234fd0428d,-1,49000 km2,Slovakia,0.0,0.0,,1.5B_untrained
+E1,5a8d23ee55429941ae14df87,-1,3D science fiction adventure film,Science fiction adventure film,0.0,0.888888888888889,,1.5B_untrained
+E1,5ab73eaf5542991d32223786,-1,My Bloody Valentine,My Bloody Valentine,1.0,1.0,,1.5B_untrained
+E1,5ab8c2465542991b5579effb,-1,forward,Forward,1.0,1.0,,1.5B_untrained
+E1,5ae712d0554299572ea546b7,-1,"May 18, 2014","May 18, 2014",1.0,1.0,,1.5B_untrained
+E1,5ae1cdee554299234fd04305,-1,"20,881 at the 2010 census","1,399",0.0,0.0,,1.5B_untrained
+E1,5ac4197f5542997ea680ca0a,-1,rock,Alternative rock,0.0,0.6666666666666666,,1.5B_untrained
+E1,5a81cc0355429926c1cdad7c,-1,yes,Yes,1.0,1.0,,1.5B_untrained
+E1,5ab2eb4855429929539468b8,-1,Björn Skifs,Björn Skifs,1.0,1.0,,1.5B_untrained
+E1,5ab2b224554299295394681a,-1,The Blueprint,The Blueprint,1.0,1.0,,1.5B_untrained
+E1,5a8a691c55429930ff3c0dce,-1,70 Pine Street,70 Pine Street,1.0,1.0,,1.5B_untrained
+E1,5a734ec75542992359bc32f4,-1,"Israel, Philistia, Phoenicia, and other nations","The Kritarchy was established in ancient Israel during the period described in the Book of Judges, following Joshua's conquest of",0.0,0.08695652173913045,,1.5B_untrained
+E1,5ade542a5542992fa25da74e,-1,"Erfurt, Thuringia",FC Rot-Weiß Erfurt,0.0,0.4,,1.5B_untrained
+E1,5abc6bd8554299700f9d78bc,-1,The Thomas Crown Affair,The 1999 American heist film directed by John McTiernan that Doris Grove was a stunt,0.0,0.0,,1.5B_untrained
+E1,5abf55a15542997719eab682,-1,Bedlington Terrier,Bedlington Terrier,1.0,1.0,,1.5B_untrained
+E1,5ac0746a5542996f0d89cbda,-1,Cleveland,Cleveland,1.0,1.0,,1.5B_untrained
+E1,5a8ba9ad5542996e8ac88995,-1,Minnesota and Wisconsin,Minnesota and Wisconsin,1.0,1.0,,1.5B_untrained
+E1,5ae0c2f15542993d6555ec4a,-1,farce,"The comedy of intrigue, also known as the comedy of situation, is a genre of comedy in which dramatic action is priorit",0.0,0.0,,1.5B_untrained
+E1,5a88ffd95542995153361245,-1,Brian Helgeland,Richard Hawkins,0.0,0.0,,1.5B_untrained
+E1,5ab5ee8e554299494045f0bd,-1,pizza,American food,0.0,0.0,,1.5B_untrained
+E1,5a8e50c15542990e94052ac9,-1,Adult Swim,"""Anime Talk Show""",0.0,0.0,,1.5B_untrained
+E1,5ac32bc05542995ef918c155,-1,three,3,0.0,0.0,,1.5B_untrained
+E1,5ae449295542995ad6573d30,-1,Chic,Chic,1.0,1.0,,1.5B_untrained
+E1,5ae33ff35542992e3233c339,-1,Faces of Death,This Film Is Not Yet Rated,0.0,0.0,,1.5B_untrained
+E1,5a77f8f15542995d8318133d,-1,"September 20, 2010","September 27, 2015",0.0,0.3333333333333333,,1.5B_untrained
+E1,5a7dc0ed5542997cc2c47497,-1,Lady Macbeth,Lady Macbeth,1.0,1.0,,1.5B_untrained
+E1,5ae61be055429929b0807ace,-1,Rheged,Rheged,1.0,1.0,,1.5B_untrained
+E1,5a8459025542992ef85e23c7,-1,André Previn,André Previn,1.0,1.0,,1.5B_untrained
+E1,5a7ba370554299294a54aa4a,-1,Flight jackets and military outerwear,Military style apparel,0.0,0.25,,1.5B_untrained
+E1,5a78e65a554299029c4b5ed2,-1,"Charles Abraham ""Chuck"" Essegian",Chuck Essegian,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ac13b415542991316484a8a,-1,Tadeusz Chmielewski,Tadeusz Chmielewski,1.0,1.0,,1.5B_untrained
+E1,5abc7c1d5542993a06baf8f1,-1,rock band,rock band,1.0,1.0,,1.5B_untrained
+E1,5ae496ce55429913cc2044ab,-1,The Five-Year Engagement,The Five-Year Engagement,1.0,1.0,,1.5B_untrained
+E1,5ac15ca75542994ab5c67cf8,-1,yes,"Yes, Melville Shavelson and Jason Reitman have different nationalities. Melville Shavelson was an",0.0,0.15384615384615385,,1.5B_untrained
+E1,5ae0a92355429945ae9593ec,-1,True Colors,True Colors,1.0,1.0,,1.5B_untrained
+E1,5ade161955429939a52fe805,-1,Rosanne Cash,"Aimee Mann, Joan Armatrading, Sinéad O'Connor, Rosanne Cash, Dolly Part",0.0,0.33333333333333337,,1.5B_untrained
+E1,5ae4441e5542996836b02c62,-1,Argentine-born,Italy,0.0,0.0,,1.5B_untrained
+E1,5ade95c6554299728e26c744,-1,Nice As Fuck,Ben Folds Five,0.0,0.0,,1.5B_untrained
+E1,5ae0146e55429925eb1afc05,-1,"December 20, 2009","December 20, 2009",1.0,1.0,,1.5B_untrained
+E1,5ae5094d55429960a22e024e,-1,1503,1503,1.0,1.0,,1.5B_untrained
+E1,5ade9ee75542997c77adee92,-1,16797000,1.8 million square feet,0.0,0.0,,1.5B_untrained
+E1,5a78d2d25542990784727766,-1,"Beatriz ""Gigi"" Fernández",Gigi Fernández,0.0,0.8,,1.5B_untrained
+E1,5a8e35345542995085b373da,-1,Jacob Gedleyihlekisa Zuma,Jacob Zuma,0.0,0.8,,1.5B_untrained
+E1,5a82548f554299676cceb26a,-1,magazine,"Elle and LaIsha are both fictional characters. Elle is a character from the American psychological thriller science fiction series """,0.0,0.0,,1.5B_untrained
+E1,5a8347b05542996488c2e3f5,-1,Bergen County,Woodbury County,0.0,0.5,,1.5B_untrained
+E1,5ae3fa885542995dadf2427e,-1,yes,"Yes, the genus Phoenix has more known species than the genus Dichroa.",0.0,0.18181818181818182,,1.5B_untrained
+E1,5abc2681554299700f9d77fc,-1,Idi Amin Dada,Idi Amin,0.0,0.8,,1.5B_untrained
+E1,5add40865542990dbb2f7e00,-1,Pema Lhaki,Pema Lhaki,1.0,1.0,,1.5B_untrained
+E1,5a81ba3455429903bc27b9b5,-1,"Columbus, Ohio",Melbourne,0.0,0.0,,1.5B_untrained
+E1,5a903a4855429933b8a204a9,-1,Victorian era,19th century,0.0,0.0,,1.5B_untrained
+E1,5a8a33d455429930ff3c0cfa,-1,Marc Forster,Frank McDonald,0.0,0.0,,1.5B_untrained
+E1,5a7141d05542994082a3e70f,-1,September 2005,1990,0.0,0.0,,1.5B_untrained
+E1,5ae01da755429925eb1afc17,-1,Dionysus,Dionysus,1.0,1.0,,1.5B_untrained
+E1,5abaa73a55429901930fa87a,-1,Wisconsin,Pennsylvania,0.0,0.0,,1.5B_untrained
+E1,5ae3ed235542995ad6573c9e,-1,"July 17, 1954","July 17, 1954",1.0,1.0,,1.5B_untrained
+E1,5ae78bb4554299540e5a55e5,-1,King George III,King George III,1.0,1.0,,1.5B_untrained
+E1,5a809b155542996402f6a59a,-1,George Groves,George Groves,1.0,1.0,,1.5B_untrained
+E1,5adf2a7c5542993a75d26402,-1,Bologna,Reggio Emilia,0.0,0.0,,1.5B_untrained
+E1,5ae2e8f95542991a06ce98fc,-1,Best Music Director,National Award,0.0,0.0,,1.5B_untrained
+E1,5ae16a0c5542990adbacf789,-1,Gwen Stefani,Ashlee Simpson,0.0,0.0,,1.5B_untrained
+E1,5a7b41a7554299042af8f734,-1,"Farrokh ""Freddie"" Mercury",Freddie Mercury was older than Gwen Stefani.,0.0,0.4,,1.5B_untrained
+E1,5a7d70345542990b8f503988,-1,Luka Modrić,Nikola Moro,0.0,0.0,,1.5B_untrained
+E1,5a79e9455542994f819ef105,-1,Chuck Priore,Mark Few,0.0,0.0,,1.5B_untrained
+E1,5ac385e8554299741d48a278,-1,Mötley Crüe,Ratt,0.0,0.0,,1.5B_untrained
+E1,5ae6dc4b5542991bbc97618c,-1,A1,A1,1.0,1.0,,1.5B_untrained
+E1,5a8c71565542995e66a475ee,-1,ESPN,ESPN,1.0,1.0,,1.5B_untrained
+E1,5adeb8295542992fa25da81e,-1,Loud,Loud,1.0,1.0,,1.5B_untrained
+E1,5ae515c755429913cc204585,-1,38th season,2009-10 New York Islanders season,0.0,0.28571428571428575,,1.5B_untrained
+E1,5a8777115542994846c1cd87,-1,chauffeur,Anton Loibl,0.0,0.0,,1.5B_untrained
+E1,5ac495d75542996feb3fe8ee,-1,"March 8, 2007","November 26, 2014",0.0,0.0,,1.5B_untrained
+E1,5a7e8c0155429949594199fe,-1,Fawad Afzal Khan,Wu Xiubo,0.0,0.0,,1.5B_untrained
+E1,5a86763b55429960ec39b6ae,-1,professional ballet dancer,Billy,0.0,0.0,,1.5B_untrained
+E1,5a7d264e5542995ed0d16608,-1,"October 17, 1972","June or October 17, 1972",0.0,0.7499999999999999,,1.5B_untrained
+E1,5a84dd605542997175ce1f22,-1,Jason Robards,Jason Robards,1.0,1.0,,1.5B_untrained
+E1,5ab9519055429970cfb8ea53,-1,23 km,15 km,0.0,0.5,,1.5B_untrained
+E1,5a804109554299485f5985a2,-1,The Bloomsbury Group,Bloomsbury Group,1.0,1.0,,1.5B_untrained
+E1,5a7ca12055429935c91b526d,-1,Britain First,Liberty GB,0.0,0.0,,1.5B_untrained
+E1,5ab7ebee5542991d322237c2,-1,Chicago,Chicago,1.0,1.0,,1.5B_untrained
+E1,5a8f0841554299458435d52e,-1,London,London,1.0,1.0,,1.5B_untrained
+E1,5abd487a5542996e802b4765,-1,Avon,Mussolini,0.0,0.0,,1.5B_untrained
+E1,5ac51dc45542994611c8b3b2,-1,1978,1984,0.0,0.0,,1.5B_untrained
+E1,5ab9f58755429901930fa752,-1,Brian Trenchard-Smith,Brian Trenchard-Smith,1.0,1.0,,1.5B_untrained
+E1,5ab6e5e75542991d322236c8,-1,The Root of All Evil?,The Root of All Evil?,1.0,1.0,,1.5B_untrained
+E1,5ab3050155429976abd1bc25,-1,Steve Jobs,Martin Shkreli,0.0,0.0,,1.5B_untrained
+E1,5a736e1755429901807db050,-1,Black Oak Arkansas,Black Oak Arkansas,1.0,1.0,,1.5B_untrained
+E1,5a8fa9f15542995b44242087,-1,Viktor Uspaskich,Charles Schusterman,0.0,0.0,,1.5B_untrained
+E1,5a83e3fc55429933447460ab,-1,Scrubs,Scrubs,1.0,1.0,,1.5B_untrained
+E1,5a8c52d6554299240d9c2114,-1,yes,"No, Prevention and Drum! are not both American magazines. Prevention is a British magazine, while Drum! is a North",0.0,0.0,,1.5B_untrained
+E1,5a8d527d55429941ae14dfa4,-1,Africa's Che Guevara,Thomas Sankara,0.0,0.0,,1.5B_untrained
+E1,5ab27b29554299449642c8bd,-1,romance author,Romance author,1.0,1.0,,1.5B_untrained
+E1,5ae6381b5542992ae0d1628a,-1,"7,003","7,003",1.0,1.0,,1.5B_untrained
+E1,5a711ec15542994082a3e5aa,-1,Life,Life,1.0,1.0,,1.5B_untrained
+E1,5a82afb055429966c78a6a7b,-1,Appenzell Innerrhoden,Appenzell Innerrhoden,1.0,1.0,,1.5B_untrained
+E1,5adcdf5c5542992c1e3a2445,-1,Alf Kjellin,Alf Kjellin,1.0,1.0,,1.5B_untrained
+E1,5a7c2a2f5542996dd594b8aa,-1,1981,1981,1.0,1.0,,1.5B_untrained
+E1,5ac2d3cc554299657fa2908b,-1,two,2,0.0,0.0,,1.5B_untrained
+E1,5a87d77a5542994846c1cdee,-1,George Soros,George Soros,1.0,1.0,,1.5B_untrained
+E1,5ae4ff4355429913cc204562,-1,1982,1972,0.0,0.0,,1.5B_untrained
+E1,5a7c4cb555429907fabeef56,-1,Amherst College,University of Minnesota,0.0,0.0,,1.5B_untrained
+E1,5abbd32d5542993f40c73bc4,-1,Beşiktaş,Beşiktaş,1.0,1.0,,1.5B_untrained
+E1,5ae7246e5542995703ce8bd6,-1,The Day the Universe Changed,"""The Day the Universe Changed""",1.0,1.0,,1.5B_untrained
+E1,5a88eb2e5542997e5c09a6cb,-1,2010,2010,1.0,1.0,,1.5B_untrained
+E1,5ac1509a5542994ab5c67ce3,-1,no,"Yes, both Baz Warne and Marty Balin are actors. Baz Warne is the current guitarist and vocalist of The",0.0,0.0,,1.5B_untrained
+E1,5adf01425542995ec70e8f53,-1,0.9 s.,0.9 s,1.0,1.0,,1.5B_untrained
+E1,5ae075fd5542993d6555eb60,-1,Moffett Federal Airfield,Moffett Federal Airfield,1.0,1.0,,1.5B_untrained
+E1,5ac3a491554299218029dbeb,-1,People's Republic of China,China,0.0,0.4,,1.5B_untrained
+E1,5adffba255429925eb1afbc0,-1,Sunday Driver,Sunday Driver,1.0,1.0,,1.5B_untrained
+E1,5ab7ea425542993667794046,-1,England,England,1.0,1.0,,1.5B_untrained
+E1,5ac12e5d5542994d76dccda4,-1,Kay Cannon,Kay Cannon,1.0,1.0,,1.5B_untrained
+E1,5ab8ee5f5542991b5579f04f,-1,Pontederia,Pontederia,1.0,1.0,,1.5B_untrained
+E1,5a89c1375542992e4fca83be,-1,Dan Jurgens,Dan Jurgens,1.0,1.0,,1.5B_untrained
+E1,5ac3b137554299741d48a2da,-1,Helmut Marko,Helmut Marko,1.0,1.0,,1.5B_untrained
+E1,5adfb721554299025d62a341,-1,Nicholas Colasanto,Nicholas Colasanto,1.0,1.0,,1.5B_untrained
+E1,5a884f5d5542997e5c09a5c9,-1,"Christopher Jay ""Chris"" Potter",Chris Potter,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ae60ee6554299546bf83051,-1,American South,"The subject of Delta Wedding, a 1946 Southern fiction novel by Eudora Welty, is the",0.0,0.0,,1.5B_untrained
+E1,5ab68d55554299710c8d1ec3,-1,no,"Yes, both Matt Willis and The Mekons are British.",0.0,0.0,,1.5B_untrained
+E1,5ab2f9575542991669774168,-1,Rhamnus purshiana,Cascara,0.0,0.0,,1.5B_untrained
+E1,5a8fb8f255429918e830d2be,-1,no,"No, Samuel R. Delany and Aldous Huxley are not from the same country. Samuel R. Del",0.0,0.125,,1.5B_untrained
+E1,5ab920da55429919ba4e23c3,-1,American sitcom,Mr. Belvedere,0.0,0.0,,1.5B_untrained
+E1,5a7f46735542992e7d278cde,-1,Stephen King,Stephen King,1.0,1.0,,1.5B_untrained
+E1,5a883ada5542994846c1ce47,-1,Jimmy Page,Kurdt Vanderhoof,0.0,0.0,,1.5B_untrained
+E1,5a834dae5542996488c2e404,-1,Stephen Ambrose Sarkisian,Steve Sarkisian,0.0,0.4,,1.5B_untrained
+E1,5a80e307554299260e20a1a6,-1,Living Colour,Living Colour,1.0,1.0,,1.5B_untrained
+E1,5a7a9ca055429927d897bee6,-1,Babes in Toyland,The Million Dollar Duck,0.0,0.0,,1.5B_untrained
+E1,5ae59c0955429960a22e030a,-1,"""Brave New Wealthy World""",Brave New Wealthy World,1.0,1.0,,1.5B_untrained
+E1,5ade41ef5542992fa25da715,-1,"3,324",38,0.0,0.0,,1.5B_untrained
+E1,5a8c5b3e5542995e66a475d2,-1,Johnson & Johnson,Johnson &amp; Johnson,0.0,0.8,,1.5B_untrained
+E1,5ab9c48c5542996be20205a4,-1,The Ricardo Laguna Project,Dancing on Ice (Greece),0.0,0.0,,1.5B_untrained
+E1,5ae80b50554299540e5a5701,-1,state capital,Marion is approximately 50 mi north of a city that is the third-most populous city in the U.S.,0.0,0.0,,1.5B_untrained
+E1,5a7573d85542996c70cfaeff,-1,S.J. Quinney College of Law,University of Utah,0.0,0.25,,1.5B_untrained
+E1,5ab297be554299545a2cf9c0,-1,five,5,0.0,0.0,,1.5B_untrained
+E1,5a90c4b15542995651fb51e2,-1,The 2017 Macanese general election took place on 17 September 2017 according to the provisions of the Basic Law of Macau.,"Yes, the legislature elected on national level when the Macanese general election took place.",0.0,0.4,,1.5B_untrained
+E1,5ae05db9554299603e418409,-1,"Maryland and Virginia, along with a small portion of West Virginia","The Independent School League includes Washington, D.C., and part of Maryland and Virginia.",0.0,0.3636363636363636,,1.5B_untrained
+E1,5aba8e395542994dbf019940,-1,Catch-22,Satire VI,0.0,0.0,,1.5B_untrained
+E1,5abc07b9554299114383a0d9,-1,Daniel Radcliffe,Daniel Radcliffe,1.0,1.0,,1.5B_untrained
+E1,5abef4195542997ec76fd399,-1,Stuart Galbraith,Stuart Galbraith,1.0,1.0,,1.5B_untrained
+E1,5ae0a2b855429945ae9593da,-1,Disney,Disney Channel,0.0,0.6666666666666666,,1.5B_untrained
+E1,5a7c693255429935c91b5196,-1,Palladium Books,"The Old Ones, that exist on different planes of existence simultaneously apart of, are the fictional race of Alien Intelligences",0.0,0.0,,1.5B_untrained
+E1,5ab5bee0554299494045f04f,-1,Columbia Records,Columbia Records,1.0,1.0,,1.5B_untrained
+E1,5ab843395542990e739ec8a5,-1,12,12,1.0,1.0,,1.5B_untrained
+E1,5ae002bf55429925eb1afbda,-1,Ohio,Northern Ireland,0.0,0.0,,1.5B_untrained
+E1,5a710fea5542994082a3e546,-1,Carl Maria Friedrich Ernst von Weber,Charles Gounod,0.0,0.0,,1.5B_untrained
+E1,5a87e06b5542994846c1cdf5,-1,American,American,1.0,1.0,,1.5B_untrained
+E1,5abbd2b755429931dba14582,-1,Infinity on High,Infinity on High,1.0,1.0,,1.5B_untrained
+E1,5a7efc7255429930675135ec,-1,Shellharbour,Clayton Square,0.0,0.0,,1.5B_untrained
+E1,5a8ad8935542992d82986fa0,-1,St. John's Red Storm,Don Friday,0.0,0.0,,1.5B_untrained
+E1,5ae73d675542991e8301cc2d,-1,Accounting,"Financial Training Center Limited (FTC) is a training institution in Dar es Salaam, Tanzania, providing training in professional",0.0,0.0,,1.5B_untrained
+E1,5abe506455429976d4830ae3,-1,Dan Conner,John Goodman,0.0,0.0,,1.5B_untrained
+E1,5a9075ba55429916514e74ca,-1,1999,1999,1.0,1.0,,1.5B_untrained
+E1,5ab6e77b554299710c8d1fa7,-1,69th season,1985–86 Los Angeles Kings season,0.0,0.28571428571428575,,1.5B_untrained
+E1,5a81d1615542990a1d231ed9,-1,five,5,0.0,0.0,,1.5B_untrained
+E1,5adc89435542994d58a2f639,-1,Rockstar Games,Rockstar Games,1.0,1.0,,1.5B_untrained
+E1,5ab8987255429919ba4e232c,-1,Australia,Australia and New Zealand,0.0,0.4,,1.5B_untrained
+E1,5adfec4755429925eb1afb34,-1,2018 NHL Entry Draft,2018 NHL Entry Draft,1.0,1.0,,1.5B_untrained
+E1,5ae124625542997b2ef7d0fe,-1,the motorcycle category,Motorcycle,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ac141dd5542991316484a9b,-1,Donald Hugh Henley,Don Henley,0.0,0.4,,1.5B_untrained
+E1,5a80190c5542992bc0c4a6a5,-1,Raven Software,Raven Software,1.0,1.0,,1.5B_untrained
+E1,5abcd0eb554299114383a164,-1,Monterrey,Monterrey,1.0,1.0,,1.5B_untrained
+E2,5a872e8e5542991e7718170c,0,portrait,paintings and pastels,0.0,0.0,0.0,1.5B_untrained
+E2,5a872e8e5542991e7718170c,1,portrait,portraits,0.0,0.0,0.0,1.5B_untrained
+E2,5a872e8e5542991e7718170c,3,portrait,portraits,0.0,0.0,0.0,1.5B_untrained
+E2,5a7265825542997f827839a3,0,a silver medal,Olympic Gold Medal,0.0,0.4,0.0556,1.5B_untrained
+E2,5a7265825542997f827839a3,1,a silver medal,Silver medal,1.0,1.0,0.125,1.5B_untrained
+E2,5a7265825542997f827839a3,3,a silver medal,Silver medal,1.0,1.0,0.0,1.5B_untrained
+E2,5abe2b0155429976d4830a83,0,26–30 August 1914,1914,0.0,0.5,0.8571,1.5B_untrained
+E2,5abe2b0155429976d4830a83,1,26–30 August 1914,1914,0.0,0.5,0.5,1.5B_untrained
+E2,5abe2b0155429976d4830a83,3,26–30 August 1914,1914,0.0,0.5,0.8571,1.5B_untrained
+E2,5ae135fb55429920d523431f,0,WB Television Network,Sons of Anarchy,0.0,0.0,0.1111,1.5B_untrained
+E2,5ae135fb55429920d523431f,1,WB Television Network,Marvel Cinematic Universe,0.0,0.0,0.1111,1.5B_untrained
+E2,5ae135fb55429920d523431f,3,WB Television Network,Yes TV,0.0,0.0,0.0,1.5B_untrained
+E2,5a8f0a01554299458435d539,0,Indianapolis,Indapolis,0.0,0.0,1.0,1.5B_untrained
+E2,5a8f0a01554299458435d539,1,Indianapolis,"Indiepolis, Indiana",0.0,0.0,1.0,1.5B_untrained
+E2,5a8f0a01554299458435d539,3,Indianapolis,Indie,0.0,0.0,1.0,1.5B_untrained
+E2,5ab40e1c5542996a3a969f00,0,1988,1988,1.0,1.0,1.0,1.5B_untrained
+E2,5ab40e1c5542996a3a969f00,1,1988,1988,1.0,1.0,1.0,1.5B_untrained
+E2,5ab40e1c5542996a3a969f00,3,1988,1986,0.0,0.0,1.0,1.5B_untrained
+E2,5ab28c89554299340b525513,0,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_untrained
+E2,5ab28c89554299340b525513,1,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_untrained
+E2,5ab28c89554299340b525513,3,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_untrained
+E2,5a87e3d65542993e715abff8,0,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_untrained
+E2,5a87e3d65542993e715abff8,1,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_untrained
+E2,5a87e3d65542993e715abff8,3,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_untrained
+E2,5addfc425542997dc7907101,0,Esteban Ocon,Esteban Ocon,1.0,1.0,0.0,1.5B_untrained
+E2,5addfc425542997dc7907101,1,Esteban Ocon,Esteban Ocon,1.0,1.0,0.0,1.5B_untrained
+E2,5addfc425542997dc7907101,3,Esteban Ocon,Esteban Ocon,1.0,1.0,1.0,1.5B_untrained
+E2,5ab576dc5542997d4ad1f13d,0,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_untrained
+E2,5ab576dc5542997d4ad1f13d,1,Carnatic music,Carnatic music style,0.0,0.8,1.0,1.5B_untrained
+E2,5ab576dc5542997d4ad1f13d,3,Carnatic music,Carnatic music style,0.0,0.8,1.0,1.5B_untrained
+E2,5a8d8eb5554299068b959d3a,0,Parsifal,Manon by Massenet has more acts.,0.0,0.0,0.1111,1.5B_untrained
+E2,5a8d8eb5554299068b959d3a,1,Parsifal,Manon by Massenet has more acts.,0.0,0.0,0.5,1.5B_untrained
+E2,5a8d8eb5554299068b959d3a,3,Parsifal,Manon by Massenet has more acts.,0.0,0.0,0.1053,1.5B_untrained
+E2,5ac5101455429924173fb592,0,Every Rose Has Its Thorn,Bret Michaels,0.0,0.0,0.0,1.5B_untrained
+E2,5ac5101455429924173fb592,1,Every Rose Has Its Thorn,Dancin' (on a Saturday Night),0.0,0.0,1.0,1.5B_untrained
+E2,5ac5101455429924173fb592,3,Every Rose Has Its Thorn,Dancin' (on a Saturday Night),0.0,0.0,1.0,1.5B_untrained
+E2,5ab91f98554299753720f70d,0,Gangsta's Paradise,Aw Here it Goes,0.0,0.0,0.0,1.5B_untrained
+E2,5ab91f98554299753720f70d,1,Gangsta's Paradise,Aw Here it Goes,0.0,0.0,0.0,1.5B_untrained
+E2,5ab91f98554299753720f70d,3,Gangsta's Paradise,Fantastic Voyage,0.0,0.0,0.0,1.5B_untrained
+E2,5ae6371155429929b0807af1,0,Polka,"The ""Pierement Waltz"" and the ""Amsterdam Polka"" composed for Operation Amsterdam originated in the middle",0.0,0.15384615384615385,0.0,1.5B_untrained
+E2,5ae6371155429929b0807af1,1,Polka,"The ""Pierement Waltz"" and the ""Amsterdam Polka"" composed for Operation Amsterdam originated in the middle",0.0,0.15384615384615385,0.05,1.5B_untrained
+E2,5ae6371155429929b0807af1,3,Polka,"The ""Pierement Waltz"" and the ""Amsterdam Polka"" composed by Philip Green for the 1",0.0,0.16666666666666669,1.0,1.5B_untrained
+E2,5ac1bff05542994ab5c67dfc,0,Francisco Rafael Arellano Félix,Francisco Rafael Arellano Félix,1.0,1.0,1.0,1.5B_untrained
+E2,5ac1bff05542994ab5c67dfc,1,Francisco Rafael Arellano Félix,Benjamín Arellano Félix,0.0,0.5714285714285715,1.0,1.5B_untrained
+E2,5ac1bff05542994ab5c67dfc,3,Francisco Rafael Arellano Félix,Benjamín Arellano Félix,0.0,0.5714285714285715,0.5714,1.5B_untrained
+E2,5a7c2f145542996dd594b8b4,0,McG,Liz Heldens,0.0,0.0,0.0,1.5B_untrained
+E2,5a7c2f145542996dd594b8b4,1,McG,Deborah S. Esquenazi,0.0,0.0,0.0,1.5B_untrained
+E2,5a7c2f145542996dd594b8b4,3,McG,Lucy Fry,0.0,0.0,1.0,1.5B_untrained
+E2,5a81e4e8554299676cceb140,0,Campbellsville University,University of Oklahoma,0.0,0.4,0.0,1.5B_untrained
+E2,5a81e4e8554299676cceb140,1,Campbellsville University,Mississippi State University,0.0,0.4,1.0,1.5B_untrained
+E2,5a81e4e8554299676cceb140,3,Campbellsville University,Mississippi State University,0.0,0.4,1.0,1.5B_untrained
+E2,5a83041355429966c78a6ae8,0,film director,Both Ralph Bakshi and Béla Gaál had the role of film director in film making.,0.0,0.25,0.6667,1.5B_untrained
+E2,5a83041355429966c78a6ae8,1,film director,director,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a83041355429966c78a6ae8,3,film director,director,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5ab7fa7b5542992aa3b8c897,0,punk rock,punk rock,1.0,1.0,1.0,1.5B_untrained
+E2,5ab7fa7b5542992aa3b8c897,1,punk rock,punk rock,1.0,1.0,1.0,1.5B_untrained
+E2,5ab7fa7b5542992aa3b8c897,3,punk rock,punk rock,1.0,1.0,1.0,1.5B_untrained
+E2,5a8cee9b554299441c6b9f87,0,GE Appliances,GE Appliances,1.0,1.0,1.0,1.5B_untrained
+E2,5a8cee9b554299441c6b9f87,1,GE Appliances,GE Appliances,1.0,1.0,0.0,1.5B_untrained
+E2,5a8cee9b554299441c6b9f87,3,GE Appliances,GE Appliances,1.0,1.0,1.0,1.5B_untrained
+E2,5ab67bf255429954757d32f5,0,"McLean, Virginia","Culver City, California",0.0,0.0,0.0,1.5B_untrained
+E2,5ab67bf255429954757d32f5,1,"McLean, Virginia","McLean, Virginia",1.0,1.0,1.0,1.5B_untrained
+E2,5ab67bf255429954757d32f5,3,"McLean, Virginia","McLean, Virginia",1.0,1.0,0.6667,1.5B_untrained
+E2,5a77d65055429949eeb29f7b,0,250,7,0.0,0.0,0.0,1.5B_untrained
+E2,5a77d65055429949eeb29f7b,1,250,7,0.0,0.0,0.0,1.5B_untrained
+E2,5a77d65055429949eeb29f7b,3,250,7,0.0,0.0,0.0,1.5B_untrained
+E2,5a7f3f7c55429934daa2fd45,0,The Futureheads,Marcy Playground,0.0,0.0,0.0,1.5B_untrained
+E2,5a7f3f7c55429934daa2fd45,1,The Futureheads,Marcy Playground,0.0,0.0,1.0,1.5B_untrained
+E2,5a7f3f7c55429934daa2fd45,3,The Futureheads,Marcy Playground,0.0,0.0,1.0,1.5B_untrained
+E2,5ade811e5542992fa25da7a0,0,1851,1851,1.0,1.0,1.0,1.5B_untrained
+E2,5ade811e5542992fa25da7a0,1,1851,1851,1.0,1.0,1.0,1.5B_untrained
+E2,5ade811e5542992fa25da7a0,3,1851,1851,1.0,1.0,1.0,1.5B_untrained
+E2,5a7633ff5542994ccc918712,0,1932,1932,1.0,1.0,1.0,1.5B_untrained
+E2,5a7633ff5542994ccc918712,1,1932,1932,1.0,1.0,1.0,1.5B_untrained
+E2,5a7633ff5542994ccc918712,3,1932,1932,1.0,1.0,1.0,1.5B_untrained
+E2,5a88a1475542997e5c09a646,0,Salvia,Salvia,1.0,1.0,1.0,1.5B_untrained
+E2,5a88a1475542997e5c09a646,1,Salvia,Salvia has more species than Arachis.,0.0,0.2857142857142857,1.0,1.5B_untrained
+E2,5a88a1475542997e5c09a646,3,Salvia,Salvia,1.0,1.0,1.0,1.5B_untrained
+E2,5a8887a055429938390d3f72,0,Rocky Boy's Indian Reservation,Rocky Boy's Indian Reservation,1.0,1.0,1.0,1.5B_untrained
+E2,5a8887a055429938390d3f72,1,Rocky Boy's Indian Reservation,Rocky Boy Reservation,0.0,0.5714285714285715,1.0,1.5B_untrained
+E2,5a8887a055429938390d3f72,3,Rocky Boy's Indian Reservation,Rocky Boy Reservation,0.0,0.5714285714285715,1.0,1.5B_untrained
+E2,5a86399e5542994775f60733,0,Punjabi/Pashtun,Norwegian,0.0,0.0,0.0,1.5B_untrained
+E2,5a86399e5542994775f60733,1,Punjabi/Pashtun,Norwegian,0.0,0.0,0.0,1.5B_untrained
+E2,5a86399e5542994775f60733,3,Punjabi/Pashtun,Punjabi/Pashtun descent,0.0,0.6666666666666666,1.0,1.5B_untrained
+E2,5a84c0765542991dd0999dd9,0,Gary Lightbody,Martha Wainwright,0.0,0.0,0.0,1.5B_untrained
+E2,5a84c0765542991dd0999dd9,1,Gary Lightbody,Martha Wainwright,0.0,0.0,0.0,1.5B_untrained
+E2,5a84c0765542991dd0999dd9,3,Gary Lightbody,Martha Wainwright,0.0,0.0,0.0,1.5B_untrained
+E2,5adf17f95542995ec70e8f6c,0,Australian,Australia,0.0,0.0,0.0,1.5B_untrained
+E2,5adf17f95542995ec70e8f6c,1,Australian,Australia,0.0,0.0,0.0,1.5B_untrained
+E2,5adf17f95542995ec70e8f6c,3,Australian,Australia,0.0,0.0,0.0,1.5B_untrained
+E2,5a7f5ab65542995d8a8dde43,0,Cosmopolitan of Las Vegas,The Colosseum at Caesars Palace,0.0,0.0,0.4,1.5B_untrained
+E2,5a7f5ab65542995d8a8dde43,1,Cosmopolitan of Las Vegas,The Cosmopolitan in Las Vegas,0.0,0.75,0.4,1.5B_untrained
+E2,5a7f5ab65542995d8a8dde43,3,Cosmopolitan of Las Vegas,The Cosmopolitan of Las Vegas,1.0,1.0,0.4,1.5B_untrained
+E2,5a8cec13554299441c6b9f7d,0,yes,"No, the operas Vanessa and Le roi malgré lui do not contain the same number of acts. Vanessa is an",0.0,0.0,0.0,1.5B_untrained
+E2,5a8cec13554299441c6b9f7d,1,yes,"No, the operas Vanessa and Le roi malgré lui do not contain the same number of acts.",0.0,0.0,0.0,1.5B_untrained
+E2,5a8cec13554299441c6b9f7d,3,yes,"No, the operas Vanessa and Le roi malgré lui do not contain the same number of acts.",0.0,0.0,0.0,1.5B_untrained
+E2,5abce9ca554299114383a193,0,racehorse breeder and owner,Football coach,0.0,0.0,1.0,1.5B_untrained
+E2,5abce9ca554299114383a193,1,racehorse breeder and owner,former racehorse breeder and owner,0.0,0.888888888888889,0.3333,1.5B_untrained
+E2,5abce9ca554299114383a193,3,racehorse breeder and owner,former racehorse breeder and owner,0.0,0.888888888888889,0.3333,1.5B_untrained
+E2,5a7a1b845542990783324e5f,0,Stadio Olimpico,"Rotterdam, Netherlands",0.0,0.0,0.0,1.5B_untrained
+E2,5a7a1b845542990783324e5f,1,Stadio Olimpico,"Rome, Italy",0.0,0.0,0.5714,1.5B_untrained
+E2,5a7a1b845542990783324e5f,3,Stadio Olimpico,The only European Cup Final in which Jupp Heynkes played was held at Stadio Olimpico in Rome,0.0,0.2222222222222222,0.6667,1.5B_untrained
+E2,5a7363ec5542991f29ee2dd7,0,Key West,Key West,1.0,1.0,1.0,1.5B_untrained
+E2,5a7363ec5542991f29ee2dd7,1,Key West,"Key West, Florida",0.0,0.8,1.0,1.5B_untrained
+E2,5a7363ec5542991f29ee2dd7,3,Key West,"Key West, Florida",0.0,0.8,1.0,1.5B_untrained
+E2,5a77321355429972597f1493,0,The Agronomist,The Agronomist,1.0,1.0,1.0,1.5B_untrained
+E2,5a77321355429972597f1493,1,The Agronomist,The Agronomist,1.0,1.0,1.0,1.5B_untrained
+E2,5a77321355429972597f1493,3,The Agronomist,American Scary,0.0,0.0,1.0,1.5B_untrained
+E2,5ab5cd4f554299488d4d9a31,0,In Pursuit,Nashville Sound,0.0,0.0,0.0,1.5B_untrained
+E2,5ab5cd4f554299488d4d9a31,1,In Pursuit,In Pursuit,1.0,1.0,1.0,1.5B_untrained
+E2,5ab5cd4f554299488d4d9a31,3,In Pursuit,In Pursuit,1.0,1.0,1.0,1.5B_untrained
+E2,5a83411655429966c78a6b5d,0,Justin Spitzer,Van Partible,0.0,0.0,0.0,1.5B_untrained
+E2,5a83411655429966c78a6b5d,1,Justin Spitzer,Justin Spitzer,1.0,1.0,1.0,1.5B_untrained
+E2,5a83411655429966c78a6b5d,3,Justin Spitzer,Van Partible,0.0,0.0,1.0,1.5B_untrained
+E2,5a8d50fb55429941ae14dfa2,0,75 mi,12 miles away from Lake Tahoe.,0.0,0.0,0.5,1.5B_untrained
+E2,5a8d50fb55429941ae14dfa2,1,75 mi,12 miles away from Lake Tahoe.,0.0,0.0,0.5,1.5B_untrained
+E2,5a8d50fb55429941ae14dfa2,3,75 mi,12 miles away from Lake Tahoe.,0.0,0.0,0.5,1.5B_untrained
+E2,5ae80919554299540e5a56f6,0,The Changing Scottish Landscape,Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by Ferdinand and Is,0.0,0.0,0.0,1.5B_untrained
+E2,5ae80919554299540e5a56f6,1,The Changing Scottish Landscape,"Isabella Kelly was born at Cairnburgh Castle, which is a ruined castle located on the islands of Cairn na",0.0,0.0,0.8571,1.5B_untrained
+E2,5ae80919554299540e5a56f6,3,The Changing Scottish Landscape,Sir Patrick Geddes,0.0,0.0,1.0,1.5B_untrained
+E2,5ab2b8fe5542991669774070,0,Budget Rent a Car,Enterprise Rent-A-Car,0.0,0.0,0.0,1.5B_untrained
+E2,5ab2b8fe5542991669774070,1,Budget Rent a Car,Enterprise Rent-A-Car,0.0,0.0,0.0,1.5B_untrained
+E2,5ab2b8fe5542991669774070,3,Budget Rent a Car,Enterprise Rent-A-Car,0.0,0.0,0.0,1.5B_untrained
+E2,5a8d0efd5542994ba4e3dbc6,0,"Warsaw, Poland",Moscow,0.0,0.0,0.0,1.5B_untrained
+E2,5a8d0efd5542994ba4e3dbc6,1,"Warsaw, Poland",Warsaw,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a8d0efd5542994ba4e3dbc6,3,"Warsaw, Poland",Warsaw,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a7125b95542994082a3e5d5,0,Gardnerville,"Gardnerville, Nevada has a greater population as of the 2010 census, with a population of",0.0,0.15384615384615385,0.0,1.5B_untrained
+E2,5a7125b95542994082a3e5d5,1,Gardnerville,"Gardnerville, Nevada",0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a7125b95542994082a3e5d5,3,Gardnerville,"Gardnerville, Nevada",0.0,0.6666666666666666,0.0,1.5B_untrained
+E2,5a8a6a2155429930ff3c0dd0,0,Kenneth Eliot Flach,Lucie Šafářová,0.0,0.0,0.0,1.5B_untrained
+E2,5a8a6a2155429930ff3c0dd0,1,Kenneth Eliot Flach,Lucie Šafářová,0.0,0.0,0.0,1.5B_untrained
+E2,5a8a6a2155429930ff3c0dd0,3,Kenneth Eliot Flach,Lucie Šafářová,0.0,0.0,0.0,1.5B_untrained
+E2,5ae834e95542997ec272776a,0,Highwayman,Highwayman,1.0,1.0,1.0,1.5B_untrained
+E2,5ae834e95542997ec272776a,1,Highwayman,Highwayman,1.0,1.0,1.0,1.5B_untrained
+E2,5ae834e95542997ec272776a,3,Highwayman,Highwayman,1.0,1.0,1.0,1.5B_untrained
+E2,5a7ab51055429927d897bef6,0,1961,1927,0.0,0.0,0.0,1.5B_untrained
+E2,5a7ab51055429927d897bef6,1,1961,1927,0.0,0.0,0.0,1.5B_untrained
+E2,5a7ab51055429927d897bef6,3,1961,1961,1.0,1.0,1.0,1.5B_untrained
+E2,5ae250b45542996483e64977,0,former Speaker of the U.S. House of Representatives,Speaker of the House,0.0,0.6,0.1091,1.5B_untrained
+E2,5ae250b45542996483e64977,1,former Speaker of the U.S. House of Representatives,Speaker of the House,0.0,0.6,0.6,1.5B_untrained
+E2,5ae250b45542996483e64977,3,former Speaker of the U.S. House of Representatives,Speaker of the House,0.0,0.6,0.6,1.5B_untrained
+E2,5a733c925542991f9a20c6b7,0,cocktails,cocktail,0.0,0.0,0.0,1.5B_untrained
+E2,5a733c925542991f9a20c6b7,1,cocktails,cocktail,0.0,0.0,0.0,1.5B_untrained
+E2,5a733c925542991f9a20c6b7,3,cocktails,cocktail,0.0,0.0,0.0,1.5B_untrained
+E2,5a7e5ec25542991319bc947a,0,Květa Peschke,John Newcombe,0.0,0.0,0.0,1.5B_untrained
+E2,5a7e5ec25542991319bc947a,1,Květa Peschke,Květa Peschke,1.0,1.0,0.0,1.5B_untrained
+E2,5a7e5ec25542991319bc947a,3,Květa Peschke,John Newcombe,0.0,0.0,1.0,1.5B_untrained
+E2,5adbf2805542994650320c15,0,The High Sheriff changes every March.,The role of William Vere Reeve King-Fane does not change in the given information.,0.0,0.0,0.0667,1.5B_untrained
+E2,5adbf2805542994650320c15,1,The High Sheriff changes every March.,The role of William Vere Reeve King-Fane changes when George Sanders takes over the role.,0.0,0.1111111111111111,0.0,1.5B_untrained
+E2,5adbf2805542994650320c15,3,The High Sheriff changes every March.,The role of William Vere Reeve King-Fane changes when George Sanders takes over the role.,0.0,0.1111111111111111,0.0,1.5B_untrained
+E2,5a845e9055429933447460ec,0,Sacramento Kings,San Diego State,0.0,0.0,0.0,1.5B_untrained
+E2,5a845e9055429933447460ec,1,Sacramento Kings,Oklahoma,0.0,0.0,1.0,1.5B_untrained
+E2,5a845e9055429933447460ec,3,Sacramento Kings,Oklahoma,0.0,0.0,1.0,1.5B_untrained
+E2,5a820c0c554299676cceb1fc,0,All Nippon,Narita International Airport Corporation,0.0,0.0,0.0,1.5B_untrained
+E2,5a820c0c554299676cceb1fc,1,All Nippon,Narita International Airport Corporation,0.0,0.0,0.0,1.5B_untrained
+E2,5a820c0c554299676cceb1fc,3,All Nippon,Vanilla Air,0.0,0.0,0.8,1.5B_untrained
+E2,5a88bd1d554299206df2b357,0,"season six, episode 5, ""Invasion""","Season six, episode 5 of ""Grey's Anatomy""",0.0,0.6666666666666666,1.0,1.5B_untrained
+E2,5a88bd1d554299206df2b357,1,"season six, episode 5, ""Invasion""","Season six, episode 5 of ""Grey's Anatomy""",0.0,0.6666666666666666,0.8889,1.5B_untrained
+E2,5a88bd1d554299206df2b357,3,"season six, episode 5, ""Invasion""","Season six, episode 5 of ""Grey's Anatomy""",0.0,0.6666666666666666,0.8889,1.5B_untrained
+E2,5a79332555429907847277e7,0,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,1.0,1.5B_untrained
+E2,5a79332555429907847277e7,1,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,1.0,1.5B_untrained
+E2,5a79332555429907847277e7,3,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,1.0,1.5B_untrained
+E2,5abd516a5542992ac4f3825c,0,Hindi,Hinduism,0.0,0.0,0.0,1.5B_untrained
+E2,5abd516a5542992ac4f3825c,1,Hindi,Hindu,0.0,0.0,0.0,1.5B_untrained
+E2,5abd516a5542992ac4f3825c,3,Hindi,Hinduism,0.0,0.0,0.0,1.5B_untrained
+E2,5add26075542994ed6169c9c,0,WAMC,WAMC,1.0,1.0,1.0,1.5B_untrained
+E2,5add26075542994ed6169c9c,1,WAMC,WAMC,1.0,1.0,1.0,1.5B_untrained
+E2,5add26075542994ed6169c9c,3,WAMC,WAMC,1.0,1.0,1.0,1.5B_untrained
+E2,5a901f735542990a98493591,0,second,six,0.0,0.0,0.0,1.5B_untrained
+E2,5a901f735542990a98493591,1,second,six,0.0,0.0,0.0,1.5B_untrained
+E2,5a901f735542990a98493591,3,second,six,0.0,0.0,0.0,1.5B_untrained
+E2,5ab840e255429934fafe6d3b,0,New Jewel Movement,"The movement that Hudson Austin's predecessor, Herbert Blaize, led was an effort in the areas of socio-economic development",0.0,0.1111111111111111,0.0,1.5B_untrained
+E2,5ab840e255429934fafe6d3b,1,New Jewel Movement,New Jewel Movement,1.0,1.0,1.0,1.5B_untrained
+E2,5ab840e255429934fafe6d3b,3,New Jewel Movement,New Jewel Movement,1.0,1.0,1.0,1.5B_untrained
+E2,5ac3d4b6554299204fd21e93,0,Paper,Paper,1.0,1.0,1.0,1.5B_untrained
+E2,5ac3d4b6554299204fd21e93,1,Paper,Paper,1.0,1.0,1.0,1.5B_untrained
+E2,5ac3d4b6554299204fd21e93,3,Paper,Paper,1.0,1.0,1.0,1.5B_untrained
+E2,5a73b2cb55429908901be31a,0,Maria von Trapp,Alix Williamson,0.0,0.0,1.0,1.5B_untrained
+E2,5a73b2cb55429908901be31a,1,Maria von Trapp,Alix Williamson,0.0,0.0,1.0,1.5B_untrained
+E2,5a73b2cb55429908901be31a,3,Maria von Trapp,Maria von Trapp,1.0,1.0,0.8571,1.5B_untrained
+E2,5ac29cf8554299218029dac2,0,Rowan Blanchard,Dayna Hart,0.0,0.0,0.0,1.5B_untrained
+E2,5ac29cf8554299218029dac2,1,Rowan Blanchard,Dayna Hart,0.0,0.0,0.0,1.5B_untrained
+E2,5ac29cf8554299218029dac2,3,Rowan Blanchard,Rowan Blanchard,1.0,1.0,1.0,1.5B_untrained
+E2,5ae686535542996d980e7bdc,0,Ringo Starr,Barbara Bach,0.0,0.0,1.0,1.5B_untrained
+E2,5ae686535542996d980e7bdc,1,Ringo Starr,Barbara Bach,0.0,0.0,1.0,1.5B_untrained
+E2,5ae686535542996d980e7bdc,3,Ringo Starr,Barbara Bach,0.0,0.0,1.0,1.5B_untrained
+E2,5a8aa1685542992d82986f32,0,Beijing Dance Academy,Beijing Dance Academy and Beijing Film Academy,0.0,0.6,1.0,1.5B_untrained
+E2,5a8aa1685542992d82986f32,1,Beijing Dance Academy,Beijing Dance Academy and Beijing Film Academy,0.0,0.6,1.0,1.5B_untrained
+E2,5a8aa1685542992d82986f32,3,Beijing Dance Academy,Beijing Dance Academy and Beijing Film Academy,0.0,0.6,1.0,1.5B_untrained
+E2,5a7d7deb5542995f4f402282,0,Shifty Shellshock,Shifty Shellshock,1.0,1.0,1.0,1.5B_untrained
+E2,5a7d7deb5542995f4f402282,1,Shifty Shellshock,Shifty Shellshock,1.0,1.0,1.0,1.5B_untrained
+E2,5a7d7deb5542995f4f402282,3,Shifty Shellshock,Mark Arm,0.0,0.0,1.0,1.5B_untrained
+E2,5a8c622a554299240d9c2142,0,Ursula Kroeber Le Guin,Ursula K. Le Guin,0.0,0.75,0.75,1.5B_untrained
+E2,5a8c622a554299240d9c2142,1,Ursula Kroeber Le Guin,Ursula K. Le Guin,0.0,0.75,0.75,1.5B_untrained
+E2,5a8c622a554299240d9c2142,3,Ursula Kroeber Le Guin,Ursula K. Le Guin,0.0,0.75,0.75,1.5B_untrained
+E2,5a7b81715542997c3ec971d4,0,Hugo Award,"The author of the ""The Dagger and the Coin"" fantasy series, Daniel Abraham, was nominated for the CWA International",0.0,0.0,0.0,1.5B_untrained
+E2,5a7b81715542997c3ec971d4,1,Hugo Award,CWA International Dagger,0.0,0.0,0.0,1.5B_untrained
+E2,5a7b81715542997c3ec971d4,3,Hugo Award,Hugo Award for Best Dramatic Presentation,0.0,0.5,0.25,1.5B_untrained
+E2,5ae0c29c5542993d6555ec46,0,"professional wrestler, actor, and hip hop musician",The profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka,0.0,0.0,0.0,1.5B_untrained
+E2,5ae0c29c5542993d6555ec46,1,"professional wrestler, actor, and hip hop musician",songwriter producer,0.0,0.0,0.0,1.5B_untrained
+E2,5ae0c29c5542993d6555ec46,3,"professional wrestler, actor, and hip hop musician",songwriter producer,0.0,0.0,0.0,1.5B_untrained
+E2,5a7c290c5542990527d55468,0,Oklahoma,Oklahoma,1.0,1.0,1.0,1.5B_untrained
+E2,5a7c290c5542990527d55468,1,Oklahoma,Oklahoma,1.0,1.0,1.0,1.5B_untrained
+E2,5a7c290c5542990527d55468,3,Oklahoma,Oklahoma,1.0,1.0,1.0,1.5B_untrained
+E2,5a876f785542993e715abf42,0,"musician, editor and composer.",John Carpenter held more diverse roles in the movie industry.,0.0,0.0,0.0,1.5B_untrained
+E2,5a876f785542993e715abf42,1,"musician, editor and composer.",John Carpenter held more diverse roles in the movie industry.,0.0,0.0,0.0,1.5B_untrained
+E2,5a876f785542993e715abf42,3,"musician, editor and composer.",John Carpenter held more diverse roles in the movie industry.,0.0,0.0,0.0,1.5B_untrained
+E2,5ae1e6d95542997283cd22c3,0,Jordan Peele,Jordan Peele and Alex Rubens,0.0,0.5714285714285715,0.5714,1.5B_untrained
+E2,5ae1e6d95542997283cd22c3,1,Jordan Peele,Jordan Peele and Alex Rubens,0.0,0.5714285714285715,0.5714,1.5B_untrained
+E2,5ae1e6d95542997283cd22c3,3,Jordan Peele,Jordan Peele and Alex Rubens,0.0,0.5714285714285715,0.5714,1.5B_untrained
+E2,5ae10df355429920d52342ac,0,"Warrnambool, Victoria",Alice Springs,0.0,0.0,1.0,1.5B_untrained
+E2,5ae10df355429920d52342ac,1,"Warrnambool, Victoria",Alice Springs,0.0,0.0,1.0,1.5B_untrained
+E2,5ae10df355429920d52342ac,3,"Warrnambool, Victoria",Alice Springs,0.0,0.0,0.6667,1.5B_untrained
+E2,5ae4d8475542993aec5ec0e0,0,Giuseppe Verdi,"Plácido Domingo appeared in an opera ""Carmen"" which was based on a play by William Shakespeare.",0.0,0.0,0.6667,1.5B_untrained
+E2,5ae4d8475542993aec5ec0e0,1,Giuseppe Verdi,Giuseppe Verdi,1.0,1.0,1.0,1.5B_untrained
+E2,5ae4d8475542993aec5ec0e0,3,Giuseppe Verdi,Giuseppe Verdi,1.0,1.0,1.0,1.5B_untrained
+E2,5ab94cf0554299743d22eade,0,Warrington,"Naval Air Station Ellyson Field was an auxiliary facility to the air station in Escambia County, Florida.",0.0,0.0,0.0,1.5B_untrained
+E2,5ab94cf0554299743d22eade,1,Warrington,Pensacola,0.0,0.0,0.0,1.5B_untrained
+E2,5ab94cf0554299743d22eade,3,Warrington,"Escambia County, Florida",0.0,0.0,0.0,1.5B_untrained
+E2,5ae479745542996836b02cb1,0,Sex Drive,Hard Sell,0.0,0.0,0.0,1.5B_untrained
+E2,5ae479745542996836b02cb1,1,Sex Drive,Hard Sell,0.0,0.0,0.0,1.5B_untrained
+E2,5ae479745542996836b02cb1,3,Sex Drive,Hard Sell,0.0,0.0,0.0,1.5B_untrained
+E2,5a852cd05542997b5ce3ffb0,0,Bay of Fundy,Bay of Fundy,1.0,1.0,0.087,1.5B_untrained
+E2,5a852cd05542997b5ce3ffb0,1,Bay of Fundy,Bay of Fundy,1.0,1.0,1.0,1.5B_untrained
+E2,5a852cd05542997b5ce3ffb0,3,Bay of Fundy,Bay of Fundy,1.0,1.0,1.0,1.5B_untrained
+E2,5a8babf05542996e8ac8899e,0,Daviesia,Beech,0.0,0.0,1.0,1.5B_untrained
+E2,5a8babf05542996e8ac8899e,1,Daviesia,Daviesia,1.0,1.0,1.0,1.5B_untrained
+E2,5a8babf05542996e8ac8899e,3,Daviesia,Daviesia,1.0,1.0,1.0,1.5B_untrained
+E2,5a82fcbd55429954d2e2ebe8,0,Maria Szraiber,Maria Grinberg,0.0,0.5,0.5,1.5B_untrained
+E2,5a82fcbd55429954d2e2ebe8,1,Maria Szraiber,Maria Grinberg,0.0,0.5,1.0,1.5B_untrained
+E2,5a82fcbd55429954d2e2ebe8,3,Maria Szraiber,Maria Grinberg,0.0,0.5,1.0,1.5B_untrained
+E2,5a77c60255429967ab105285,0,theory of direct scattering and inverse scattering,The theory advanced by the author of Progress in Optics is the theory of direct scattering and inverse scattering.,0.0,0.6086956521739131,1.0,1.5B_untrained
+E2,5a77c60255429967ab105285,1,theory of direct scattering and inverse scattering,"The theory advanced by the author of Progress in Optics, Emil Wolf, is the theory of direct scattering and inverse scattering",0.0,0.56,1.0,1.5B_untrained
+E2,5a77c60255429967ab105285,3,theory of direct scattering and inverse scattering,Theory of direct scattering and inverse scattering,1.0,1.0,1.0,1.5B_untrained
+E2,5adf39ce5542995534e8c76d,0,Shakespeare performances,Prithviraj Kapoor,0.0,0.0,0.0741,1.5B_untrained
+E2,5adf39ce5542995534e8c76d,1,Shakespeare performances,Shakespeare performances,1.0,1.0,0.3077,1.5B_untrained
+E2,5adf39ce5542995534e8c76d,3,Shakespeare performances,Shakespeare performances,1.0,1.0,0.3077,1.5B_untrained
+E2,5ae694a15542991bbc976141,0,defence of the Cathedral,Minister Pool is important to Black Country and the West Midlands in England because it is a reservoir located in the heart of,0.0,0.08695652173913045,0.0,1.5B_untrained
+E2,5ae694a15542991bbc976141,1,defence of the Cathedral,Minister Pool is important to Black Country and the West Midlands in England because it is a reservoir located in the heart of,0.0,0.08695652173913045,0.1538,1.5B_untrained
+E2,5ae694a15542991bbc976141,3,defence of the Cathedral,Minister Pool is important to Black Country and the West Midlands in England because it is a reservoir located in the heart of,0.0,0.08695652173913045,0.0833,1.5B_untrained
+E2,5ae13bca55429901ffe4ae17,0,Debbie Harry,Debbie Harry,1.0,1.0,1.0,1.5B_untrained
+E2,5ae13bca55429901ffe4ae17,1,Debbie Harry,Cyndi Lauper,0.0,0.0,1.0,1.5B_untrained
+E2,5ae13bca55429901ffe4ae17,3,Debbie Harry,Cyndi Lauper,0.0,0.0,1.0,1.5B_untrained
+E2,5a8a265b5542992d82986ecc,0,Frederick King Keller,Ian Schneider,0.0,0.0,1.0,1.5B_untrained
+E2,5a8a265b5542992d82986ecc,1,Frederick King Keller,Ian Schneider,0.0,0.0,1.0,1.5B_untrained
+E2,5a8a265b5542992d82986ecc,3,Frederick King Keller,Ian Schneider,0.0,0.0,1.0,1.5B_untrained
+E2,5a77121a5542994aec3b71db,0,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",Charley and the Angel,0.0,0.10526315789473684,0.1053,1.5B_untrained
+E2,5a77121a5542994aec3b71db,1,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",The Boatniks,0.0,0.11764705882352941,0.1176,1.5B_untrained
+E2,5a77121a5542994aec3b71db,3,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",The Boatniks,0.0,0.11764705882352941,0.1176,1.5B_untrained
+E2,5ae6911955429908198fa626,0,Mrs. Eastwood & Company,Sela Ward,0.0,0.0,0.0,1.5B_untrained
+E2,5ae6911955429908198fa626,1,Mrs. Eastwood & Company,Saw Dogs,0.0,0.0,0.0,1.5B_untrained
+E2,5ae6911955429908198fa626,3,Mrs. Eastwood & Company,"The E! reality series that Francesca Eastwood starred in is ""The Surreal Life: Fame Games"".",0.0,0.125,0.0,1.5B_untrained
+E2,5ae53de455429908b6326599,0,Delaware River,Brodhead Creek,0.0,0.0,0.0,1.5B_untrained
+E2,5ae53de455429908b6326599,1,Delaware River,Delaware River,1.0,1.0,0.0,1.5B_untrained
+E2,5ae53de455429908b6326599,3,Delaware River,Delaware River,1.0,1.0,0.0,1.5B_untrained
+E2,5a813b6f55429903bc27b951,0,Oryzomyini,Oryzomyini,1.0,1.0,1.0,1.5B_untrained
+E2,5a813b6f55429903bc27b951,1,Oryzomyini,Oryzomyini,1.0,1.0,1.0,1.5B_untrained
+E2,5a813b6f55429903bc27b951,3,Oryzomyini,Oryzomyini,1.0,1.0,1.0,1.5B_untrained
+E2,5a84b4005542991dd0999d99,0,"October 16, 2015",2003,0.0,0.0,0.0,1.5B_untrained
+E2,5a84b4005542991dd0999d99,1,"October 16, 2015","September 25, 2015",0.0,0.3333333333333333,0.3333,1.5B_untrained
+E2,5a84b4005542991dd0999d99,3,"October 16, 2015","September 25, 2015",0.0,0.3333333333333333,0.3333,1.5B_untrained
+E2,5a8cca64554299653c1aa125,0,British Army,"The document does not provide information about James Hill or John Vereker, 6th Viscount Gort's officers.",0.0,0.0,0.0,1.5B_untrained
+E2,5a8cca64554299653c1aa125,1,British Army,"James Hill was an officer for the 3rd Parachute Brigade, part of the 6th Airborne Division",0.0,0.0,0.25,1.5B_untrained
+E2,5a8cca64554299653c1aa125,3,British Army,"James Hill was an officer for the 3rd Parachute Brigade, part of the 6th Airborne Division",0.0,0.0,0.2105,1.5B_untrained
+E2,5ab8ed305542991b5579f046,0,The United States of America,United States,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5ab8ed305542991b5579f046,1,The United States of America,United States,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5ab8ed305542991b5579f046,3,The United States of America,United States,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5ae0b2f25542993d6555ec1c,0,hamburgers,Scampi al vino bianco,0.0,0.0,0.0,1.5B_untrained
+E2,5ae0b2f25542993d6555ec1c,1,hamburgers,Breakfast,0.0,0.0,0.0,1.5B_untrained
+E2,5ae0b2f25542993d6555ec1c,3,hamburgers,Scalappine al Marsala,0.0,0.0,0.0,1.5B_untrained
+E2,5ae207a65542994d89d5b317,0,Oplismenus,Oplismenus,1.0,1.0,1.0,1.5B_untrained
+E2,5ae207a65542994d89d5b317,1,Oplismenus,Oplismenus,1.0,1.0,1.0,1.5B_untrained
+E2,5ae207a65542994d89d5b317,3,Oplismenus,Oplismenus,1.0,1.0,1.0,1.5B_untrained
+E2,5a75383a5542996c70cfaeb3,0,Ulf Dietrich Merbold,Mirosław Hermaszewski,0.0,0.0,0.0,1.5B_untrained
+E2,5a75383a5542996c70cfaeb3,1,Ulf Dietrich Merbold,Mirosław Hermaszewski,0.0,0.0,0.0,1.5B_untrained
+E2,5a75383a5542996c70cfaeb3,3,Ulf Dietrich Merbold,Mirosław Hermaszewski,0.0,0.0,0.0,1.5B_untrained
+E2,5ae3fd2c5542995dadf2428f,0,no,"No, Ian Brown and Dee Snider are not both actors. Ian Brown is a musician, while Dee Snider is",0.0,0.10526315789473684,1.0,1.5B_untrained
+E2,5ae3fd2c5542995dadf2428f,1,no,"No, Ian Brown and Dee Snider are not both actors. Ian Brown is a musician, while Dee Snider is",0.0,0.10526315789473684,1.0,1.5B_untrained
+E2,5ae3fd2c5542995dadf2428f,3,no,"No, Ian Brown and Dee Snider are not both actors. Ian Brown is a musician, while Dee Snider is",0.0,0.10526315789473684,1.0,1.5B_untrained
+E2,5abffd10554299012d1db556,0,Lombardy,Valtellina,0.0,0.0,0.0,1.5B_untrained
+E2,5abffd10554299012d1db556,1,Lombardy,"Valtellina, in the Italian Alps.",0.0,0.0,0.0,1.5B_untrained
+E2,5abffd10554299012d1db556,3,Lombardy,"Valtellina, Lombardy",0.0,0.6666666666666666,0.0,1.5B_untrained
+E2,5a8f812755429918e830d245,0,a governor,Robert M. Fomon was the Chairman and Chief Executive Officer of E. F. Hutton & Co. from,0.0,0.0,0.1818,1.5B_untrained
+E2,5a8f812755429918e830d245,1,a governor,Robert M. Fomon was the Chairman and Chief Executive Officer of E. F. Hutton & Co. from,0.0,0.0,0.1818,1.5B_untrained
+E2,5a8f812755429918e830d245,3,a governor,"Robert M. Fomon's connection to the New York Stock Exchange located at 11 Wall Street, Lower Manhattan,",0.0,0.0,0.1818,1.5B_untrained
+E2,5ae520315542993aec5ec152,0,Taylor Swift,Taylor Swift,1.0,1.0,1.0,1.5B_untrained
+E2,5ae520315542993aec5ec152,1,Taylor Swift,Taylor Swift,1.0,1.0,1.0,1.5B_untrained
+E2,5ae520315542993aec5ec152,3,Taylor Swift,Taylor Swift,1.0,1.0,1.0,1.5B_untrained
+E2,5a7631cd5542994ccc91870c,0,"Franconia, New Hampshire",Hagerstown Community College,0.0,0.0,0.0,1.5B_untrained
+E2,5a7631cd5542994ccc91870c,1,"Franconia, New Hampshire",The seminar Jeanne Marie Beaumont directed in 2007-2010 was located at the K,0.0,0.0,0.0,1.5B_untrained
+E2,5a7631cd5542994ccc91870c,3,"Franconia, New Hampshire","Kripalu Center, Stockbridge, Massachusetts",0.0,0.0,0.0,1.5B_untrained
+E2,5ac26eed55429951e9e685bf,0,the U.S. state of Kansas,"Doniphan County, Kansas",0.0,0.28571428571428575,0.1111,1.5B_untrained
+E2,5ac26eed55429951e9e685bf,1,the U.S. state of Kansas,"Doniphan County, Kansas",0.0,0.28571428571428575,0.2857,1.5B_untrained
+E2,5ac26eed55429951e9e685bf,3,the U.S. state of Kansas,"Doniphan County, Kansas",0.0,0.28571428571428575,0.0909,1.5B_untrained
+E2,5a7e37095542995ed0d166d5,0,Sinclair Hill,Sinclair Hill,1.0,1.0,0.0,1.5B_untrained
+E2,5a7e37095542995ed0d166d5,1,Sinclair Hill,Sinclair Hill,1.0,1.0,0.0,1.5B_untrained
+E2,5a7e37095542995ed0d166d5,3,Sinclair Hill,Sinclair Hill,1.0,1.0,0.0,1.5B_untrained
+E2,5adf72d35542992d7e9f9369,0,no,"No, William Kronick and Jon Turteltaub are not both television writers.",0.0,0.16666666666666669,1.0,1.5B_untrained
+E2,5adf72d35542992d7e9f9369,1,no,Yes,0.0,0.0,1.0,1.5B_untrained
+E2,5adf72d35542992d7e9f9369,3,no,"Yes, William Kronick and Jon Turteltaub are both television writers.",0.0,0.0,1.0,1.5B_untrained
+E2,5a876b265542993e715abf33,0,and lead guitarist,Joe Gooch,0.0,0.0,0.0,1.5B_untrained
+E2,5a876b265542993e715abf33,1,and lead guitarist,Joe Gooch,0.0,0.0,0.0,1.5B_untrained
+E2,5a876b265542993e715abf33,3,and lead guitarist,Joe Gooch,0.0,0.0,0.0,1.5B_untrained
+E2,5a77ddb855429967ab1052d8,0,"Cynthia Ann Stephanie ""Cyndi"" Lauper",Cyndi Lauper,0.0,0.5714285714285715,0.5714,1.5B_untrained
+E2,5a77ddb855429967ab1052d8,1,"Cynthia Ann Stephanie ""Cyndi"" Lauper",Cyndi Lauper,0.0,0.5714285714285715,0.5714,1.5B_untrained
+E2,5a77ddb855429967ab1052d8,3,"Cynthia Ann Stephanie ""Cyndi"" Lauper",Cyndi Lauper,0.0,0.5714285714285715,0.5714,1.5B_untrained
+E2,5adcc3ed5542994d58a2f6c4,0,"the ""First Family of Competitive Eating""",The First Family of Competitive Eating,1.0,1.0,1.0,1.5B_untrained
+E2,5adcc3ed5542994d58a2f6c4,1,"the ""First Family of Competitive Eating""",The First Family of Competitive Eating,1.0,1.0,1.0,1.5B_untrained
+E2,5adcc3ed5542994d58a2f6c4,3,"the ""First Family of Competitive Eating""",The First Family of Competitive Eating,1.0,1.0,1.0,1.5B_untrained
+E2,5a76f5b155429972597f1400,0,Philip Morris Glass,Steve Reich,0.0,0.0,0.0,1.5B_untrained
+E2,5a76f5b155429972597f1400,1,Philip Morris Glass,Steve Reich,0.0,0.0,0.0,1.5B_untrained
+E2,5a76f5b155429972597f1400,3,Philip Morris Glass,Steve Reich,0.0,0.0,0.0,1.5B_untrained
+E2,5ae2c696554299495565db32,0,Keeper of the Privy Seal of Scotland,Earls of Lauderdale,0.0,0.2222222222222222,0.2222,1.5B_untrained
+E2,5ae2c696554299495565db32,1,Keeper of the Privy Seal of Scotland,Earls of Lauderdale,0.0,0.2222222222222222,0.2222,1.5B_untrained
+E2,5ae2c696554299495565db32,3,Keeper of the Privy Seal of Scotland,Earls of Lauderdale,0.0,0.2222222222222222,0.2222,1.5B_untrained
+E2,5a875154554299211dda2be7,0,Mickey Gilley,Sherwood Cryer,0.0,0.0,0.0,1.5B_untrained
+E2,5a875154554299211dda2be7,1,Mickey Gilley,Sherwood Cryer,0.0,0.0,1.0,1.5B_untrained
+E2,5a875154554299211dda2be7,3,Mickey Gilley,Sherwood Cryer,0.0,0.0,1.0,1.5B_untrained
+E2,5a84cf175542992a431d1aa2,0,Ratatat,Lilys,0.0,0.0,1.0,1.5B_untrained
+E2,5a84cf175542992a431d1aa2,1,Ratatat,Lilys,0.0,0.0,0.0,1.5B_untrained
+E2,5a84cf175542992a431d1aa2,3,Ratatat,Ratatat,1.0,1.0,0.0,1.5B_untrained
+E2,5ae675245542991bbc9760dc,0,Merovech,Childeric I,0.0,0.0,0.0,1.5B_untrained
+E2,5ae675245542991bbc9760dc,1,Merovech,Childeric I,0.0,0.0,0.0,1.5B_untrained
+E2,5ae675245542991bbc9760dc,3,Merovech,Childeric I,0.0,0.0,1.0,1.5B_untrained
+E2,5a80b0565542996402f6a5f0,0,Adorable,Adorable,1.0,1.0,1.0,1.5B_untrained
+E2,5a80b0565542996402f6a5f0,1,Adorable,Lit,0.0,0.0,1.0,1.5B_untrained
+E2,5a80b0565542996402f6a5f0,3,Adorable,Lit,0.0,0.0,1.0,1.5B_untrained
+E2,5adde3a45542997545bbbdc2,0,yes,"Yes, both Delmer Daves and Jean-Pierre Jeunet are film directors.",0.0,0.18181818181818182,1.0,1.5B_untrained
+E2,5adde3a45542997545bbbdc2,1,yes,Yes,1.0,1.0,1.0,1.5B_untrained
+E2,5adde3a45542997545bbbdc2,3,yes,"Yes, both Delmer Daves and Jean-Pierre Jeunet are film directors.",0.0,0.18181818181818182,1.0,1.5B_untrained
+E2,5ac26b7f55429951e9e685ae,0,hardcore,DJ Scotch Egg,0.0,0.0,0.0,1.5B_untrained
+E2,5ac26b7f55429951e9e685ae,1,hardcore,Tim Hecker,0.0,0.0,0.0,1.5B_untrained
+E2,5ac26b7f55429951e9e685ae,3,hardcore,Gottfried von der Goltz,0.0,0.0,0.0,1.5B_untrained
+E2,5adf39295542992d7e9f92df,0,Apium,Apium has more species than Elodea.,0.0,0.2857142857142857,1.0,1.5B_untrained
+E2,5adf39295542992d7e9f92df,1,Apium,Apium has more species than Elodea.,0.0,0.2857142857142857,0.0,1.5B_untrained
+E2,5adf39295542992d7e9f92df,3,Apium,Apium has more species than Elodea.,0.0,0.2857142857142857,0.0,1.5B_untrained
+E2,5abc19705542993a06baf86e,0,Dutch,Dutch,1.0,1.0,0.0,1.5B_untrained
+E2,5abc19705542993a06baf86e,1,Dutch,Dutch,1.0,1.0,1.0,1.5B_untrained
+E2,5abc19705542993a06baf86e,3,Dutch,Jewish,0.0,0.0,0.0,1.5B_untrained
+E2,5ae6914755429908198fa627,0,January 2001,July,0.0,0.0,0.0,1.5B_untrained
+E2,5ae6914755429908198fa627,1,January 2001,January,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5ae6914755429908198fa627,3,January 2001,January,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5adc9b7a5542994d58a2f679,0,American,United States,0.0,0.0,0.0,1.5B_untrained
+E2,5adc9b7a5542994d58a2f679,1,American,United States,0.0,0.0,0.0,1.5B_untrained
+E2,5adc9b7a5542994d58a2f679,3,American,United States,0.0,0.0,0.0,1.5B_untrained
+E2,5a721dfd55429971e9dc928b,0,Thorgan Ganael Francis Hazard,Thorgan Hazard,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a721dfd55429971e9dc928b,1,Thorgan Ganael Francis Hazard,Thorgan Hazard,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a721dfd55429971e9dc928b,3,Thorgan Ganael Francis Hazard,Thorgan Hazard,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a8b50475542997f31a41cd4,0,world wushu tournament,Wong Shun Leung,0.0,0.0,0.0,1.5B_untrained
+E2,5a8b50475542997f31a41cd4,1,world wushu tournament,Wong Shun Leung,0.0,0.0,0.0,1.5B_untrained
+E2,5a8b50475542997f31a41cd4,3,world wushu tournament,Wong Shun Leung,0.0,0.0,0.0,1.5B_untrained
+E2,5a860aa6554299211dda2a45,0,The New York Enterprise Report,The New York Enterprise Report,1.0,1.0,0.7273,1.5B_untrained
+E2,5a860aa6554299211dda2a45,1,The New York Enterprise Report,The New York Enterprise Report,1.0,1.0,1.0,1.5B_untrained
+E2,5a860aa6554299211dda2a45,3,The New York Enterprise Report,The New York Enterprise Report,1.0,1.0,1.0,1.5B_untrained
+E2,5ae4585c5542996836b02c89,0,Live,Band of Skulls,0.0,0.0,0.0,1.5B_untrained
+E2,5ae4585c5542996836b02c89,1,Live,Band of Skulls,0.0,0.0,1.0,1.5B_untrained
+E2,5ae4585c5542996836b02c89,3,Live,Live,1.0,1.0,0.1176,1.5B_untrained
+E2,5adfcb5455429906c02daa48,0,Father Dougal McGuire,Father Dougal McGuire,1.0,1.0,1.0,1.5B_untrained
+E2,5adfcb5455429906c02daa48,1,Father Dougal McGuire,Father Dougal McGuire,1.0,1.0,1.0,1.5B_untrained
+E2,5adfcb5455429906c02daa48,3,Father Dougal McGuire,Father Dougal McGuire,1.0,1.0,1.0,1.5B_untrained
+E2,5a77a41a5542997042120ab9,0,2006,2010,0.0,0.0,0.0,1.5B_untrained
+E2,5a77a41a5542997042120ab9,1,2006,2010,0.0,0.0,0.0,1.5B_untrained
+E2,5a77a41a5542997042120ab9,3,2006,2010,0.0,0.0,0.0,1.5B_untrained
+E2,5a8759395542994775f607e0,0,Joel David Coen,"John Anderson (footballer, born 1937) is older than J. Todd Anderson (born 1",0.0,0.0,0.0,1.5B_untrained
+E2,5a8759395542994775f607e0,1,Joel David Coen,"John Anderson (footballer, born 1937) is older than J. Todd Anderson (born 1",0.0,0.0,1.0,1.5B_untrained
+E2,5a8759395542994775f607e0,3,Joel David Coen,"J. Todd Anderson has primarily worked with the Coen brothers, who were born in 1954 and",0.0,0.1111111111111111,0.8,1.5B_untrained
+E2,5a84992e5542992a431d1a6d,0,Boyd Gaming,Ring of Honor (ROH),0.0,0.0,0.0,1.5B_untrained
+E2,5a84992e5542992a431d1a6d,1,Boyd Gaming,Boyd Gaming,1.0,1.0,1.0,1.5B_untrained
+E2,5a84992e5542992a431d1a6d,3,Boyd Gaming,Boyd Gaming,1.0,1.0,1.0,1.5B_untrained
+E2,5ac1bce45542994ab5c67def,0,yes,"Yes, Pothos and Tibouchina Aubl are both flowering genera of plants.",0.0,0.16666666666666669,1.0,1.5B_untrained
+E2,5ac1bce45542994ab5c67def,1,yes,"Yes, Pothos and Tibouchina Aubl are both flowering genus of plants.",0.0,0.16666666666666669,1.0,1.5B_untrained
+E2,5ac1bce45542994ab5c67def,3,yes,"Yes, Pothos and Tibouchina Aubl are both flowering genus of plants.",0.0,0.16666666666666669,1.0,1.5B_untrained
+E2,5ac0641f554299294b218fbe,0,2.1 million,152,0.0,0.0,0.0,1.5B_untrained
+E2,5ac0641f554299294b218fbe,1,2.1 million,211,0.0,0.0,0.8,1.5B_untrained
+E2,5ac0641f554299294b218fbe,3,2.1 million,2.1 million,1.0,1.0,0.8,1.5B_untrained
+E2,5a87954f5542996e4f308856,0,Bactris,Epigaea,0.0,0.0,1.0,1.5B_untrained
+E2,5a87954f5542996e4f308856,1,Bactris,Epigaea,0.0,0.0,1.0,1.5B_untrained
+E2,5a87954f5542996e4f308856,3,Bactris,Epigaea,0.0,0.0,1.0,1.5B_untrained
+E2,5a8bc03d5542996e8ac88a0b,0,Operation Neptune,Tonkin Gulf Yacht Club,0.0,0.0,0.0,1.5B_untrained
+E2,5a8bc03d5542996e8ac88a0b,1,Operation Neptune,LBK,0.0,0.0,0.0,1.5B_untrained
+E2,5a8bc03d5542996e8ac88a0b,3,Operation Neptune,LBK,0.0,0.0,0.0,1.5B_untrained
+E2,5ab8869155429916710eb081,0,Boeing EA-18G Growler,"Electronic Attack Squadron 138 is a type of American carrier-based electronic warfare aircraft, a specialized version of the two",0.0,0.0,0.8,1.5B_untrained
+E2,5ab8869155429916710eb081,1,Boeing EA-18G Growler,EA-18G Growler,0.0,0.8,0.8,1.5B_untrained
+E2,5ab8869155429916710eb081,3,Boeing EA-18G Growler,EA-18G Growler,0.0,0.8,0.8,1.5B_untrained
+E2,5adde17f5542992200553b87,0,Orlando Magic,Chicago Bulls,0.0,0.0,0.0,1.5B_untrained
+E2,5adde17f5542992200553b87,1,Orlando Magic,Chicago Bulls,0.0,0.0,1.0,1.5B_untrained
+E2,5adde17f5542992200553b87,3,Orlando Magic,Chicago Bulls,0.0,0.0,1.0,1.5B_untrained
+E2,5a776ac75542993569682d9b,0,"Daniel Patrick ""Pat"" Moynihan",Daniel Patrick Moynihan,0.0,0.8571428571428571,0.8571,1.5B_untrained
+E2,5a776ac75542993569682d9b,1,"Daniel Patrick ""Pat"" Moynihan",Daniel Patrick Moynihan,0.0,0.8571428571428571,0.8571,1.5B_untrained
+E2,5a776ac75542993569682d9b,3,"Daniel Patrick ""Pat"" Moynihan",Daniel Patrick Moynihan,0.0,0.8571428571428571,0.8571,1.5B_untrained
+E2,5ae70ed7554299572ea546a1,0,Charlie Murphy,Ike Barinholtz,0.0,0.0,1.0,1.5B_untrained
+E2,5ae70ed7554299572ea546a1,1,Charlie Murphy,Eddie Murphy,0.0,0.5,1.0,1.5B_untrained
+E2,5ae70ed7554299572ea546a1,3,Charlie Murphy,Charlie Murphy,1.0,1.0,1.0,1.5B_untrained
+E2,5ae1fbf05542997f29b3c1e7,0,1944,2014,0.0,0.0,0.0,1.5B_untrained
+E2,5ae1fbf05542997f29b3c1e7,1,1944,2014,0.0,0.0,1.0,1.5B_untrained
+E2,5ae1fbf05542997f29b3c1e7,3,1944,2014,0.0,0.0,1.0,1.5B_untrained
+E2,5ac1c9a15542994ab5c67e1c,0,more than 10 million,"Lima, Peru",0.0,0.0,0.0,1.5B_untrained
+E2,5ac1c9a15542994ab5c67e1c,1,more than 10 million,"10,000,000",0.0,0.0,0.0,1.5B_untrained
+E2,5ac1c9a15542994ab5c67e1c,3,more than 10 million,"10,000,000",0.0,0.0,0.0,1.5B_untrained
+E2,5a77c8905542995d831812ce,0,Levi Weeks,Levi Weeks,1.0,1.0,1.0,1.5B_untrained
+E2,5a77c8905542995d831812ce,1,Levi Weeks,Levi Weeks,1.0,1.0,1.0,1.5B_untrained
+E2,5a77c8905542995d831812ce,3,Levi Weeks,Levi Weeks,1.0,1.0,1.0,1.5B_untrained
+E2,5a89f68f5542992e4fca84b6,0,officer,Military officer,0.0,0.6666666666666666,0.0,1.5B_untrained
+E2,5a89f68f5542992e4fca84b6,1,officer,Military officer,0.0,0.6666666666666666,0.0,1.5B_untrained
+E2,5a89f68f5542992e4fca84b6,3,officer,Military commander,0.0,0.0,0.0,1.5B_untrained
+E2,5a7f62405542992e7d278cf0,0,Teriade,Ithys Press,0.0,0.0,0.0,1.5B_untrained
+E2,5a7f62405542992e7d278cf0,1,Teriade,Ithys Press,0.0,0.0,0.0,1.5B_untrained
+E2,5a7f62405542992e7d278cf0,3,Teriade,HarperCollins,0.0,0.0,0.0,1.5B_untrained
+E2,5a7ca4485542990527d554f1,0,2027 Fairmount Avenue,"2027 Fairmount Avenue, Philadelphia, Pennsylvania",0.0,0.7499999999999999,0.3158,1.5B_untrained
+E2,5a7ca4485542990527d554f1,1,2027 Fairmount Avenue,"2027 Fairmount Avenue, Philadelphia, Pennsylvania",0.0,0.7499999999999999,0.3158,1.5B_untrained
+E2,5a7ca4485542990527d554f1,3,2027 Fairmount Avenue,"2027 Fairmount Avenue, Philadelphia, Pennsylvania",0.0,0.7499999999999999,0.3158,1.5B_untrained
+E2,5a8347d65542996488c2e3f6,0,Kurt Russell,Miracle (2004 film),0.0,0.0,0.0,1.5B_untrained
+E2,5a8347d65542996488c2e3f6,1,Kurt Russell,Miracle (2004 film),0.0,0.0,0.0,1.5B_untrained
+E2,5a8347d65542996488c2e3f6,3,Kurt Russell,Miracle (2004 film),0.0,0.0,0.0,1.5B_untrained
+E2,5ab8634e5542990e739ec8de,0,The Vanguard Group,"The expert found that no value premium exists, claiming that Eugene Fama and K. G. French's research on the",0.0,0.0,0.0,1.5B_untrained
+E2,5ab8634e5542990e739ec8de,1,The Vanguard Group,"The expert found that no value premium exists, claiming that Fama and French's research is period dependent.",0.0,0.0,0.0,1.5B_untrained
+E2,5ab8634e5542990e739ec8de,3,The Vanguard Group,"The expert found that no value premium exists, claiming that Fama and French's research is period dependent.",0.0,0.0,0.0,1.5B_untrained
+E2,5ab85e9e55429934fafe6d8b,0,1614,1614,1.0,1.0,1.0,1.5B_untrained
+E2,5ab85e9e55429934fafe6d8b,1,1614,1614,1.0,1.0,1.0,1.5B_untrained
+E2,5ab85e9e55429934fafe6d8b,3,1614,1614,1.0,1.0,1.0,1.5B_untrained
+E2,5a79c9c05542994bb94570a5,0,"Robert ""Bobby"" Bunda",Hawaii House of Representatives,0.0,0.0,0.0,1.5B_untrained
+E2,5a79c9c05542994bb94570a5,1,"Robert ""Bobby"" Bunda",Hawaii House of Representatives,0.0,0.0,1.0,1.5B_untrained
+E2,5a79c9c05542994bb94570a5,3,"Robert ""Bobby"" Bunda",Hawaii House of Representatives,0.0,0.0,0.8,1.5B_untrained
+E2,5a8c616f5542995e66a475de,0,Steeles Avenue,Redlea Avenue,0.0,0.5,1.0,1.5B_untrained
+E2,5a8c616f5542995e66a475de,1,Steeles Avenue,Redlea Avenue,0.0,0.5,1.0,1.5B_untrained
+E2,5a8c616f5542995e66a475de,3,Steeles Avenue,Steeles Avenue,1.0,1.0,1.0,1.5B_untrained
+E2,5ab90fdd55429916710eb0fc,0,"London, England","Watertown, Massachusetts",0.0,0.0,1.0,1.5B_untrained
+E2,5ab90fdd55429916710eb0fc,1,"London, England","The American Whitney family originated from London, England, to Watertown, Massachusetts in 1635.",0.0,0.2857142857142857,1.0,1.5B_untrained
+E2,5ab90fdd55429916710eb0fc,3,"London, England","London, England",1.0,1.0,1.0,1.5B_untrained
+E2,5abe7f695542993f32c2a12d,0,focus on young superheroes,Young Justice,0.0,0.3333333333333333,0.3333,1.5B_untrained
+E2,5abe7f695542993f32c2a12d,1,focus on young superheroes,Young Justice,0.0,0.3333333333333333,0.3333,1.5B_untrained
+E2,5abe7f695542993f32c2a12d,3,focus on young superheroes,Young Justice,0.0,0.3333333333333333,0.0952,1.5B_untrained
+E2,5abeb0da5542997ec76fd34b,0,yes,"Yes, both Monkey Kingdom and Anaganaga O Dheerudu were connected with Disney.",0.0,0.15384615384615385,0.0,1.5B_untrained
+E2,5abeb0da5542997ec76fd34b,1,yes,"No, both Monkey Kingdom and Anaganaga O Dheerudu were not connected with Disney.",0.0,0.0,0.0,1.5B_untrained
+E2,5abeb0da5542997ec76fd34b,3,yes,Yes,1.0,1.0,0.0,1.5B_untrained
+E2,5a7521c55542993748c897c6,0,Burwash Mine,Burwash Mine,1.0,1.0,1.0,1.5B_untrained
+E2,5a7521c55542993748c897c6,1,Burwash Mine,Burwash Mine,1.0,1.0,1.0,1.5B_untrained
+E2,5a7521c55542993748c897c6,3,Burwash Mine,Burwash Mine,1.0,1.0,1.0,1.5B_untrained
+E2,5adfda5255429942ec259b5e,0,Douglas,Scott County,0.0,0.0,0.0,1.5B_untrained
+E2,5adfda5255429942ec259b5e,1,Douglas,Scott County,0.0,0.0,0.6667,1.5B_untrained
+E2,5adfda5255429942ec259b5e,3,Douglas,Scott County,0.0,0.0,0.6667,1.5B_untrained
+E2,5abaeda95542992ccd8e7e5d,0,Twin Pines/Lone Pine Mall,Puente Hills Mall,0.0,0.28571428571428575,1.0,1.5B_untrained
+E2,5abaeda95542992ccd8e7e5d,1,Twin Pines/Lone Pine Mall,Puente Hills Mall,0.0,0.28571428571428575,0.5714,1.5B_untrained
+E2,5abaeda95542992ccd8e7e5d,3,Twin Pines/Lone Pine Mall,Puente Hills Mall,0.0,0.28571428571428575,1.0,1.5B_untrained
+E2,5ae68e0055429908198fa607,0,Hindi,Indian films,0.0,0.0,0.0,1.5B_untrained
+E2,5ae68e0055429908198fa607,1,Hindi,Indian romantic crime comedy films,0.0,0.0,0.0,1.5B_untrained
+E2,5ae68e0055429908198fa607,3,Hindi,South Indian films,0.0,0.0,0.6667,1.5B_untrained
+E2,5a7577785542992d0ec05fa0,0,Tatton Park,"Heritage Centre, Macclesfield",0.0,0.0,1.0,1.5B_untrained
+E2,5a7577785542992d0ec05fa0,1,Tatton Park,"Tatton Park, Knutsford",0.0,0.8,1.0,1.5B_untrained
+E2,5a7577785542992d0ec05fa0,3,Tatton Park,Tatton Park,1.0,1.0,1.0,1.5B_untrained
+E2,5a7d147955429909bec76942,0,Felicity Rose Hadley Jones,Felicity Jones,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a7d147955429909bec76942,1,Felicity Rose Hadley Jones,Felicity Jones,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a7d147955429909bec76942,3,Felicity Rose Hadley Jones,Felicity Jones,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a83a2a15542993344746063,0,June 1925,June 1925,1.0,1.0,0.6667,1.5B_untrained
+E2,5a83a2a15542993344746063,1,June 1925,June 1925,1.0,1.0,0.6667,1.5B_untrained
+E2,5a83a2a15542993344746063,3,June 1925,1925,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5ac079e9554299294b218fff,0,Navy,Babcock Marine,0.0,0.0,0.6667,1.5B_untrained
+E2,5ac079e9554299294b218fff,1,Navy,Babcock Marine,0.0,0.0,0.0,1.5B_untrained
+E2,5ac079e9554299294b218fff,3,Navy,Royal Navy,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5adca8375542990d50227cd4,0,2008,2010,0.0,0.0,0.0,1.5B_untrained
+E2,5adca8375542990d50227cd4,1,2008,2010,0.0,0.0,0.0,1.5B_untrained
+E2,5adca8375542990d50227cd4,3,2008,2010,0.0,0.0,0.0,1.5B_untrained
+E2,5add4f3a5542997545bbbd2c,0,United Holy Salvation Army and Uganda Christian Army/Movement,Joseph Kony's Lord's Resistance Army (LRA),0.0,0.14285714285714288,0.1538,1.5B_untrained
+E2,5add4f3a5542997545bbbd2c,1,United Holy Salvation Army and Uganda Christian Army/Movement,Lord's Resistance Army,0.0,0.18181818181818182,0.0,1.5B_untrained
+E2,5add4f3a5542997545bbbd2c,3,United Holy Salvation Army and Uganda Christian Army/Movement,Lord's Resistance Army,0.0,0.18181818181818182,0.1818,1.5B_untrained
+E2,5ae26cb15542994d89d5b421,0,"September 30, 2009","September 30, 2009",1.0,1.0,1.0,1.5B_untrained
+E2,5ae26cb15542994d89d5b421,1,"September 30, 2009","September 30, 2009",1.0,1.0,1.0,1.5B_untrained
+E2,5ae26cb15542994d89d5b421,3,"September 30, 2009","September 30, 2009",1.0,1.0,0.0,1.5B_untrained
+E2,5a73cad5554299623ed4ac5e,0,"Wesley ""Wes"" Studi",Wes Studi,0.0,0.8,0.8,1.5B_untrained
+E2,5a73cad5554299623ed4ac5e,1,"Wesley ""Wes"" Studi",Gary Farmer,0.0,0.0,0.8,1.5B_untrained
+E2,5a73cad5554299623ed4ac5e,3,"Wesley ""Wes"" Studi",Wes Studi,0.0,0.8,0.8,1.5B_untrained
+E2,5ae0d5335542990adbacf674,0,"Robert Smigel, Michael Koman and David Feldman",Robert Smigel,0.0,0.4444444444444445,0.4444,1.5B_untrained
+E2,5ae0d5335542990adbacf674,1,"Robert Smigel, Michael Koman and David Feldman",Robert Smigel,0.0,0.4444444444444445,0.4444,1.5B_untrained
+E2,5ae0d5335542990adbacf674,3,"Robert Smigel, Michael Koman and David Feldman",Robert Smigel,0.0,0.4444444444444445,0.4444,1.5B_untrained
+E2,5ab344fc55429969a97a811e,0,no,"No, Bloody Mary and Sidecar do not share any ingredients in common.",0.0,0.15384615384615385,1.0,1.5B_untrained
+E2,5ab344fc55429969a97a811e,1,no,"No, Bloody Mary and Sidecar do not share any ingredients in common.",0.0,0.15384615384615385,1.0,1.5B_untrained
+E2,5ab344fc55429969a97a811e,3,no,"No, Bloody Mary and Sidecar do not share any ingredients in common.",0.0,0.15384615384615385,1.0,1.5B_untrained
+E2,5ae1319c55429920d5234301,0,"""An All-Colored Vaudeville Show""","The tap dancing soloist in My Feet Keep Dancing also starred in the 1935 MGM musical ""Swing",0.0,0.0,0.0,1.5B_untrained
+E2,5ae1319c55429920d5234301,1,"""An All-Colored Vaudeville Show""",An All-Colored Vaudeville Show,1.0,1.0,1.0,1.5B_untrained
+E2,5ae1319c55429920d5234301,3,"""An All-Colored Vaudeville Show""",An All-Colored Vaudeville Show,1.0,1.0,1.0,1.5B_untrained
+E2,5abee41a5542993fe9a41d79,0,Dirt track racing,Dirt track racing,1.0,1.0,1.0,1.5B_untrained
+E2,5abee41a5542993fe9a41d79,1,Dirt track racing,Dirt track racing,1.0,1.0,1.0,1.5B_untrained
+E2,5abee41a5542993fe9a41d79,3,Dirt track racing,Dirt track racing,1.0,1.0,1.0,1.5B_untrained
+E2,5a7daad55542995f4f4022b7,0,1599,1923,0.0,0.0,0.0,1.5B_untrained
+E2,5a7daad55542995f4f4022b7,1,1599,1991,0.0,0.0,0.0,1.5B_untrained
+E2,5a7daad55542995f4f4022b7,3,1599,1991,0.0,0.0,0.0,1.5B_untrained
+E2,5a8ff6635542995651fb5086,0,Bearno's Pizza,Patxi's Chicago Pizza currently has more store locations.,0.0,0.2,0.4,1.5B_untrained
+E2,5a8ff6635542995651fb5086,1,Bearno's Pizza,Patxi's Chicago Pizza currently has more store locations.,0.0,0.2,0.4,1.5B_untrained
+E2,5a8ff6635542995651fb5086,3,Bearno's Pizza,Patxi's Chicago Pizza currently has more store locations.,0.0,0.2,0.4,1.5B_untrained
+E2,5ae3c0cc5542992f92d82369,0,1957,1957,1.0,1.0,1.0,1.5B_untrained
+E2,5ae3c0cc5542992f92d82369,1,1957,1957,1.0,1.0,1.0,1.5B_untrained
+E2,5ae3c0cc5542992f92d82369,3,1957,1957,1.0,1.0,1.0,1.5B_untrained
+E2,5a8485fa5542992a431d1a41,0,Cuyler Reynolds,Marcus T. Reynolds,0.0,0.4,0.0,1.5B_untrained
+E2,5a8485fa5542992a431d1a41,1,Cuyler Reynolds,Cuyler Reynolds,1.0,1.0,1.0,1.5B_untrained
+E2,5a8485fa5542992a431d1a41,3,Cuyler Reynolds,Cuyler Reynolds,1.0,1.0,1.0,1.5B_untrained
+E2,5ae1389655429901ffe4ae05,0,Southern State Parkway,Southern State Parkway,1.0,1.0,1.0,1.5B_untrained
+E2,5ae1389655429901ffe4ae05,1,Southern State Parkway,Southern State Parkway,1.0,1.0,1.0,1.5B_untrained
+E2,5ae1389655429901ffe4ae05,3,Southern State Parkway,Southern State Parkway,1.0,1.0,1.0,1.5B_untrained
+E2,5a7b73ad5542997c3ec9718c,0,martial arts action films,action films,0.0,0.6666666666666666,0.2857,1.5B_untrained
+E2,5a7b73ad5542997c3ec9718c,1,martial arts action films,action films,0.0,0.6666666666666666,0.5714,1.5B_untrained
+E2,5a7b73ad5542997c3ec9718c,3,martial arts action films,Action films,0.0,0.6666666666666666,0.4706,1.5B_untrained
+E2,5a7a68d25542996c55b2dd98,0,second cousin once removed,"The namesake of The Mountbatten Institute, Louis Mountbatten, 1st Earl Mountbatten of Burma",0.0,0.0,0.0,1.5B_untrained
+E2,5a7a68d25542996c55b2dd98,1,second cousin once removed,"Louis Mountbatten, 1st Earl Mountbatten of Burma, who founded The Mountbatten Institute, was",0.0,0.0,0.0,1.5B_untrained
+E2,5a7a68d25542996c55b2dd98,3,second cousin once removed,"Louis Mountbatten, 1st Earl Mountbatten of Burma",0.0,0.0,0.8,1.5B_untrained
+E2,5ae2bb545542992decbdcd88,0,fortnightly,The magazine publishes the list of India's 50 Most powerful people of 2017 every year.,0.0,0.0,0.0,1.5B_untrained
+E2,5ae2bb545542992decbdcd88,1,fortnightly,fortnightly,1.0,1.0,1.0,1.5B_untrained
+E2,5ae2bb545542992decbdcd88,3,fortnightly,fortnightly,1.0,1.0,1.0,1.5B_untrained
+E2,5a8f47a55542997ba9cb3219,0,Spam,Spam,1.0,1.0,1.0,1.5B_untrained
+E2,5a8f47a55542997ba9cb3219,1,Spam,Spam,1.0,1.0,1.0,1.5B_untrained
+E2,5a8f47a55542997ba9cb3219,3,Spam,Spam,1.0,1.0,1.0,1.5B_untrained
+E2,5ab1ebff5542993be8fa9882,0,Eustoma,Eustoma,1.0,1.0,1.0,1.5B_untrained
+E2,5ab1ebff5542993be8fa9882,1,Eustoma,Eustoma,1.0,1.0,1.0,1.5B_untrained
+E2,5ab1ebff5542993be8fa9882,3,Eustoma,Eustoma,1.0,1.0,1.0,1.5B_untrained
+E2,5a7fd7305542992e7d278dc2,0,The Life of Larry and Larry & Steve,"The films that were the basis for ""Family Guy"" and the character of Peter Griffith were ""The Life of Larry""",0.0,0.36363636363636365,0.3636,1.5B_untrained
+E2,5a7fd7305542992e7d278dc2,1,The Life of Larry and Larry & Steve,"The films that were the basis for ""Family Guy"" and the character of Peter Griffith are ""The Life of Larry""",0.0,0.36363636363636365,0.3871,1.5B_untrained
+E2,5a7fd7305542992e7d278dc2,3,The Life of Larry and Larry & Steve,"The films that were the basis for ""Family Guy"" and the character of Peter Griffith are ""The Life of Larry and",0.0,0.3478260869565218,0.48,1.5B_untrained
+E2,5abb8aaf5542993f40c73b1c,0,Los Angeles,Los Angeles,1.0,1.0,1.0,1.5B_untrained
+E2,5abb8aaf5542993f40c73b1c,1,Los Angeles,Los Angeles,1.0,1.0,1.0,1.5B_untrained
+E2,5abb8aaf5542993f40c73b1c,3,Los Angeles,Los Angeles,1.0,1.0,0.0,1.5B_untrained
+E2,5abba584554299642a094afa,0,"1,925 yards",0,0.0,0.0,0.0,1.5B_untrained
+E2,5abba584554299642a094afa,1,"1,925 yards","1,471",0.0,0.0,0.0,1.5B_untrained
+E2,5abba584554299642a094afa,3,"1,925 yards","1,925",0.0,0.6666666666666666,1.0,1.5B_untrained
+E2,5a804510554299485f5985af,0,Nicolas Vanier,Christian Duguay,0.0,0.0,0.0,1.5B_untrained
+E2,5a804510554299485f5985af,1,Nicolas Vanier,Christian Duguay,0.0,0.0,0.0,1.5B_untrained
+E2,5a804510554299485f5985af,3,Nicolas Vanier,Christian Duguay,0.0,0.0,1.0,1.5B_untrained
+E2,5abb11c15542992ccd8e7ef8,0,"March 30, 2025","March 30, 2025.",1.0,1.0,1.0,1.5B_untrained
+E2,5abb11c15542992ccd8e7ef8,1,"March 30, 2025","March 30, 2025",1.0,1.0,1.0,1.5B_untrained
+E2,5abb11c15542992ccd8e7ef8,3,"March 30, 2025","March 30, 2025",1.0,1.0,1.0,1.5B_untrained
+E2,5ae376a35542990afbd1e163,0,yes,"No, Peter Balakian and James Der Derian are not both teachers.",0.0,0.0,0.0,1.5B_untrained
+E2,5ae376a35542990afbd1e163,1,yes,"No, Peter Balakian and James Der Derian are not both teachers.",0.0,0.0,0.0,1.5B_untrained
+E2,5ae376a35542990afbd1e163,3,yes,"No, Peter Balakian is not a teacher, while James Der Derian is a teacher.",0.0,0.0,0.0,1.5B_untrained
+E2,5adc5b875542996e68525328,0,2006 season,2006,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5adc5b875542996e68525328,1,2006 season,2006,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5adc5b875542996e68525328,3,2006 season,2006,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5ae6b6065542991bbc976168,0,Scott Adkins,Scott Adkins,1.0,1.0,0.0,1.5B_untrained
+E2,5ae6b6065542991bbc976168,1,Scott Adkins,Matt Battaglia,0.0,0.0,0.0,1.5B_untrained
+E2,5ae6b6065542991bbc976168,3,Scott Adkins,Scott Adkins,1.0,1.0,1.0,1.5B_untrained
+E2,5a79d2fe5542994f819ef0c3,0,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,0.0,1.5B_untrained
+E2,5a79d2fe5542994f819ef0c3,1,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,1.0,1.5B_untrained
+E2,5a79d2fe5542994f819ef0c3,3,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,1.0,1.5B_untrained
+E2,5ab38cdd5542992ade7c6de2,0,John Lennon,John Lennon,1.0,1.0,1.0,1.5B_untrained
+E2,5ab38cdd5542992ade7c6de2,1,John Lennon,John Lennon,1.0,1.0,1.0,1.5B_untrained
+E2,5ab38cdd5542992ade7c6de2,3,John Lennon,John Lennon,1.0,1.0,1.0,1.5B_untrained
+E2,5ae73d235542991e8301cc29,0,Free Range Films,Free Range Films,1.0,1.0,1.0,1.5B_untrained
+E2,5ae73d235542991e8301cc29,1,Free Range Films,Free Range Films,1.0,1.0,1.0,1.5B_untrained
+E2,5ae73d235542991e8301cc29,3,Free Range Films,Free Range Films,1.0,1.0,1.0,1.5B_untrained
+E2,5a7a33205542996a35c1712f,0,Province of New York,Province of New York,1.0,1.0,1.0,1.5B_untrained
+E2,5a7a33205542996a35c1712f,1,Province of New York,New York,0.0,0.6666666666666666,1.0,1.5B_untrained
+E2,5a7a33205542996a35c1712f,3,Province of New York,Province of New York,1.0,1.0,1.0,1.5B_untrained
+E2,5a799dfb5542994bb9457029,0,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,1.0,1.5B_untrained
+E2,5a799dfb5542994bb9457029,1,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,1.0,1.5B_untrained
+E2,5a799dfb5542994bb9457029,3,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,1.0,1.5B_untrained
+E2,5a71095e5542994082a3e4f3,0,David Dunn,David Dunn,1.0,1.0,1.0,1.5B_untrained
+E2,5a71095e5542994082a3e4f3,1,David Dunn,David Dunn,1.0,1.0,1.0,1.5B_untrained
+E2,5a71095e5542994082a3e4f3,3,David Dunn,David Dunn,1.0,1.0,1.0,1.5B_untrained
+E2,5aba77be55429955dce3ee44,0,7°56',2.0000000000000004,0.0,0.0,0.0,1.5B_untrained
+E2,5aba77be55429955dce3ee44,1,7°56',7°56',1.0,1.0,0.6667,1.5B_untrained
+E2,5aba77be55429955dce3ee44,3,7°56',7°56',1.0,1.0,0.6667,1.5B_untrained
+E2,5a8af94455429971feec45b6,0,since 2007,2007,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a8af94455429971feec45b6,1,since 2007,2007,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a8af94455429971feec45b6,3,since 2007,2007,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5abcedb355429959677d6b4f,0,Scott Paul Carson,Scott Carson,0.0,0.8,0.8,1.5B_untrained
+E2,5abcedb355429959677d6b4f,1,Scott Paul Carson,Scott Carson,0.0,0.8,0.8,1.5B_untrained
+E2,5abcedb355429959677d6b4f,3,Scott Paul Carson,Scott Carson,0.0,0.8,0.8,1.5B_untrained
+E2,5a713dcb5542994082a3e6d9,0,"American educator, writer,",merchant,0.0,0.0,0.0,1.5B_untrained
+E2,5a713dcb5542994082a3e6d9,1,"American educator, writer,",merchant,0.0,0.0,0.0,1.5B_untrained
+E2,5a713dcb5542994082a3e6d9,3,"American educator, writer,",Armenian heritage,0.0,0.0,0.0,1.5B_untrained
+E2,5ae383e15542992f92d822fb,0,Heavyweights,Heavyweights,1.0,1.0,1.0,1.5B_untrained
+E2,5ae383e15542992f92d822fb,1,Heavyweights,Heavyweights,1.0,1.0,1.0,1.5B_untrained
+E2,5ae383e15542992f92d822fb,3,Heavyweights,Heavyweights,1.0,1.0,1.0,1.5B_untrained
+E2,5a85df525542994c784ddb9f,0,Robert A. Iger,Barack Obama,0.0,0.0,0.0,1.5B_untrained
+E2,5a85df525542994c784ddb9f,1,Robert A. Iger,Bob Iger,0.0,0.5,0.8,1.5B_untrained
+E2,5a85df525542994c784ddb9f,3,Robert A. Iger,Bob Iger,0.0,0.5,0.0,1.5B_untrained
+E2,5a9030ef5542995651fb50e4,0,American football,baseball,0.0,0.0,0.0,1.5B_untrained
+E2,5a9030ef5542995651fb50e4,1,American football,football,0.0,0.6666666666666666,1.0,1.5B_untrained
+E2,5a9030ef5542995651fb50e4,3,American football,football,0.0,0.6666666666666666,0.6667,1.5B_untrained
+E2,5a8a2d2155429930ff3c0cdc,0,Academy Award for Best Animated Feature,Academy Award,0.0,0.5,0.0,1.5B_untrained
+E2,5a8a2d2155429930ff3c0cdc,1,Academy Award for Best Animated Feature,Golden Globe Award for Best Animated Feature Film,0.0,0.7142857142857143,0.7143,1.5B_untrained
+E2,5a8a2d2155429930ff3c0cdc,3,Academy Award for Best Animated Feature,The Golden Globe Award for Best Animated Feature Film.,0.0,0.7142857142857143,1.0,1.5B_untrained
+E2,5a88fa9e5542993b751ca8de,0,the Bears,Oklahoma State,0.0,0.0,0.0,1.5B_untrained
+E2,5a88fa9e5542993b751ca8de,1,the Bears,Minnesota Vikings,0.0,0.0,0.0,1.5B_untrained
+E2,5a88fa9e5542993b751ca8de,3,the Bears,Minnesota Vikings,0.0,0.0,0.0,1.5B_untrained
+E2,5ae7882b554299540e5a55dd,0,great-grandfather,Fred Gehrke has no known relationship to the 23rd overall pick in the 2010 Major,0.0,0.0,0.0,1.5B_untrained
+E2,5ae7882b554299540e5a55dd,1,great-grandfather,Fred Gehrke has no known relationship to the 23rd overall pick in the 2010 Major,0.0,0.0,0.0,1.5B_untrained
+E2,5ae7882b554299540e5a55dd,3,great-grandfather,Fred Gehrke has no known relationship to the 23rd overall pick in the 2010 Major,0.0,0.0,0.0,1.5B_untrained
+E2,5a81dacc55429926c1cdada0,0,William Shakespeare,William Walton,0.0,0.5,1.0,1.5B_untrained
+E2,5a81dacc55429926c1cdada0,1,William Shakespeare,William Shakespeare,1.0,1.0,1.0,1.5B_untrained
+E2,5a81dacc55429926c1cdada0,3,William Shakespeare,William Shakespeare,1.0,1.0,1.0,1.5B_untrained
+E2,5ab322b1554299194fa93570,0,fictional character,fictional character,1.0,1.0,1.0,1.5B_untrained
+E2,5ab322b1554299194fa93570,1,fictional character,magical English nanny,0.0,0.0,0.0,1.5B_untrained
+E2,5ab322b1554299194fa93570,3,fictional character,magical English nanny,0.0,0.0,0.0,1.5B_untrained
+E2,5a8a764555429930ff3c0de1,0,American-born,American birth,0.0,0.0,1.0,1.5B_untrained
+E2,5a8a764555429930ff3c0de1,1,American-born,"The contemporary of Bill Pollack, Phil Hill, is unique as a winner of the Formula One World Drivers' Championship because",0.0,0.0,1.0,1.5B_untrained
+E2,5a8a764555429930ff3c0de1,3,American-born,"Bill Pollack's birth distinction, which makes him unique as a winner of the Formula One World Drivers' Championship, is",0.0,0.0,0.0,1.5B_untrained
+E2,5a8d93bf554299068b959d46,0,no,"Yes, both Yangzhou and Jiangyan District are considered coastal cities.",0.0,0.0,1.0,1.5B_untrained
+E2,5a8d93bf554299068b959d46,1,no,"No, neither Yangzhou nor Jiangyan District are considered coastal cities. Yangzhou is a prefecture-level city in central",0.0,0.11764705882352941,1.0,1.5B_untrained
+E2,5a8d93bf554299068b959d46,3,no,"No, both Yangzhou and Jiangyan District are not considered coastal cities. Yangzhou is a prefecture-level city in",0.0,0.11764705882352941,1.0,1.5B_untrained
+E2,5abf04ae5542993fe9a41dbf,0,played,Playing,0.0,0.0,0.5,1.5B_untrained
+E2,5abf04ae5542993fe9a41dbf,1,played,Playing,0.0,0.0,0.0,1.5B_untrained
+E2,5abf04ae5542993fe9a41dbf,3,played,Clapping,0.0,0.0,0.0,1.5B_untrained
+E1,5a72fcd65542992359bc31f3,-1,Black Panther Party for Self-Defense,Bragerøen Idrettsforening,0.0,0.0,,1.5B_grpo
+E1,5a90b6725542995651fb51c7,-1,John Cornyn,John Cornyn,1.0,1.0,,1.5B_grpo
+E1,5a77ee555542992a6e59e005,-1,Swiss International Air Lines,Swiss International Air Lines,1.0,1.0,,1.5B_grpo
+E1,5ae74e1c5542997b22f6a6a2,-1,Quentin Tarantino,Quentin Tarantino,1.0,1.0,,1.5B_grpo
+E1,5a8461e85542992ef85e23d5,-1,Tame Impala,Tame Impala,1.0,1.0,,1.5B_grpo
+E1,5adc2c03554299438c868d66,-1,2014,2014,1.0,1.0,,1.5B_grpo
+E1,5ac2527e55429951e9e68548,-1,Ulrich,Ulrich Walter,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ac23da355429951e9e684c4,-1,"3,200",2000,0.0,0.0,,1.5B_grpo
+E1,5abc3fc05542993a06baf8b5,-1,Florida Atlantic,Florida Atlantic,1.0,1.0,,1.5B_grpo
+E1,5a864e425542994775f60741,-1,Bill Steer,Bill Steer,1.0,1.0,,1.5B_grpo
+E1,5ae77b26554299540e5a55cb,-1,Beximco,Beximco,1.0,1.0,,1.5B_grpo
+E1,5ac4e19a5542996feb3fe964,-1,West Bromwich Albion,West Bromwich Albion,1.0,1.0,,1.5B_grpo
+E1,5ac240c755429951e9e684ee,-1,Ridley Scott,Ridley Scott,1.0,1.0,,1.5B_grpo
+E1,5ae34bc15542990afbd1e107,-1,Miriam Margolyes,Miriam Margolyes,1.0,1.0,,1.5B_grpo
+E1,5abdb3925542996e802b4817,-1,"4,472","4,472",1.0,1.0,,1.5B_grpo
+E1,5ae087e2554299603e41841e,-1,film,Film industry,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ae253365542994d89d5b3d8,-1,Spider-Man 2,Spider-Man 2,1.0,1.0,,1.5B_grpo
+E1,5add2f105542994ed6169cba,-1,no,Yes,0.0,0.0,,1.5B_grpo
+E1,5a86e19c5542996432c57206,-1,five,5,0.0,0.0,,1.5B_grpo
+E1,5ae0ccd855429924de1b7179,-1,Bruce Timm,Bruce Timm,1.0,1.0,,1.5B_grpo
+E1,5a7a282a5542990783324ea1,-1,1882,"March 28, 1882",0.0,0.5,,1.5B_grpo
+E1,5a88aaee5542993e715ac05f,-1,Circus Circus Enterprises,Circus Circus,0.0,0.8,,1.5B_grpo
+E1,5ab94ea8554299743d22eaf1,-1,yes,Yes,1.0,1.0,,1.5B_grpo
+E1,5ab897e355429916710eb096,-1,1901,1901,1.0,1.0,,1.5B_grpo
+E1,5adde7aa5542997dc79070a0,-1,British,London,0.0,0.0,,1.5B_grpo
+E1,5ae258705542994d89d5b3ee,-1,Shania Twain,Shania Twain,1.0,1.0,,1.5B_grpo
+E1,5a8501b45542994c784ddaca,-1,Loretta Lynn,"Hank Williams, Jr.",0.0,0.0,,1.5B_grpo
+E1,5a8534675542997b5ce3ffc5,-1,yes,yes,1.0,1.0,,1.5B_grpo
+E1,5a7a65a35542994f819ef1d2,-1,The Poor Kid,You're Getting Old,0.0,0.0,,1.5B_grpo
+E1,5ae7fa2c5542994a481bbe5a,-1,27 June 1964,27 June 1964,1.0,1.0,,1.5B_grpo
+E1,5abfee6d5542994516f45530,-1,"February 7, 2013","February 7, 2013",1.0,1.0,,1.5B_grpo
+E1,5abbe02c554299642a094b8e,-1,hotel and golfing centre,hotel and golfing centre,1.0,1.0,,1.5B_grpo
+E1,5a8f8e5e5542997ba9cb32be,-1,25 April 2015,25 April 2015,1.0,1.0,,1.5B_grpo
+E1,5abf2c8b5542990832d3a13a,-1,1917,1917,1.0,1.0,,1.5B_grpo
+E1,5adcddef5542992c1e3a243e,-1,Common,Dave Chappelle,0.0,0.0,,1.5B_grpo
+E1,5a74bd2555429929fddd84df,-1,Topos V,Topos V,1.0,1.0,,1.5B_grpo
+E1,5a734f095542994cef4bc52c,-1,Built between 1811 and 1837,the fire brought an end to its 221 years of continuous operation,0.0,0.0,,1.5B_grpo
+E1,5abcfe765542993a06baf9e5,-1,stage showgirl,stage showgirl,1.0,1.0,,1.5B_grpo
+E1,5addca245542997dc790702a,-1,Desiderius Erasmus Roterodamus,Erasmus University Rotterdam,0.0,0.3333333333333333,,1.5B_grpo
+E1,5a72478b5542990c210a40a6,-1,Istor-o-Nal,Siguang Ri,0.0,0.0,,1.5B_grpo
+E1,5a8e0ed055429917b4a5bcfd,-1,"Bury, Greater Manchester, England","Bury, Greater Manchester, England",1.0,1.0,,1.5B_grpo
+E1,5ab84c3655429916710eb020,-1,1983,1983,1.0,1.0,,1.5B_grpo
+E1,5a8019cb5542992bc0c4a6a6,-1,Brothers Grimm,the Brothers Grimm,1.0,1.0,,1.5B_grpo
+E1,5abaab2e55429901930fa886,-1,1999,1997,0.0,0.0,,1.5B_grpo
+E1,5abaaf2f55429901930fa896,-1,National League,National League (NL),0.0,0.8,,1.5B_grpo
+E1,5ae2040b5542997f29b3c201,-1,SEAT León,SEAT León,1.0,1.0,,1.5B_grpo
+E1,5ab7d9d95542995dae37e9b9,-1,22,4,0.0,0.0,,1.5B_grpo
+E1,5a78c57e55429970f5fffd7a,-1,"Alfred Allen Santell also known as Al Santell (born September 14, 1895 in San Francisco, California)",Alfred Santell,0.0,0.2222222222222222,,1.5B_grpo
+E1,5a87f1555542993e715ac014,-1,ludomania,Gambling,0.0,0.0,,1.5B_grpo
+E1,5a715d8b5542994082a3e7fc,-1,1890,1956,0.0,0.0,,1.5B_grpo
+E1,5ae60d30554299546bf8303c,-1,Max Immelmann,Max Immelmann,1.0,1.0,,1.5B_grpo
+E1,5ab82d835542992aa3b8c8a7,-1,Sgt. Duke Lukela,Sgt. Duke Lukela,1.0,1.0,,1.5B_grpo
+E1,5a77e67255429949eeb29f92,-1,McCarthy Building,McCarthy Building,1.0,1.0,,1.5B_grpo
+E1,5ae5c3ff5542990ba0bbb2d7,-1,The Fresh Prince of Bel-Air,The Fresh Prince of Bel-Air,1.0,1.0,,1.5B_grpo
+E1,5abe788755429965af743f1a,-1,Chivas Regal,White Horse,0.0,0.0,,1.5B_grpo
+E1,5ae25d045542992decbdcccd,-1,"1,606,000","1,606,000",1.0,1.0,,1.5B_grpo
+E1,5ae4af025542995dadf243ac,-1,George James Hodges,George Hodges,0.0,0.8,,1.5B_grpo
+E1,5a881bbf55429938390d3ee1,-1,Cartoon Network,KTV2,0.0,0.0,,1.5B_grpo
+E1,5a8fc1ca55429918e830d2cb,-1,United States,United States,1.0,1.0,,1.5B_grpo
+E1,5abe3e6555429976d4830aa1,-1,Colin Chapman,Colin Chapman,1.0,1.0,,1.5B_grpo
+E1,5ae3cce05542994393b9e767,-1,Afro-textured hair,Afro-textured,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ab8776455429934fafe6de1,-1,11 October 1957,1960,0.0,0.0,,1.5B_grpo
+E1,5a90395055429933b8a204a6,-1,American Pie,American Pie,1.0,1.0,,1.5B_grpo
+E1,5a7605e655429976ec32bce8,-1,The Steinway Tower,The Steinway Tower,1.0,1.0,,1.5B_grpo
+E1,5a8d6edd554299441c6b9fdd,-1,Wichita City Carnegie Library Building,Wichita City Carnegie Library Building,1.0,1.0,,1.5B_grpo
+E1,5ae660fc5542996d980e7b32,-1,United States,United States,1.0,1.0,,1.5B_grpo
+E1,5adebcd0554299728e26c7a0,-1,"5,435","19,400",0.0,0.0,,1.5B_grpo
+E1,5a8cb7ce554299653c1aa0f8,-1,Ulysses S. Grant,Ulysses S. Grant,1.0,1.0,,1.5B_grpo
+E1,5ab2e6e5554299166977412c,-1,Ferrari 250 GTO,Ferrari 250 GTO,1.0,1.0,,1.5B_grpo
+E1,5a77cb295542995d831812dd,-1,Woman,Woman,1.0,1.0,,1.5B_grpo
+E1,5ab5336d5542990594ba9d25,-1,Nicola Marschall,Nicola Marschall,1.0,1.0,,1.5B_grpo
+E1,5adc3efc554299438c868d90,-1,Grantham railway station,the Nottingham to Grantham line,0.0,0.28571428571428575,,1.5B_grpo
+E1,5a904e1f5542995651fb5115,-1,no,No,1.0,1.0,,1.5B_grpo
+E1,5ab37d2155429969a97a8162,-1,alternative rock,post-hardcore,0.0,0.0,,1.5B_grpo
+E1,5a7b53045542992d025e6801,-1,"November 8, 2011","November 8, 2011",1.0,1.0,,1.5B_grpo
+E1,5ae79f2e5542993210983eb8,-1,Kings County,Suffolk County,0.0,0.5,,1.5B_grpo
+E1,5ab3fc79554299233955002b,-1,secretary,secretary,1.0,1.0,,1.5B_grpo
+E1,5a7129745542994082a3e5fc,-1,University of Delaware,University of Delaware,1.0,1.0,,1.5B_grpo
+E1,5a89e2ad5542992e4fca8440,-1,"November 9, 1993","June 3, 1997",0.0,0.0,,1.5B_grpo
+E1,5a78cc0555429974737f789a,-1,"Richard L. ""Rick"" Rosenthal, Jr.",Gary Nelson,0.0,0.0,,1.5B_grpo
+E1,5a7fb2875542994857a767bf,-1,yes,Yes,1.0,1.0,,1.5B_grpo
+E1,5ab607af554299488d4d9a8b,-1,2010,2010,1.0,1.0,,1.5B_grpo
+E1,5ae1ea6f5542997f29b3c1a2,-1,25 August 1954,1956,0.0,0.0,,1.5B_grpo
+E1,5ae69b8f5542996d980e7c52,-1,Algirdas,Algirdas,1.0,1.0,,1.5B_grpo
+E1,5a8aee7755429950cd6afc04,-1,American Civil War,American Civil War,1.0,1.0,,1.5B_grpo
+E1,5ae4a3795542995ad6573deb,-1,yes,No,0.0,0.0,,1.5B_grpo
+E1,5a762afc554299109176e698,-1,DJ Lord,DJ Lord,1.0,1.0,,1.5B_grpo
+E1,5ade24a15542992fa25da6e3,-1,England,England,1.0,1.0,,1.5B_grpo
+E1,5a8dd1e855429917b4a5bcbc,-1,Tampa Bay Lightning,Tampa Bay Lightning,1.0,1.0,,1.5B_grpo
+E1,5a866f3755429960ec39b6a4,-1,World War II,American Civil War,0.0,0.3333333333333333,,1.5B_grpo
+E1,5a8d836a554299068b959d1d,-1,Innere Stadt first district,Innere Stadt,0.0,0.6666666666666666,,1.5B_grpo
+E1,5a77bf185542997042120b12,-1,Moana,Seaford,0.0,0.0,,1.5B_grpo
+E1,5ae0edc75542997b2ef7d07c,-1,no,No,1.0,1.0,,1.5B_grpo
+E1,5ab5939d5542992aa134a364,-1,Vasudeva of Kabul,Ageel bin Muhammad al-Badr,0.0,0.0,,1.5B_grpo
+E1,5ae4321d5542995ad6573d1b,-1,Premier League,Premier League,1.0,1.0,,1.5B_grpo
+E1,5abc2585554299700f9d77f7,-1,Richard Stuart Linklater,No,0.0,0.0,,1.5B_grpo
+E1,5a89e9e155429946c8d6ea0d,-1,yes,No,0.0,0.0,,1.5B_grpo
+E1,5a74c7f75542996c70cfade4,-1,United States,United States,1.0,1.0,,1.5B_grpo
+E1,5abdb56655429965af743df7,-1,"Maryculter, Scotland",Storybook Glen,0.0,0.0,,1.5B_grpo
+E1,5a72b2695542991f9a20c56f,-1,Mykhailo Pylypovych Kravchuk,Mikhail Kravchuk,0.0,0.4,,1.5B_grpo
+E1,5a80d3d4554299260e20a17d,-1,Francis Stokes,Francis Stokes,1.0,1.0,,1.5B_grpo
+E1,5ac432715542997ea680ca29,-1,"""Collier's Weekly""",Collier's Weekly,1.0,1.0,,1.5B_grpo
+E1,5ae48cf55542995ad6573d73,-1,Academy Award,Academy Award,1.0,1.0,,1.5B_grpo
+E1,5ac1a03f55429963665198c2,-1,Boise State,Boise State,1.0,1.0,,1.5B_grpo
+E1,5ab99757554299131ca4238b,-1,The Kinks,The Kinks,1.0,1.0,,1.5B_grpo
+E1,5ae400cf5542995dadf242c2,-1,1000,1000,1.0,1.0,,1.5B_grpo
+E1,5ae3642b5542994393b9e6a6,-1,1936,1936,1.0,1.0,,1.5B_grpo
+E1,5a8f174b55429918e830d185,-1,liberal politician of Zapotec origin from Oaxaca.,Benito Juárez,0.0,0.0,,1.5B_grpo
+E1,5a75d0e45542992db94736d3,-1,Noël Peirce Coward,Noël Coward,0.0,0.8,,1.5B_grpo
+E1,5a7e8af255429949594199fc,-1,Carleton University,Carleton University,1.0,1.0,,1.5B_grpo
+E1,5ae212d4554299495565d9e0,-1,Iron Rattler,Iron Rattler,1.0,1.0,,1.5B_grpo
+E1,5a809a585542992bc0c4a774,-1,Stirling Castle,Stirling Castle,1.0,1.0,,1.5B_grpo
+E1,5a7dbb8d5542990b8f503a4e,-1,Marion Bartoli,Marion Bartoli,1.0,1.0,,1.5B_grpo
+E1,5a7bbfda554299042af8f7d5,-1,"August 5, 1962","August 5, 1962",1.0,1.0,,1.5B_grpo
+E1,5ae62edf5542996de7b71b7d,-1,Voss,Voss,1.0,1.0,,1.5B_grpo
+E1,5ab5b0735542992aa134a38b,-1,Jack Bender,Ronny Yu,0.0,0.0,,1.5B_grpo
+E1,5a8a29225542992d82986ed5,-1,Los Angeles,Los Angeles,1.0,1.0,,1.5B_grpo
+E1,5ade02835542997545bbbe0a,-1,yes,No,0.0,0.0,,1.5B_grpo
+E1,5a79d9d95542994f819ef0ce,-1,Lester Cole,Arnold Wesker,0.0,0.0,,1.5B_grpo
+E1,5a866b635542991e7718164e,-1,Ramin Djawadi,Randall Poster,0.0,0.0,,1.5B_grpo
+E1,5a77b1a455429967ab105236,-1,Grants,Both universities are in Sri Lanka.,0.0,0.0,,1.5B_grpo
+E1,5ae279c05542992decbdcd1d,-1,$500 Million Investment,500 Million,0.0,0.8,,1.5B_grpo
+E1,5adc2cd25542994650320c9c,-1,North Carolina,Ireland,0.0,0.0,,1.5B_grpo
+E1,5ab8f1fa5542991b5579f078,-1,BTS,BTS,1.0,1.0,,1.5B_grpo
+E1,5a7272725542997f827839d5,-1,Gabe Kaplan,Gabe Kaplan,1.0,1.0,,1.5B_grpo
+E1,5adbd0965542994650320bf3,-1,yellow and black,yellow and black,1.0,1.0,,1.5B_grpo
+E1,5adce3fe5542992c1e3a246b,-1,Dannii Minogue,Danni Minogue,0.0,0.5,,1.5B_grpo
+E1,5ae6568d5542995703ce8b56,-1,Aaron Burr,Aaron Burr,1.0,1.0,,1.5B_grpo
+E1,5a8f0ff15542995b44241f44,-1,"Tori Amos (born Myra Ellen Amos, August 22, 1963 ) is an American singer-songwriter, pianist",Tori Amos,0.0,0.2666666666666667,,1.5B_grpo
+E1,5a76acfd554299373536014e,-1,Tionne Tenese Watkins,Tionne Watkins,0.0,0.8,,1.5B_grpo
+E1,5ae241145542996483e64945,-1,"Dr. Remy ""Thirteen"" Hadley","Dr. Remy ""Thirteen"" Hadley",1.0,1.0,,1.5B_grpo
+E1,5ae1c653554299234fd042f3,-1,Larry Krystkowiak,Larry Krystkowiak,1.0,1.0,,1.5B_grpo
+E1,5a85de4f5542994775f6066b,-1,James Wan,James Wan,1.0,1.0,,1.5B_grpo
+E1,5a72ad485542994cef4bc3cf,-1,Sarah MacLean,Sarah MacLean,1.0,1.0,,1.5B_grpo
+E1,5a876a9b5542996e4f3087e4,-1,"London, England","London, England",1.0,1.0,,1.5B_grpo
+E1,5a72ab305542994cef4bc3c8,-1,2015 Oklahoma Sooners football team,2015 Oklahoma Sooners football team,1.0,1.0,,1.5B_grpo
+E1,5ade830055429939a52fe8d7,-1,yes,yes,1.0,1.0,,1.5B_grpo
+E1,5ae6618455429908198fa5b5,-1,Lord Voldemort,Lord Voldemort,1.0,1.0,,1.5B_grpo
+E1,5ab97e8e554299753720f81d,-1,the world,Spain,0.0,0.0,,1.5B_grpo
+E1,5ab8afe955429916710eb0ad,-1,Jimmy Kimmel,Jimmy Kimmel,1.0,1.0,,1.5B_grpo
+E1,5a7329765542994cef4bc486,-1,film director,director,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ac49d795542996feb3fe915,-1,"January 29, 1940","January 29, 1940",1.0,1.0,,1.5B_grpo
+E1,5ae18d4d554299234fd0428d,-1,49000 km2,Slovakia,0.0,0.0,,1.5B_grpo
+E1,5a8d23ee55429941ae14df87,-1,3D science fiction adventure film,Science fiction adventure film,0.0,0.888888888888889,,1.5B_grpo
+E1,5ab73eaf5542991d32223786,-1,My Bloody Valentine,My Bloody Valentine,1.0,1.0,,1.5B_grpo
+E1,5ab8c2465542991b5579effb,-1,forward,Forward,1.0,1.0,,1.5B_grpo
+E1,5ae712d0554299572ea546b7,-1,"May 18, 2014","May 18, 2014",1.0,1.0,,1.5B_grpo
+E1,5ae1cdee554299234fd04305,-1,"20,881 at the 2010 census","20,881",0.0,0.4,,1.5B_grpo
+E1,5ac4197f5542997ea680ca0a,-1,rock,alternative rock,0.0,0.6666666666666666,,1.5B_grpo
+E1,5a81cc0355429926c1cdad7c,-1,yes,Yes,1.0,1.0,,1.5B_grpo
+E1,5ab2eb4855429929539468b8,-1,Björn Skifs,Björn Skifs,1.0,1.0,,1.5B_grpo
+E1,5ab2b224554299295394681a,-1,The Blueprint,The Blueprint,1.0,1.0,,1.5B_grpo
+E1,5a8a691c55429930ff3c0dce,-1,70 Pine Street,70 Pine Street,1.0,1.0,,1.5B_grpo
+E1,5a734ec75542992359bc32f4,-1,"Israel, Philistia, Phoenicia, and other nations",Canaan,0.0,0.0,,1.5B_grpo
+E1,5ade542a5542992fa25da74e,-1,"Erfurt, Thuringia","Erfurt, Thuringia",1.0,1.0,,1.5B_grpo
+E1,5abc6bd8554299700f9d78bc,-1,The Thomas Crown Affair,The Thomas Crown Affair,1.0,1.0,,1.5B_grpo
+E1,5abf55a15542997719eab682,-1,Bedlington Terrier,Bedlington Terrier,1.0,1.0,,1.5B_grpo
+E1,5ac0746a5542996f0d89cbda,-1,Cleveland,Cleveland,1.0,1.0,,1.5B_grpo
+E1,5a8ba9ad5542996e8ac88995,-1,Minnesota and Wisconsin,Minnesota and Wisconsin,1.0,1.0,,1.5B_grpo
+E1,5ae0c2f15542993d6555ec4a,-1,farce,Farce,1.0,1.0,,1.5B_grpo
+E1,5a88ffd95542995153361245,-1,Brian Helgeland,Brian Helgeland,1.0,1.0,,1.5B_grpo
+E1,5ab5ee8e554299494045f0bd,-1,pizza,pizza,1.0,1.0,,1.5B_grpo
+E1,5a8e50c15542990e94052ac9,-1,Adult Swim,Anime Talk Show,0.0,0.0,,1.5B_grpo
+E1,5ac32bc05542995ef918c155,-1,three,3,0.0,0.0,,1.5B_grpo
+E1,5ae449295542995ad6573d30,-1,Chic,Chic,1.0,1.0,,1.5B_grpo
+E1,5ae33ff35542992e3233c339,-1,Faces of Death,This Film Is Not Yet Rated,0.0,0.0,,1.5B_grpo
+E1,5a77f8f15542995d8318133d,-1,"September 20, 2010","September 24, 2015",0.0,0.3333333333333333,,1.5B_grpo
+E1,5a7dc0ed5542997cc2c47497,-1,Lady Macbeth,Lady Macbeth,1.0,1.0,,1.5B_grpo
+E1,5ae61be055429929b0807ace,-1,Rheged,Hen Ogledd,0.0,0.0,,1.5B_grpo
+E1,5a8459025542992ef85e23c7,-1,André Previn,André Previn,1.0,1.0,,1.5B_grpo
+E1,5a7ba370554299294a54aa4a,-1,Flight jackets and military outerwear,Flight jackets and military outerwear,1.0,1.0,,1.5B_grpo
+E1,5a78e65a554299029c4b5ed2,-1,"Charles Abraham ""Chuck"" Essegian",Chuck Essegian,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ac13b415542991316484a8a,-1,Tadeusz Chmielewski,Tadeusz Chmielewski,1.0,1.0,,1.5B_grpo
+E1,5abc7c1d5542993a06baf8f1,-1,rock band,rock band,1.0,1.0,,1.5B_grpo
+E1,5ae496ce55429913cc2044ab,-1,The Five-Year Engagement,The Five-Year Engagement,1.0,1.0,,1.5B_grpo
+E1,5ac15ca75542994ab5c67cf8,-1,yes,Yes,1.0,1.0,,1.5B_grpo
+E1,5ae0a92355429945ae9593ec,-1,True Colors,True Colors,1.0,1.0,,1.5B_grpo
+E1,5ade161955429939a52fe805,-1,Rosanne Cash,Rosanne Cash,1.0,1.0,,1.5B_grpo
+E1,5ae4441e5542996836b02c62,-1,Argentine-born,12 January 1986,0.0,0.0,,1.5B_grpo
+E1,5ade95c6554299728e26c744,-1,Nice As Fuck,The Visible Men,0.0,0.0,,1.5B_grpo
+E1,5ae0146e55429925eb1afc05,-1,"December 20, 2009","December 20, 2009",1.0,1.0,,1.5B_grpo
+E1,5ae5094d55429960a22e024e,-1,1503,1503,1.0,1.0,,1.5B_grpo
+E1,5ade9ee75542997c77adee92,-1,16797000,1.3 million square feet,0.0,0.0,,1.5B_grpo
+E1,5a78d2d25542990784727766,-1,"Beatriz ""Gigi"" Fernández",Gigi Fernández,0.0,0.8,,1.5B_grpo
+E1,5a8e35345542995085b373da,-1,Jacob Gedleyihlekisa Zuma,Jacob Zuma,0.0,0.8,,1.5B_grpo
+E1,5a82548f554299676cceb26a,-1,magazine,Elle and LaIsha are both magazines.,0.0,0.0,,1.5B_grpo
+E1,5a8347b05542996488c2e3f5,-1,Bergen County,Bergen County,1.0,1.0,,1.5B_grpo
+E1,5ae3fa885542995dadf2427e,-1,yes,Yes,1.0,1.0,,1.5B_grpo
+E1,5abc2681554299700f9d77fc,-1,Idi Amin Dada,Idi Amin,0.0,0.8,,1.5B_grpo
+E1,5add40865542990dbb2f7e00,-1,Pema Lhaki,Pema Lhaki,1.0,1.0,,1.5B_grpo
+E1,5a81ba3455429903bc27b9b5,-1,"Columbus, Ohio","Columbus, Ohio",1.0,1.0,,1.5B_grpo
+E1,5a903a4855429933b8a204a9,-1,Victorian era,19th century,0.0,0.0,,1.5B_grpo
+E1,5a8a33d455429930ff3c0cfa,-1,Marc Forster,Marc Forster,1.0,1.0,,1.5B_grpo
+E1,5a7141d05542994082a3e70f,-1,September 2005,1990,0.0,0.0,,1.5B_grpo
+E1,5ae01da755429925eb1afc17,-1,Dionysus,Dionysus,1.0,1.0,,1.5B_grpo
+E1,5abaa73a55429901930fa87a,-1,Wisconsin,Wisconsin,1.0,1.0,,1.5B_grpo
+E1,5ae3ed235542995ad6573c9e,-1,"July 17, 1954","July 17, 1954",1.0,1.0,,1.5B_grpo
+E1,5ae78bb4554299540e5a55e5,-1,King George III,King George III,1.0,1.0,,1.5B_grpo
+E1,5a809b155542996402f6a59a,-1,George Groves,George Groves,1.0,1.0,,1.5B_grpo
+E1,5adf2a7c5542993a75d26402,-1,Bologna,Bologna,1.0,1.0,,1.5B_grpo
+E1,5ae2e8f95542991a06ce98fc,-1,Best Music Director,National Award,0.0,0.0,,1.5B_grpo
+E1,5ae16a0c5542990adbacf789,-1,Gwen Stefani,Ashlee Simpson,0.0,0.0,,1.5B_grpo
+E1,5a7b41a7554299042af8f734,-1,"Farrokh ""Freddie"" Mercury",Freddie Mercury,0.0,0.8,,1.5B_grpo
+E1,5a7d70345542990b8f503988,-1,Luka Modrić,Luka Modrić,1.0,1.0,,1.5B_grpo
+E1,5a79e9455542994f819ef105,-1,Chuck Priore,Chuck Priore,1.0,1.0,,1.5B_grpo
+E1,5ac385e8554299741d48a278,-1,Mötley Crüe,Ratt,0.0,0.0,,1.5B_grpo
+E1,5ae6dc4b5542991bbc97618c,-1,A1,A1,1.0,1.0,,1.5B_grpo
+E1,5a8c71565542995e66a475ee,-1,ESPN,ESPN,1.0,1.0,,1.5B_grpo
+E1,5adeb8295542992fa25da81e,-1,Loud,Loud,1.0,1.0,,1.5B_grpo
+E1,5ae515c755429913cc204585,-1,38th season,2009-10 New York Islanders season,0.0,0.28571428571428575,,1.5B_grpo
+E1,5a8777115542994846c1cd87,-1,chauffeur,Anton Loibl,0.0,0.0,,1.5B_grpo
+E1,5ac495d75542996feb3fe8ee,-1,"March 8, 2007","November 26, 2014",0.0,0.0,,1.5B_grpo
+E1,5a7e8c0155429949594199fe,-1,Fawad Afzal Khan,Ram Charan,0.0,0.0,,1.5B_grpo
+E1,5a86763b55429960ec39b6ae,-1,professional ballet dancer,Billy,0.0,0.0,,1.5B_grpo
+E1,5a7d264e5542995ed0d16608,-1,"October 17, 1972","June or October 17, 1972",0.0,0.7499999999999999,,1.5B_grpo
+E1,5a84dd605542997175ce1f22,-1,Jason Robards,Jason Robards,1.0,1.0,,1.5B_grpo
+E1,5ab9519055429970cfb8ea53,-1,23 km,23 km,1.0,1.0,,1.5B_grpo
+E1,5a804109554299485f5985a2,-1,The Bloomsbury Group,Bloomsbury Group,1.0,1.0,,1.5B_grpo
+E1,5a7ca12055429935c91b526d,-1,Britain First,British Democratic Party (2013),0.0,0.0,,1.5B_grpo
+E1,5ab7ebee5542991d322237c2,-1,Chicago,Chicago,1.0,1.0,,1.5B_grpo
+E1,5a8f0841554299458435d52e,-1,London,London,1.0,1.0,,1.5B_grpo
+E1,5abd487a5542996e802b4765,-1,Avon,Mussolini,0.0,0.0,,1.5B_grpo
+E1,5ac51dc45542994611c8b3b2,-1,1978,1978,1.0,1.0,,1.5B_grpo
+E1,5ab9f58755429901930fa752,-1,Brian Trenchard-Smith,Brian Trenchard-Smith,1.0,1.0,,1.5B_grpo
+E1,5ab6e5e75542991d322236c8,-1,The Root of All Evil?,Triumph of the Will,0.0,0.28571428571428575,,1.5B_grpo
+E1,5ab3050155429976abd1bc25,-1,Steve Jobs,Martin Shkreli,0.0,0.0,,1.5B_grpo
+E1,5a736e1755429901807db050,-1,Black Oak Arkansas,Black Oak Arkansas,1.0,1.0,,1.5B_grpo
+E1,5a8fa9f15542995b44242087,-1,Viktor Uspaskich,Arcadi Gaydamak,0.0,0.0,,1.5B_grpo
+E1,5a83e3fc55429933447460ab,-1,Scrubs,Scrubs,1.0,1.0,,1.5B_grpo
+E1,5a8c52d6554299240d9c2114,-1,yes,No,0.0,0.0,,1.5B_grpo
+E1,5a8d527d55429941ae14dfa4,-1,Africa's Che Guevara,Thomas Sankara,0.0,0.0,,1.5B_grpo
+E1,5ab27b29554299449642c8bd,-1,romance author,Romance author,1.0,1.0,,1.5B_grpo
+E1,5ae6381b5542992ae0d1628a,-1,"7,003","7,003",1.0,1.0,,1.5B_grpo
+E1,5a711ec15542994082a3e5aa,-1,Life,Life,1.0,1.0,,1.5B_grpo
+E1,5a82afb055429966c78a6a7b,-1,Appenzell Innerrhoden,Appenzell Innerrhoden,1.0,1.0,,1.5B_grpo
+E1,5adcdf5c5542992c1e3a2445,-1,Alf Kjellin,Alf Kjellin,1.0,1.0,,1.5B_grpo
+E1,5a7c2a2f5542996dd594b8aa,-1,1981,1981,1.0,1.0,,1.5B_grpo
+E1,5ac2d3cc554299657fa2908b,-1,two,two,1.0,1.0,,1.5B_grpo
+E1,5a87d77a5542994846c1cdee,-1,George Soros,George Soros,1.0,1.0,,1.5B_grpo
+E1,5ae4ff4355429913cc204562,-1,1982,1972,0.0,0.0,,1.5B_grpo
+E1,5a7c4cb555429907fabeef56,-1,Amherst College,Harvard University,0.0,0.0,,1.5B_grpo
+E1,5abbd32d5542993f40c73bc4,-1,Beşiktaş,Beşiktaş,1.0,1.0,,1.5B_grpo
+E1,5ae7246e5542995703ce8bd6,-1,The Day the Universe Changed,The Day the Universe Changed,1.0,1.0,,1.5B_grpo
+E1,5a88eb2e5542997e5c09a6cb,-1,2010,2010,1.0,1.0,,1.5B_grpo
+E1,5ac1509a5542994ab5c67ce3,-1,no,No,1.0,1.0,,1.5B_grpo
+E1,5adf01425542995ec70e8f53,-1,0.9 s.,0.9 s,1.0,1.0,,1.5B_grpo
+E1,5ae075fd5542993d6555eb60,-1,Moffett Federal Airfield,Moffett Federal Airfield,1.0,1.0,,1.5B_grpo
+E1,5ac3a491554299218029dbeb,-1,People's Republic of China,China,0.0,0.4,,1.5B_grpo
+E1,5adffba255429925eb1afbc0,-1,Sunday Driver,Sunday Driver,1.0,1.0,,1.5B_grpo
+E1,5ab7ea425542993667794046,-1,England,England,1.0,1.0,,1.5B_grpo
+E1,5ac12e5d5542994d76dccda4,-1,Kay Cannon,Kay Cannon,1.0,1.0,,1.5B_grpo
+E1,5ab8ee5f5542991b5579f04f,-1,Pontederia,Pontederia,1.0,1.0,,1.5B_grpo
+E1,5a89c1375542992e4fca83be,-1,Dan Jurgens,Dan Jurgens,1.0,1.0,,1.5B_grpo
+E1,5ac3b137554299741d48a2da,-1,Helmut Marko,Helmut Marko,1.0,1.0,,1.5B_grpo
+E1,5adfb721554299025d62a341,-1,Nicholas Colasanto,Nicholas Colasanto,1.0,1.0,,1.5B_grpo
+E1,5a884f5d5542997e5c09a5c9,-1,"Christopher Jay ""Chris"" Potter",Chris Potter,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ae60ee6554299546bf83051,-1,American South,the experiences of the Fairchilds family during a particularly unexceptional year in the Mississippi Delta,0.0,0.0,,1.5B_grpo
+E1,5ab68d55554299710c8d1ec3,-1,no,Yes,0.0,0.0,,1.5B_grpo
+E1,5ab2f9575542991669774168,-1,Rhamnus purshiana,cascara,0.0,0.0,,1.5B_grpo
+E1,5a8fb8f255429918e830d2be,-1,no,No,1.0,1.0,,1.5B_grpo
+E1,5ab920da55429919ba4e23c3,-1,American sitcom,Mr. Belvedere,0.0,0.0,,1.5B_grpo
+E1,5a7f46735542992e7d278cde,-1,Stephen King,Stephen King,1.0,1.0,,1.5B_grpo
+E1,5a883ada5542994846c1ce47,-1,Jimmy Page,Kurdt Vanderhoof,0.0,0.0,,1.5B_grpo
+E1,5a834dae5542996488c2e404,-1,Stephen Ambrose Sarkisian,Steve Sarkisian,0.0,0.4,,1.5B_grpo
+E1,5a80e307554299260e20a1a6,-1,Living Colour,Living Colour,1.0,1.0,,1.5B_grpo
+E1,5a7a9ca055429927d897bee6,-1,Babes in Toyland,The Million Dollar Duck,0.0,0.0,,1.5B_grpo
+E1,5ae59c0955429960a22e030a,-1,"""Brave New Wealthy World""",Brave New Wealthy World,1.0,1.0,,1.5B_grpo
+E1,5ade41ef5542992fa25da715,-1,"3,324",38,0.0,0.0,,1.5B_grpo
+E1,5a8c5b3e5542995e66a475d2,-1,Johnson & Johnson,Johnson &amp; Johnson,0.0,0.8,,1.5B_grpo
+E1,5ab9c48c5542996be20205a4,-1,The Ricardo Laguna Project,Yo Momma,0.0,0.0,,1.5B_grpo
+E1,5ae80b50554299540e5a5701,-1,state capital,state capital,1.0,1.0,,1.5B_grpo
+E1,5a7573d85542996c70cfaeff,-1,S.J. Quinney College of Law,S.J. Quinney College of Law,1.0,1.0,,1.5B_grpo
+E1,5ab297be554299545a2cf9c0,-1,five,five,1.0,1.0,,1.5B_grpo
+E1,5a90c4b15542995651fb51e2,-1,The 2017 Macanese general election took place on 17 September 2017 according to the provisions of the Basic Law of Macau.,Yes,0.0,0.0,,1.5B_grpo
+E1,5ae05db9554299603e418409,-1,"Maryland and Virginia, along with a small portion of West Virginia",Maryland and Virginia,0.0,0.4615384615384615,,1.5B_grpo
+E1,5aba8e395542994dbf019940,-1,Catch-22,Catch-22,1.0,1.0,,1.5B_grpo
+E1,5abc07b9554299114383a0d9,-1,Daniel Radcliffe,Daniel Radcliffe,1.0,1.0,,1.5B_grpo
+E1,5abef4195542997ec76fd399,-1,Stuart Galbraith,Stuart Galbraith,1.0,1.0,,1.5B_grpo
+E1,5ae0a2b855429945ae9593da,-1,Disney,Lava/Universal Republic,0.0,0.0,,1.5B_grpo
+E1,5a7c693255429935c91b5196,-1,Palladium Books,The Power of Five,0.0,0.0,,1.5B_grpo
+E1,5ab5bee0554299494045f04f,-1,Columbia Records,Columbia Records,1.0,1.0,,1.5B_grpo
+E1,5ab843395542990e739ec8a5,-1,12,12,1.0,1.0,,1.5B_grpo
+E1,5ae002bf55429925eb1afbda,-1,Ohio,Northern Ireland,0.0,0.0,,1.5B_grpo
+E1,5a710fea5542994082a3e546,-1,Carl Maria Friedrich Ernst von Weber,Genovefa Weber,0.0,0.25,,1.5B_grpo
+E1,5a87e06b5542994846c1cdf5,-1,American,American,1.0,1.0,,1.5B_grpo
+E1,5abbd2b755429931dba14582,-1,Infinity on High,Infinity on High,1.0,1.0,,1.5B_grpo
+E1,5a7efc7255429930675135ec,-1,Shellharbour,Shellharbour,1.0,1.0,,1.5B_grpo
+E1,5a8ad8935542992d82986fa0,-1,St. John's Red Storm,Chris Mullin,0.0,0.0,,1.5B_grpo
+E1,5ae73d675542991e8301cc2d,-1,Accounting,"providing training in professional qualifications in Accounting, Business Administration, Marketing, Travel, Tourism and Hospitality Studies. processing and",0.0,0.1111111111111111,,1.5B_grpo
+E1,5abe506455429976d4830ae3,-1,Dan Conner,Dan Conner,1.0,1.0,,1.5B_grpo
+E1,5a9075ba55429916514e74ca,-1,1999,1999,1.0,1.0,,1.5B_grpo
+E1,5ab6e77b554299710c8d1fa7,-1,69th season,1985–86 Los Angeles Kings season,0.0,0.28571428571428575,,1.5B_grpo
+E1,5a81d1615542990a1d231ed9,-1,five,five,1.0,1.0,,1.5B_grpo
+E1,5adc89435542994d58a2f639,-1,Rockstar Games,Rockstar Games,1.0,1.0,,1.5B_grpo
+E1,5ab8987255429919ba4e232c,-1,Australia,Australia and New Zealand,0.0,0.4,,1.5B_grpo
+E1,5adfec4755429925eb1afb34,-1,2018 NHL Entry Draft,2018 NHL Entry Draft,1.0,1.0,,1.5B_grpo
+E1,5ae124625542997b2ef7d0fe,-1,the motorcycle category,motorcycle,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ac141dd5542991316484a9b,-1,Donald Hugh Henley,Don Henley,0.0,0.4,,1.5B_grpo
+E1,5a80190c5542992bc0c4a6a5,-1,Raven Software,MachineGames,0.0,0.0,,1.5B_grpo
+E1,5abcd0eb554299114383a164,-1,Monterrey,Monterrey,1.0,1.0,,1.5B_grpo
+E2,5a872e8e5542991e7718170c,0,portrait,portraits,0.0,0.0,0.0,1.5B_grpo
+E2,5a872e8e5542991e7718170c,1,portrait,portraits,0.0,0.0,0.0,1.5B_grpo
+E2,5a872e8e5542991e7718170c,3,portrait,portraits,0.0,0.0,0.0,1.5B_grpo
+E2,5a7265825542997f827839a3,0,a silver medal,Olympic medal: Silver,0.0,0.8,0.0556,1.5B_grpo
+E2,5a7265825542997f827839a3,1,a silver medal,Silver,0.0,0.6666666666666666,0.125,1.5B_grpo
+E2,5a7265825542997f827839a3,3,a silver medal,Silver medal,1.0,1.0,0.0,1.5B_grpo
+E2,5abe2b0155429976d4830a83,0,26–30 August 1914,1914,0.0,0.5,0.8571,1.5B_grpo
+E2,5abe2b0155429976d4830a83,1,26–30 August 1914,August 1914,0.0,0.8,0.5,1.5B_grpo
+E2,5abe2b0155429976d4830a83,3,26–30 August 1914,26–30 August 1914,1.0,1.0,0.8571,1.5B_grpo
+E2,5ae135fb55429920d523431f,0,WB Television Network,Sons of Anarchy,0.0,0.0,0.1111,1.5B_grpo
+E2,5ae135fb55429920d523431f,1,WB Television Network,Sons of Anarchy,0.0,0.0,0.1111,1.5B_grpo
+E2,5ae135fb55429920d523431f,3,WB Television Network,Yes TV,0.0,0.0,0.0,1.5B_grpo
+E2,5a8f0a01554299458435d539,0,Indianapolis,Indianapolis,1.0,1.0,1.0,1.5B_grpo
+E2,5a8f0a01554299458435d539,1,Indianapolis,Indianapolis,1.0,1.0,1.0,1.5B_grpo
+E2,5a8f0a01554299458435d539,3,Indianapolis,Indianapolis,1.0,1.0,1.0,1.5B_grpo
+E2,5ab40e1c5542996a3a969f00,0,1988,1988,1.0,1.0,1.0,1.5B_grpo
+E2,5ab40e1c5542996a3a969f00,1,1988,1986,0.0,0.0,1.0,1.5B_grpo
+E2,5ab40e1c5542996a3a969f00,3,1988,1986,0.0,0.0,1.0,1.5B_grpo
+E2,5ab28c89554299340b525513,0,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_grpo
+E2,5ab28c89554299340b525513,1,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_grpo
+E2,5ab28c89554299340b525513,3,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_grpo
+E2,5a87e3d65542993e715abff8,0,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_grpo
+E2,5a87e3d65542993e715abff8,1,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_grpo
+E2,5a87e3d65542993e715abff8,3,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_grpo
+E2,5addfc425542997dc7907101,0,Esteban Ocon,Sergio Pérez,0.0,0.0,0.0,1.5B_grpo
+E2,5addfc425542997dc7907101,1,Esteban Ocon,Sergio Pérez,0.0,0.0,0.0,1.5B_grpo
+E2,5addfc425542997dc7907101,3,Esteban Ocon,Esteban Ocon,1.0,1.0,1.0,1.5B_grpo
+E2,5ab576dc5542997d4ad1f13d,0,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_grpo
+E2,5ab576dc5542997d4ad1f13d,1,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_grpo
+E2,5ab576dc5542997d4ad1f13d,3,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_grpo
+E2,5a8d8eb5554299068b959d3a,0,Parsifal,Parsifal,1.0,1.0,0.1111,1.5B_grpo
+E2,5a8d8eb5554299068b959d3a,1,Parsifal,Parsifal,1.0,1.0,0.5,1.5B_grpo
+E2,5a8d8eb5554299068b959d3a,3,Parsifal,Parsifal,1.0,1.0,0.1053,1.5B_grpo
+E2,5ac5101455429924173fb592,0,Every Rose Has Its Thorn,Rock of Love,0.0,0.0,0.0,1.5B_grpo
+E2,5ac5101455429924173fb592,1,Every Rose Has Its Thorn,Dancin' (on a Saturday Night),0.0,0.0,1.0,1.5B_grpo
+E2,5ac5101455429924173fb592,3,Every Rose Has Its Thorn,Every Rose Has Its Thorn,1.0,1.0,1.0,1.5B_grpo
+E2,5ab91f98554299753720f70d,0,Gangsta's Paradise,Fantastic Voyage,0.0,0.0,0.0,1.5B_grpo
+E2,5ab91f98554299753720f70d,1,Gangsta's Paradise,Fantastic Voyage,0.0,0.0,0.0,1.5B_grpo
+E2,5ab91f98554299753720f70d,3,Gangsta's Paradise,Fantastic Voyage,0.0,0.0,0.0,1.5B_grpo
+E2,5ae6371155429929b0807af1,0,Polka,Pierement Waltz,0.0,0.0,0.0,1.5B_grpo
+E2,5ae6371155429929b0807af1,1,Polka,Amsterdam Polka,0.0,0.6666666666666666,0.05,1.5B_grpo
+E2,5ae6371155429929b0807af1,3,Polka,Amsterdam Polka,0.0,0.6666666666666666,1.0,1.5B_grpo
+E2,5ac1bff05542994ab5c67dfc,0,Francisco Rafael Arellano Félix,Francisco Rafael Arellano Félix,1.0,1.0,1.0,1.5B_grpo
+E2,5ac1bff05542994ab5c67dfc,1,Francisco Rafael Arellano Félix,Benjamín Arellano Félix,0.0,0.5714285714285715,1.0,1.5B_grpo
+E2,5ac1bff05542994ab5c67dfc,3,Francisco Rafael Arellano Félix,Benjamín Arellano Félix,0.0,0.5714285714285715,0.5714,1.5B_grpo
+E2,5a7c2f145542996dd594b8b4,0,McG,Liz Heldens,0.0,0.0,0.0,1.5B_grpo
+E2,5a7c2f145542996dd594b8b4,1,McG,Sebastian Gutierrez,0.0,0.0,0.0,1.5B_grpo
+E2,5a7c2f145542996dd594b8b4,3,McG,McG,1.0,1.0,1.0,1.5B_grpo
+E2,5a81e4e8554299676cceb140,0,Campbellsville University,Tulsa University,0.0,0.5,0.0,1.5B_grpo
+E2,5a81e4e8554299676cceb140,1,Campbellsville University,Campbellsville University,1.0,1.0,1.0,1.5B_grpo
+E2,5a81e4e8554299676cceb140,3,Campbellsville University,Campbellsville University,1.0,1.0,1.0,1.5B_grpo
+E2,5a83041355429966c78a6ae8,0,film director,director,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a83041355429966c78a6ae8,1,film director,director,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a83041355429966c78a6ae8,3,film director,director,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5ab7fa7b5542992aa3b8c897,0,punk rock,punk rock,1.0,1.0,1.0,1.5B_grpo
+E2,5ab7fa7b5542992aa3b8c897,1,punk rock,punk rock,1.0,1.0,1.0,1.5B_grpo
+E2,5ab7fa7b5542992aa3b8c897,3,punk rock,punk rock,1.0,1.0,1.0,1.5B_grpo
+E2,5a8cee9b554299441c6b9f87,0,GE Appliances,GE Appliances,1.0,1.0,1.0,1.5B_grpo
+E2,5a8cee9b554299441c6b9f87,1,GE Appliances,GE Appliances,1.0,1.0,0.0,1.5B_grpo
+E2,5a8cee9b554299441c6b9f87,3,GE Appliances,Hotpoint,0.0,0.0,1.0,1.5B_grpo
+E2,5ab67bf255429954757d32f5,0,"McLean, Virginia",Chicago,0.0,0.0,0.0,1.5B_grpo
+E2,5ab67bf255429954757d32f5,1,"McLean, Virginia","McLean, Virginia",1.0,1.0,1.0,1.5B_grpo
+E2,5ab67bf255429954757d32f5,3,"McLean, Virginia","McLean, Virginia",1.0,1.0,0.6667,1.5B_grpo
+E2,5a77d65055429949eeb29f7b,0,250,7,0.0,0.0,0.0,1.5B_grpo
+E2,5a77d65055429949eeb29f7b,1,250,7,0.0,0.0,0.0,1.5B_grpo
+E2,5a77d65055429949eeb29f7b,3,250,7,0.0,0.0,0.0,1.5B_grpo
+E2,5a7f3f7c55429934daa2fd45,0,The Futureheads,Marcy Playground,0.0,0.0,0.0,1.5B_grpo
+E2,5a7f3f7c55429934daa2fd45,1,The Futureheads,The Futureheads,1.0,1.0,1.0,1.5B_grpo
+E2,5a7f3f7c55429934daa2fd45,3,The Futureheads,The Futureheads,1.0,1.0,1.0,1.5B_grpo
+E2,5ade811e5542992fa25da7a0,0,1851,1851,1.0,1.0,1.0,1.5B_grpo
+E2,5ade811e5542992fa25da7a0,1,1851,1851,1.0,1.0,1.0,1.5B_grpo
+E2,5ade811e5542992fa25da7a0,3,1851,1851,1.0,1.0,1.0,1.5B_grpo
+E2,5a7633ff5542994ccc918712,0,1932,1932,1.0,1.0,1.0,1.5B_grpo
+E2,5a7633ff5542994ccc918712,1,1932,1932,1.0,1.0,1.0,1.5B_grpo
+E2,5a7633ff5542994ccc918712,3,1932,1932,1.0,1.0,1.0,1.5B_grpo
+E2,5a88a1475542997e5c09a646,0,Salvia,Salvia,1.0,1.0,1.0,1.5B_grpo
+E2,5a88a1475542997e5c09a646,1,Salvia,Salvia,1.0,1.0,1.0,1.5B_grpo
+E2,5a88a1475542997e5c09a646,3,Salvia,Salvia,1.0,1.0,1.0,1.5B_grpo
+E2,5a8887a055429938390d3f72,0,Rocky Boy's Indian Reservation,Rocky Boy's Indian Reservation,1.0,1.0,1.0,1.5B_grpo
+E2,5a8887a055429938390d3f72,1,Rocky Boy's Indian Reservation,Rocky Boy Reservation,0.0,0.5714285714285715,1.0,1.5B_grpo
+E2,5a8887a055429938390d3f72,3,Rocky Boy's Indian Reservation,Rocky Boy Reservation,0.0,0.5714285714285715,1.0,1.5B_grpo
+E2,5a86399e5542994775f60733,0,Punjabi/Pashtun,Norwegian,0.0,0.0,0.0,1.5B_grpo
+E2,5a86399e5542994775f60733,1,Punjabi/Pashtun,Norwegian,0.0,0.0,0.0,1.5B_grpo
+E2,5a86399e5542994775f60733,3,Punjabi/Pashtun,Punjabi/Pashtun,1.0,1.0,1.0,1.5B_grpo
+E2,5a84c0765542991dd0999dd9,0,Gary Lightbody,Martha Wainwright,0.0,0.0,0.0,1.5B_grpo
+E2,5a84c0765542991dd0999dd9,1,Gary Lightbody,Martha Wainwright,0.0,0.0,0.0,1.5B_grpo
+E2,5a84c0765542991dd0999dd9,3,Gary Lightbody,Martha Wainwright,0.0,0.0,0.0,1.5B_grpo
+E2,5adf17f95542995ec70e8f6c,0,Australian,Australia,0.0,0.0,0.0,1.5B_grpo
+E2,5adf17f95542995ec70e8f6c,1,Australian,Australia,0.0,0.0,0.0,1.5B_grpo
+E2,5adf17f95542995ec70e8f6c,3,Australian,Australia,0.0,0.0,0.0,1.5B_grpo
+E2,5a7f5ab65542995d8a8dde43,0,Cosmopolitan of Las Vegas,Caesars Palace,0.0,0.0,0.4,1.5B_grpo
+E2,5a7f5ab65542995d8a8dde43,1,Cosmopolitan of Las Vegas,The Cosmopolitan,0.0,0.4,0.4,1.5B_grpo
+E2,5a7f5ab65542995d8a8dde43,3,Cosmopolitan of Las Vegas,"Las Vegas, Nevada",0.0,0.5714285714285715,0.4,1.5B_grpo
+E2,5a8cec13554299441c6b9f7d,0,yes,No,0.0,0.0,0.0,1.5B_grpo
+E2,5a8cec13554299441c6b9f7d,1,yes,No,0.0,0.0,0.0,1.5B_grpo
+E2,5a8cec13554299441c6b9f7d,3,yes,No,0.0,0.0,0.0,1.5B_grpo
+E2,5abce9ca554299114383a193,0,racehorse breeder and owner,Racehorse breeder and owner,1.0,1.0,1.0,1.5B_grpo
+E2,5abce9ca554299114383a193,1,racehorse breeder and owner,racehorse breeding,0.0,0.3333333333333333,0.3333,1.5B_grpo
+E2,5abce9ca554299114383a193,3,racehorse breeder and owner,racehorse breeding,0.0,0.3333333333333333,0.3333,1.5B_grpo
+E2,5a7a1b845542990783324e5f,0,Stadio Olimpico,"Feijenoord Stadion in Rotterdam, Netherlands",0.0,0.0,0.0,1.5B_grpo
+E2,5a7a1b845542990783324e5f,1,Stadio Olimpico,"Feijenoord Stadion in Rotterdam, Netherlands",0.0,0.0,0.5714,1.5B_grpo
+E2,5a7a1b845542990783324e5f,3,Stadio Olimpico,"Stadio Olimpico in Rome, Italy",0.0,0.5714285714285715,0.6667,1.5B_grpo
+E2,5a7363ec5542991f29ee2dd7,0,Key West,Key West,1.0,1.0,1.0,1.5B_grpo
+E2,5a7363ec5542991f29ee2dd7,1,Key West,Key West,1.0,1.0,1.0,1.5B_grpo
+E2,5a7363ec5542991f29ee2dd7,3,Key West,Key West,1.0,1.0,1.0,1.5B_grpo
+E2,5a77321355429972597f1493,0,The Agronomist,The Agronomist,1.0,1.0,1.0,1.5B_grpo
+E2,5a77321355429972597f1493,1,The Agronomist,The Agronomist,1.0,1.0,1.0,1.5B_grpo
+E2,5a77321355429972597f1493,3,The Agronomist,The Agronomist,1.0,1.0,1.0,1.5B_grpo
+E2,5ab5cd4f554299488d4d9a31,0,In Pursuit,Cold One,0.0,0.0,0.0,1.5B_grpo
+E2,5ab5cd4f554299488d4d9a31,1,In Pursuit,In Pursuit,1.0,1.0,1.0,1.5B_grpo
+E2,5ab5cd4f554299488d4d9a31,3,In Pursuit,In Pursuit,1.0,1.0,1.0,1.5B_grpo
+E2,5a83411655429966c78a6b5d,0,Justin Spitzer,Graham Linehan and Arthur Mathews,0.0,0.0,0.0,1.5B_grpo
+E2,5a83411655429966c78a6b5d,1,Justin Spitzer,Justin Spitzer,1.0,1.0,1.0,1.5B_grpo
+E2,5a83411655429966c78a6b5d,3,Justin Spitzer,Justin Spitzer,1.0,1.0,1.0,1.5B_grpo
+E2,5a8d50fb55429941ae14dfa2,0,75 mi,12,0.0,0.0,0.5,1.5B_grpo
+E2,5a8d50fb55429941ae14dfa2,1,75 mi,12,0.0,0.0,0.5,1.5B_grpo
+E2,5a8d50fb55429941ae14dfa2,3,75 mi,12,0.0,0.0,0.5,1.5B_grpo
+E2,5ae80919554299540e5a56f6,0,The Changing Scottish Landscape,Ferdinand and Isabella,0.0,0.0,0.0,1.5B_grpo
+E2,5ae80919554299540e5a56f6,1,The Changing Scottish Landscape,"1991's ""The Changing Scottish Landscape""",0.0,0.8571428571428571,0.8571,1.5B_grpo
+E2,5ae80919554299540e5a56f6,3,The Changing Scottish Landscape,Sir Patrick Geddes,0.0,0.0,1.0,1.5B_grpo
+E2,5ab2b8fe5542991669774070,0,Budget Rent a Car,Enterprise Rent-A-Car,0.0,0.0,0.0,1.5B_grpo
+E2,5ab2b8fe5542991669774070,1,Budget Rent a Car,Enterprise Rent-A-Car,0.0,0.0,0.0,1.5B_grpo
+E2,5ab2b8fe5542991669774070,3,Budget Rent a Car,Enterprise Rent-A-Car,0.0,0.0,0.0,1.5B_grpo
+E2,5a8d0efd5542994ba4e3dbc6,0,"Warsaw, Poland",Moscow,0.0,0.0,0.0,1.5B_grpo
+E2,5a8d0efd5542994ba4e3dbc6,1,"Warsaw, Poland",Warsaw,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a8d0efd5542994ba4e3dbc6,3,"Warsaw, Poland",Warsaw,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a7125b95542994082a3e5d5,0,Gardnerville,"Minden, Nevada",0.0,0.0,0.0,1.5B_grpo
+E2,5a7125b95542994082a3e5d5,1,Gardnerville,"Minden, Nevada",0.0,0.0,0.6667,1.5B_grpo
+E2,5a7125b95542994082a3e5d5,3,Gardnerville,Gardnerville,1.0,1.0,0.0,1.5B_grpo
+E2,5a8a6a2155429930ff3c0dd0,0,Kenneth Eliot Flach,Lucie Šafářová,0.0,0.0,0.0,1.5B_grpo
+E2,5a8a6a2155429930ff3c0dd0,1,Kenneth Eliot Flach,Lucie Šafářová,0.0,0.0,0.0,1.5B_grpo
+E2,5a8a6a2155429930ff3c0dd0,3,Kenneth Eliot Flach,Lucie Šafářová,0.0,0.0,0.0,1.5B_grpo
+E2,5ae834e95542997ec272776a,0,Highwayman,Highwayman,1.0,1.0,1.0,1.5B_grpo
+E2,5ae834e95542997ec272776a,1,Highwayman,Highwayman,1.0,1.0,1.0,1.5B_grpo
+E2,5ae834e95542997ec272776a,3,Highwayman,Highwayman,1.0,1.0,1.0,1.5B_grpo
+E2,5a7ab51055429927d897bef6,0,1961,1927,0.0,0.0,0.0,1.5B_grpo
+E2,5a7ab51055429927d897bef6,1,1961,1927,0.0,0.0,0.0,1.5B_grpo
+E2,5a7ab51055429927d897bef6,3,1961,1961,1.0,1.0,1.0,1.5B_grpo
+E2,5ae250b45542996483e64977,0,former Speaker of the U.S. House of Representatives,Speaker of the House,0.0,0.6,0.1091,1.5B_grpo
+E2,5ae250b45542996483e64977,1,former Speaker of the U.S. House of Representatives,Speaker of the House,0.0,0.6,0.6,1.5B_grpo
+E2,5ae250b45542996483e64977,3,former Speaker of the U.S. House of Representatives,Speaker of the House,0.0,0.6,0.6,1.5B_grpo
+E2,5a733c925542991f9a20c6b7,0,cocktails,cocktail,0.0,0.0,0.0,1.5B_grpo
+E2,5a733c925542991f9a20c6b7,1,cocktails,cocktail,0.0,0.0,0.0,1.5B_grpo
+E2,5a733c925542991f9a20c6b7,3,cocktails,cocktail,0.0,0.0,0.0,1.5B_grpo
+E2,5a7e5ec25542991319bc947a,0,Květa Peschke,Květa Peschke,1.0,1.0,0.0,1.5B_grpo
+E2,5a7e5ec25542991319bc947a,1,Květa Peschke,John Newcombe,0.0,0.0,0.0,1.5B_grpo
+E2,5a7e5ec25542991319bc947a,3,Květa Peschke,John Newcombe,0.0,0.0,1.0,1.5B_grpo
+E2,5adbf2805542994650320c15,0,The High Sheriff changes every March.,1943,0.0,0.0,0.0667,1.5B_grpo
+E2,5adbf2805542994650320c15,1,The High Sheriff changes every March.,1943,0.0,0.0,0.0,1.5B_grpo
+E2,5adbf2805542994650320c15,3,The High Sheriff changes every March.,1943,0.0,0.0,0.0,1.5B_grpo
+E2,5a845e9055429933447460ec,0,Sacramento Kings,San Diego State,0.0,0.0,0.0,1.5B_grpo
+E2,5a845e9055429933447460ec,1,Sacramento Kings,Sacramento Kings,1.0,1.0,1.0,1.5B_grpo
+E2,5a845e9055429933447460ec,3,Sacramento Kings,Sacramento Kings,1.0,1.0,1.0,1.5B_grpo
+E2,5a820c0c554299676cceb1fc,0,All Nippon,Narita International Airport Corporation,0.0,0.0,0.0,1.5B_grpo
+E2,5a820c0c554299676cceb1fc,1,All Nippon,Narita International Airport Corporation,0.0,0.0,0.0,1.5B_grpo
+E2,5a820c0c554299676cceb1fc,3,All Nippon,All Nippon Airways,0.0,0.8,0.8,1.5B_grpo
+E2,5a88bd1d554299206df2b357,0,"season six, episode 5, ""Invasion""","Season six, episode 5, ""Invasion""",1.0,1.0,1.0,1.5B_grpo
+E2,5a88bd1d554299206df2b357,1,"season six, episode 5, ""Invasion""","Season six, episode 5",0.0,0.888888888888889,0.8889,1.5B_grpo
+E2,5a88bd1d554299206df2b357,3,"season six, episode 5, ""Invasion""","Season six, episode 5",0.0,0.888888888888889,0.8889,1.5B_grpo
+E2,5a79332555429907847277e7,0,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,1.0,1.5B_grpo
+E2,5a79332555429907847277e7,1,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,1.0,1.5B_grpo
+E2,5a79332555429907847277e7,3,Juan Carlos Onetti,Juan Carlos Onetti,1.0,1.0,1.0,1.5B_grpo
+E2,5abd516a5542992ac4f3825c,0,Hindi,Hinduism,0.0,0.0,0.0,1.5B_grpo
+E2,5abd516a5542992ac4f3825c,1,Hindi,Hindu,0.0,0.0,0.0,1.5B_grpo
+E2,5abd516a5542992ac4f3825c,3,Hindi,Hinduism,0.0,0.0,0.0,1.5B_grpo
+E2,5add26075542994ed6169c9c,0,WAMC,WAMC,1.0,1.0,1.0,1.5B_grpo
+E2,5add26075542994ed6169c9c,1,WAMC,WAMC,1.0,1.0,1.0,1.5B_grpo
+E2,5add26075542994ed6169c9c,3,WAMC,WAMC,1.0,1.0,1.0,1.5B_grpo
+E2,5a901f735542990a98493591,0,second,three,0.0,0.0,0.0,1.5B_grpo
+E2,5a901f735542990a98493591,1,second,three,0.0,0.0,0.0,1.5B_grpo
+E2,5a901f735542990a98493591,3,second,three,0.0,0.0,0.0,1.5B_grpo
+E2,5ab840e255429934fafe6d3b,0,New Jewel Movement,Black Liberation,0.0,0.0,0.0,1.5B_grpo
+E2,5ab840e255429934fafe6d3b,1,New Jewel Movement,New Jewel Movement,1.0,1.0,1.0,1.5B_grpo
+E2,5ab840e255429934fafe6d3b,3,New Jewel Movement,New Jewel Movement,1.0,1.0,1.0,1.5B_grpo
+E2,5ac3d4b6554299204fd21e93,0,Paper,Paper,1.0,1.0,1.0,1.5B_grpo
+E2,5ac3d4b6554299204fd21e93,1,Paper,Paper,1.0,1.0,1.0,1.5B_grpo
+E2,5ac3d4b6554299204fd21e93,3,Paper,Paper,1.0,1.0,1.0,1.5B_grpo
+E2,5a73b2cb55429908901be31a,0,Maria von Trapp,Alix Williamson,0.0,0.0,1.0,1.5B_grpo
+E2,5a73b2cb55429908901be31a,1,Maria von Trapp,Alix Williamson,0.0,0.0,1.0,1.5B_grpo
+E2,5a73b2cb55429908901be31a,3,Maria von Trapp,Maria von Trapp,1.0,1.0,0.8571,1.5B_grpo
+E2,5ac29cf8554299218029dac2,0,Rowan Blanchard,Dayna Hart,0.0,0.0,0.0,1.5B_grpo
+E2,5ac29cf8554299218029dac2,1,Rowan Blanchard,Dayna Hart,0.0,0.0,0.0,1.5B_grpo
+E2,5ac29cf8554299218029dac2,3,Rowan Blanchard,Matthew Tishler,0.0,0.0,1.0,1.5B_grpo
+E2,5ae686535542996d980e7bdc,0,Ringo Starr,Ringo Starr,1.0,1.0,1.0,1.5B_grpo
+E2,5ae686535542996d980e7bdc,1,Ringo Starr,Ringo Starr,1.0,1.0,1.0,1.5B_grpo
+E2,5ae686535542996d980e7bdc,3,Ringo Starr,Ringo Starr,1.0,1.0,1.0,1.5B_grpo
+E2,5a8aa1685542992d82986f32,0,Beijing Dance Academy,Beijing Dance Academy,1.0,1.0,1.0,1.5B_grpo
+E2,5a8aa1685542992d82986f32,1,Beijing Dance Academy,Beijing Dance Academy and Beijing Film Academy,0.0,0.6,1.0,1.5B_grpo
+E2,5a8aa1685542992d82986f32,3,Beijing Dance Academy,Beijing Dance Academy and Beijing Film Academy,0.0,0.6,1.0,1.5B_grpo
+E2,5a7d7deb5542995f4f402282,0,Shifty Shellshock,Fenriz,0.0,0.0,1.0,1.5B_grpo
+E2,5a7d7deb5542995f4f402282,1,Shifty Shellshock,Shifty Shellshock,1.0,1.0,1.0,1.5B_grpo
+E2,5a7d7deb5542995f4f402282,3,Shifty Shellshock,Shifty Shellshock,1.0,1.0,1.0,1.5B_grpo
+E2,5a8c622a554299240d9c2142,0,Ursula Kroeber Le Guin,Ursula K. Le Guin,0.0,0.75,0.75,1.5B_grpo
+E2,5a8c622a554299240d9c2142,1,Ursula Kroeber Le Guin,Ursula K. Le Guin,0.0,0.75,0.75,1.5B_grpo
+E2,5a8c622a554299240d9c2142,3,Ursula Kroeber Le Guin,Ursula K. Le Guin,0.0,0.75,0.75,1.5B_grpo
+E2,5a7b81715542997c3ec971d4,0,Hugo Award,CWA International Dagger,0.0,0.0,0.0,1.5B_grpo
+E2,5a7b81715542997c3ec971d4,1,Hugo Award,CWA International Dagger,0.0,0.0,0.0,1.5B_grpo
+E2,5a7b81715542997c3ec971d4,3,Hugo Award,Hugo Award for Best Dramatic Presentation,0.0,0.5,0.25,1.5B_grpo
+E2,5ae0c29c5542993d6555ec46,0,"professional wrestler, actor, and hip hop musician",Musical engineer and record producer,0.0,0.16666666666666666,0.0,1.5B_grpo
+E2,5ae0c29c5542993d6555ec46,1,"professional wrestler, actor, and hip hop musician",songwriter producer,0.0,0.0,0.0,1.5B_grpo
+E2,5ae0c29c5542993d6555ec46,3,"professional wrestler, actor, and hip hop musician",songwriter producer,0.0,0.0,0.0,1.5B_grpo
+E2,5a7c290c5542990527d55468,0,Oklahoma,Oklahoma,1.0,1.0,1.0,1.5B_grpo
+E2,5a7c290c5542990527d55468,1,Oklahoma,Oklahoma,1.0,1.0,1.0,1.5B_grpo
+E2,5a7c290c5542990527d55468,3,Oklahoma,Oklahoma,1.0,1.0,1.0,1.5B_grpo
+E2,5a876f785542993e715abf42,0,"musician, editor and composer.",John Carpenter,0.0,0.0,0.0,1.5B_grpo
+E2,5a876f785542993e715abf42,1,"musician, editor and composer.",John Carpenter,0.0,0.0,0.0,1.5B_grpo
+E2,5a876f785542993e715abf42,3,"musician, editor and composer.",John Carpenter,0.0,0.0,0.0,1.5B_grpo
+E2,5ae1e6d95542997283cd22c3,0,Jordan Peele,Jordan Peele and Alex Rubens,0.0,0.5714285714285715,0.5714,1.5B_grpo
+E2,5ae1e6d95542997283cd22c3,1,Jordan Peele,Jordan Peele and Alex Rubens,0.0,0.5714285714285715,0.5714,1.5B_grpo
+E2,5ae1e6d95542997283cd22c3,3,Jordan Peele,Jordan Peele and Alex Rubens,0.0,0.5714285714285715,0.5714,1.5B_grpo
+E2,5ae10df355429920d52342ac,0,"Warrnambool, Victoria",Alice Springs,0.0,0.0,1.0,1.5B_grpo
+E2,5ae10df355429920d52342ac,1,"Warrnambool, Victoria",Alice Springs,0.0,0.0,1.0,1.5B_grpo
+E2,5ae10df355429920d52342ac,3,"Warrnambool, Victoria",Alice Springs,0.0,0.0,0.6667,1.5B_grpo
+E2,5ae4d8475542993aec5ec0e0,0,Giuseppe Verdi,William Shakespeare,0.0,0.0,0.6667,1.5B_grpo
+E2,5ae4d8475542993aec5ec0e0,1,Giuseppe Verdi,Giuseppe Verdi,1.0,1.0,1.0,1.5B_grpo
+E2,5ae4d8475542993aec5ec0e0,3,Giuseppe Verdi,Giuseppe Verdi,1.0,1.0,1.0,1.5B_grpo
+E2,5ab94cf0554299743d22eade,0,Warrington,Pensacola,0.0,0.0,0.0,1.5B_grpo
+E2,5ab94cf0554299743d22eade,1,Warrington,Pensacola,0.0,0.0,0.0,1.5B_grpo
+E2,5ab94cf0554299743d22eade,3,Warrington,Pensacola,0.0,0.0,0.0,1.5B_grpo
+E2,5ae479745542996836b02cb1,0,Sex Drive,Hard Sell,0.0,0.0,0.0,1.5B_grpo
+E2,5ae479745542996836b02cb1,1,Sex Drive,Hard Sell,0.0,0.0,0.0,1.5B_grpo
+E2,5ae479745542996836b02cb1,3,Sex Drive,Hard Sell,0.0,0.0,0.0,1.5B_grpo
+E2,5a852cd05542997b5ce3ffb0,0,Bay of Fundy,Bay of Biscay,0.0,0.6666666666666666,0.087,1.5B_grpo
+E2,5a852cd05542997b5ce3ffb0,1,Bay of Fundy,Bay of Fundy,1.0,1.0,1.0,1.5B_grpo
+E2,5a852cd05542997b5ce3ffb0,3,Bay of Fundy,Bay of Fundy,1.0,1.0,1.0,1.5B_grpo
+E2,5a8babf05542996e8ac8899e,0,Daviesia,Daviesia,1.0,1.0,1.0,1.5B_grpo
+E2,5a8babf05542996e8ac8899e,1,Daviesia,Daviesia,1.0,1.0,1.0,1.5B_grpo
+E2,5a8babf05542996e8ac8899e,3,Daviesia,Daviesia,1.0,1.0,1.0,1.5B_grpo
+E2,5a82fcbd55429954d2e2ebe8,0,Maria Szraiber,Maria Grinberg,0.0,0.5,0.5,1.5B_grpo
+E2,5a82fcbd55429954d2e2ebe8,1,Maria Szraiber,Maria Grinberg,0.0,0.5,1.0,1.5B_grpo
+E2,5a82fcbd55429954d2e2ebe8,3,Maria Szraiber,Maria Grinberg,0.0,0.5,1.0,1.5B_grpo
+E2,5a77c60255429967ab105285,0,theory of direct scattering and inverse scattering,The theory of direct scattering and inverse scattering,1.0,1.0,1.0,1.5B_grpo
+E2,5a77c60255429967ab105285,1,theory of direct scattering and inverse scattering,"The theory advanced by the author of Progress in Optics, Emil Wolf, is the theory of direct scattering and inverse scattering",0.0,0.56,1.0,1.5B_grpo
+E2,5a77c60255429967ab105285,3,theory of direct scattering and inverse scattering,Inverse scattering theory,0.0,0.6,1.0,1.5B_grpo
+E2,5adf39ce5542995534e8c76d,0,Shakespeare performances,earth goddess,0.0,0.0,0.0741,1.5B_grpo
+E2,5adf39ce5542995534e8c76d,1,Shakespeare performances,Shakespeare performances,1.0,1.0,0.3077,1.5B_grpo
+E2,5adf39ce5542995534e8c76d,3,Shakespeare performances,Shakespeare performances,1.0,1.0,0.3077,1.5B_grpo
+E2,5ae694a15542991bbc976141,0,defence of the Cathedral,Minister Pool is important to Black Country and the West Midlands in England because it is a reservoir located between Bird Street and,0.0,0.0,0.0,1.5B_grpo
+E2,5ae694a15542991bbc976141,1,defence of the Cathedral,Minister Pool is important to Black Country and the West Midlands in England because it is a reservoir located between Bird Street and,0.0,0.0,0.1538,1.5B_grpo
+E2,5ae694a15542991bbc976141,3,defence of the Cathedral,Minister Pool is important to Black Country and the West Midlands in England due to its historical significance in the defense of L,0.0,0.08333333333333333,0.0833,1.5B_grpo
+E2,5ae13bca55429901ffe4ae17,0,Debbie Harry,Debbie Harry,1.0,1.0,1.0,1.5B_grpo
+E2,5ae13bca55429901ffe4ae17,1,Debbie Harry,Cyndi Lauper,0.0,0.0,1.0,1.5B_grpo
+E2,5ae13bca55429901ffe4ae17,3,Debbie Harry,Cyndi Lauper,0.0,0.0,1.0,1.5B_grpo
+E2,5a8a265b5542992d82986ecc,0,Frederick King Keller,Frederick King Keller,1.0,1.0,1.0,1.5B_grpo
+E2,5a8a265b5542992d82986ecc,1,Frederick King Keller,Ian Schneider,0.0,0.0,1.0,1.5B_grpo
+E2,5a8a265b5542992d82986ecc,3,Frederick King Keller,Ian Schneider,0.0,0.0,1.0,1.5B_grpo
+E2,5a77121a5542994aec3b71db,0,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",Charley and the Angel,0.0,0.10526315789473684,0.1053,1.5B_grpo
+E2,5a77121a5542994aec3b71db,1,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",The Boatniks,0.0,0.11764705882352941,0.1176,1.5B_grpo
+E2,5a77121a5542994aec3b71db,3,"The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",The Boatniks,0.0,0.11764705882352941,0.1176,1.5B_grpo
+E2,5ae6911955429908198fa626,0,Mrs. Eastwood & Company,Firefly,0.0,0.0,0.0,1.5B_grpo
+E2,5ae6911955429908198fa626,1,Mrs. Eastwood & Company,Saw Dogs,0.0,0.0,0.0,1.5B_grpo
+E2,5ae6911955429908198fa626,3,Mrs. Eastwood & Company,The Surreal Life: Fame Games,0.0,0.0,0.0,1.5B_grpo
+E2,5ae53de455429908b6326599,0,Delaware River,Missouri River,0.0,0.5,0.0,1.5B_grpo
+E2,5ae53de455429908b6326599,1,Delaware River,Delaware River,1.0,1.0,0.0,1.5B_grpo
+E2,5ae53de455429908b6326599,3,Delaware River,Delaware River,1.0,1.0,0.0,1.5B_grpo
+E2,5a813b6f55429903bc27b951,0,Oryzomyini,Oryzomyini,1.0,1.0,1.0,1.5B_grpo
+E2,5a813b6f55429903bc27b951,1,Oryzomyini,Oryzomyini,1.0,1.0,1.0,1.5B_grpo
+E2,5a813b6f55429903bc27b951,3,Oryzomyini,Oryzomyini,1.0,1.0,1.0,1.5B_grpo
+E2,5a84b4005542991dd0999d99,0,"October 16, 2015",2003,0.0,0.0,0.0,1.5B_grpo
+E2,5a84b4005542991dd0999d99,1,"October 16, 2015","September 25, 2015",0.0,0.3333333333333333,0.3333,1.5B_grpo
+E2,5a84b4005542991dd0999d99,3,"October 16, 2015","September 25, 2015",0.0,0.3333333333333333,0.3333,1.5B_grpo
+E2,5a8cca64554299653c1aa125,0,British Army,Army,0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5a8cca64554299653c1aa125,1,British Army,World War II,0.0,0.0,0.25,1.5B_grpo
+E2,5a8cca64554299653c1aa125,3,British Army,World War II,0.0,0.0,0.2105,1.5B_grpo
+E2,5ab8ed305542991b5579f046,0,The United States of America,United States,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5ab8ed305542991b5579f046,1,The United States of America,United States,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5ab8ed305542991b5579f046,3,The United States of America,United States,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5ae0b2f25542993d6555ec1c,0,hamburgers,Portion of a three-course meal,0.0,0.0,0.0,1.5B_grpo
+E2,5ae0b2f25542993d6555ec1c,1,hamburgers,breakfast,0.0,0.0,0.0,1.5B_grpo
+E2,5ae0b2f25542993d6555ec1c,3,hamburgers,Breakfast,0.0,0.0,0.0,1.5B_grpo
+E2,5ae207a65542994d89d5b317,0,Oplismenus,Oplismenus,1.0,1.0,1.0,1.5B_grpo
+E2,5ae207a65542994d89d5b317,1,Oplismenus,Oplismenus,1.0,1.0,1.0,1.5B_grpo
+E2,5ae207a65542994d89d5b317,3,Oplismenus,Oplismenus,1.0,1.0,1.0,1.5B_grpo
+E2,5a75383a5542996c70cfaeb3,0,Ulf Dietrich Merbold,Ulf Merbold,0.0,0.8,0.0,1.5B_grpo
+E2,5a75383a5542996c70cfaeb3,1,Ulf Dietrich Merbold,Ulf Merbold,0.0,0.8,0.0,1.5B_grpo
+E2,5a75383a5542996c70cfaeb3,3,Ulf Dietrich Merbold,Ulf Merbold,0.0,0.8,0.0,1.5B_grpo
+E2,5ae3fd2c5542995dadf2428f,0,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5ae3fd2c5542995dadf2428f,1,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5ae3fd2c5542995dadf2428f,3,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5abffd10554299012d1db556,0,Lombardy,Valtellina,0.0,0.0,0.0,1.5B_grpo
+E2,5abffd10554299012d1db556,1,Lombardy,Valtellina,0.0,0.0,0.0,1.5B_grpo
+E2,5abffd10554299012d1db556,3,Lombardy,"Valtellina, Lombardy",0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5a8f812755429918e830d245,0,a governor,Chairman and Chief Executive Officer,0.0,0.0,0.1818,1.5B_grpo
+E2,5a8f812755429918e830d245,1,a governor,Chairman and Chief Executive Officer,0.0,0.0,0.1818,1.5B_grpo
+E2,5a8f812755429918e830d245,3,a governor,Governor of the New York Stock Exchange,0.0,0.2857142857142857,0.1818,1.5B_grpo
+E2,5ae520315542993aec5ec152,0,Taylor Swift,Taylor Swift,1.0,1.0,1.0,1.5B_grpo
+E2,5ae520315542993aec5ec152,1,Taylor Swift,Taylor Swift,1.0,1.0,1.0,1.5B_grpo
+E2,5ae520315542993aec5ec152,3,Taylor Swift,Taylor Swift,1.0,1.0,1.0,1.5B_grpo
+E2,5a7631cd5542994ccc91870c,0,"Franconia, New Hampshire",Hagerstown Community College,0.0,0.0,0.0,1.5B_grpo
+E2,5a7631cd5542994ccc91870c,1,"Franconia, New Hampshire",Kripalu Center,0.0,0.0,0.0,1.5B_grpo
+E2,5a7631cd5542994ccc91870c,3,"Franconia, New Hampshire",Kripalu Center for Yoga & Health,0.0,0.0,0.0,1.5B_grpo
+E2,5ac26eed55429951e9e685bf,0,the U.S. state of Kansas,Doniphan County,0.0,0.0,0.1111,1.5B_grpo
+E2,5ac26eed55429951e9e685bf,1,the U.S. state of Kansas,"Doniphan County, Kansas",0.0,0.28571428571428575,0.2857,1.5B_grpo
+E2,5ac26eed55429951e9e685bf,3,the U.S. state of Kansas,"Doniphan County, Kansas",0.0,0.28571428571428575,0.0909,1.5B_grpo
+E2,5a7e37095542995ed0d166d5,0,Sinclair Hill,Sinclair Hill,1.0,1.0,0.0,1.5B_grpo
+E2,5a7e37095542995ed0d166d5,1,Sinclair Hill,Sinclair Hill,1.0,1.0,0.0,1.5B_grpo
+E2,5a7e37095542995ed0d166d5,3,Sinclair Hill,Sinclair Hill,1.0,1.0,0.0,1.5B_grpo
+E2,5adf72d35542992d7e9f9369,0,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5adf72d35542992d7e9f9369,1,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5adf72d35542992d7e9f9369,3,no,Yes,0.0,0.0,1.0,1.5B_grpo
+E2,5a876b265542993e715abf33,0,and lead guitarist,Joe Gooch,0.0,0.0,0.0,1.5B_grpo
+E2,5a876b265542993e715abf33,1,and lead guitarist,Joe Gooch,0.0,0.0,0.0,1.5B_grpo
+E2,5a876b265542993e715abf33,3,and lead guitarist,Joe Gooch,0.0,0.0,0.0,1.5B_grpo
+E2,5a77ddb855429967ab1052d8,0,"Cynthia Ann Stephanie ""Cyndi"" Lauper",Cyndi Lauper,0.0,0.5714285714285715,0.5714,1.5B_grpo
+E2,5a77ddb855429967ab1052d8,1,"Cynthia Ann Stephanie ""Cyndi"" Lauper",Cyndi Lauper,0.0,0.5714285714285715,0.5714,1.5B_grpo
+E2,5a77ddb855429967ab1052d8,3,"Cynthia Ann Stephanie ""Cyndi"" Lauper",Cyndi Lauper,0.0,0.5714285714285715,0.5714,1.5B_grpo
+E2,5adcc3ed5542994d58a2f6c4,0,"the ""First Family of Competitive Eating""","The ""First Family of Competitive Eating""",1.0,1.0,1.0,1.5B_grpo
+E2,5adcc3ed5542994d58a2f6c4,1,"the ""First Family of Competitive Eating""","The ""First Family of Competitive Eating""",1.0,1.0,1.0,1.5B_grpo
+E2,5adcc3ed5542994d58a2f6c4,3,"the ""First Family of Competitive Eating""",First Family of Competitive Eating,1.0,1.0,1.0,1.5B_grpo
+E2,5a76f5b155429972597f1400,0,Philip Morris Glass,Steve Reich,0.0,0.0,0.0,1.5B_grpo
+E2,5a76f5b155429972597f1400,1,Philip Morris Glass,Steve Reich,0.0,0.0,0.0,1.5B_grpo
+E2,5a76f5b155429972597f1400,3,Philip Morris Glass,Steve Reich,0.0,0.0,0.0,1.5B_grpo
+E2,5ae2c696554299495565db32,0,Keeper of the Privy Seal of Scotland,Earls of Lauderdale,0.0,0.2222222222222222,0.2222,1.5B_grpo
+E2,5ae2c696554299495565db32,1,Keeper of the Privy Seal of Scotland,Earls of Lauderdale,0.0,0.2222222222222222,0.2222,1.5B_grpo
+E2,5ae2c696554299495565db32,3,Keeper of the Privy Seal of Scotland,Earls of Lauderdale,0.0,0.2222222222222222,0.2222,1.5B_grpo
+E2,5a875154554299211dda2be7,0,Mickey Gilley,Sherwood Cryer,0.0,0.0,0.0,1.5B_grpo
+E2,5a875154554299211dda2be7,1,Mickey Gilley,Mickey Gilley,1.0,1.0,1.0,1.5B_grpo
+E2,5a875154554299211dda2be7,3,Mickey Gilley,Mickey Gilley,1.0,1.0,1.0,1.5B_grpo
+E2,5a84cf175542992a431d1aa2,0,Ratatat,Lilys,0.0,0.0,1.0,1.5B_grpo
+E2,5a84cf175542992a431d1aa2,1,Ratatat,Lilys,0.0,0.0,0.0,1.5B_grpo
+E2,5a84cf175542992a431d1aa2,3,Ratatat,Ratatat,1.0,1.0,0.0,1.5B_grpo
+E2,5ae675245542991bbc9760dc,0,Merovech,Clovis I,0.0,0.0,0.0,1.5B_grpo
+E2,5ae675245542991bbc9760dc,1,Merovech,Childeric I,0.0,0.0,0.0,1.5B_grpo
+E2,5ae675245542991bbc9760dc,3,Merovech,Merovech,1.0,1.0,1.0,1.5B_grpo
+E2,5a80b0565542996402f6a5f0,0,Adorable,Adorable,1.0,1.0,1.0,1.5B_grpo
+E2,5a80b0565542996402f6a5f0,1,Adorable,Adorable,1.0,1.0,1.0,1.5B_grpo
+E2,5a80b0565542996402f6a5f0,3,Adorable,Adorable,1.0,1.0,1.0,1.5B_grpo
+E2,5adde3a45542997545bbbdc2,0,yes,Yes,1.0,1.0,1.0,1.5B_grpo
+E2,5adde3a45542997545bbbdc2,1,yes,Yes,1.0,1.0,1.0,1.5B_grpo
+E2,5adde3a45542997545bbbdc2,3,yes,Yes,1.0,1.0,1.0,1.5B_grpo
+E2,5ac26b7f55429951e9e685ae,0,hardcore,Tim Hecker,0.0,0.0,0.0,1.5B_grpo
+E2,5ac26b7f55429951e9e685ae,1,hardcore,Tim Hecker,0.0,0.0,0.0,1.5B_grpo
+E2,5ac26b7f55429951e9e685ae,3,hardcore,Gottfried von der Goltz,0.0,0.0,0.0,1.5B_grpo
+E2,5adf39295542992d7e9f92df,0,Apium,Apium,1.0,1.0,1.0,1.5B_grpo
+E2,5adf39295542992d7e9f92df,1,Apium,Apium,1.0,1.0,0.0,1.5B_grpo
+E2,5adf39295542992d7e9f92df,3,Apium,Elodea,0.0,0.0,0.0,1.5B_grpo
+E2,5abc19705542993a06baf86e,0,Dutch,Jewish,0.0,0.0,0.0,1.5B_grpo
+E2,5abc19705542993a06baf86e,1,Dutch,Jewish,0.0,0.0,1.0,1.5B_grpo
+E2,5abc19705542993a06baf86e,3,Dutch,Jewish,0.0,0.0,0.0,1.5B_grpo
+E2,5ae6914755429908198fa627,0,January 2001,July,0.0,0.0,0.0,1.5B_grpo
+E2,5ae6914755429908198fa627,1,January 2001,January,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5ae6914755429908198fa627,3,January 2001,January,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5adc9b7a5542994d58a2f679,0,American,United States,0.0,0.0,0.0,1.5B_grpo
+E2,5adc9b7a5542994d58a2f679,1,American,United States,0.0,0.0,0.0,1.5B_grpo
+E2,5adc9b7a5542994d58a2f679,3,American,United States,0.0,0.0,0.0,1.5B_grpo
+E2,5a721dfd55429971e9dc928b,0,Thorgan Ganael Francis Hazard,Thorgan Hazard,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a721dfd55429971e9dc928b,1,Thorgan Ganael Francis Hazard,Thorgan Hazard,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a721dfd55429971e9dc928b,3,Thorgan Ganael Francis Hazard,Thorgan Hazard,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a8b50475542997f31a41cd4,0,world wushu tournament,street fights,0.0,0.0,0.0,1.5B_grpo
+E2,5a8b50475542997f31a41cd4,1,world wushu tournament,Wong Shun Leung,0.0,0.0,0.0,1.5B_grpo
+E2,5a8b50475542997f31a41cd4,3,world wushu tournament,"60, and perhaps over 100, street fights",0.0,0.0,0.0,1.5B_grpo
+E2,5a860aa6554299211dda2a45,0,The New York Enterprise Report,The New York Enterprise Report,1.0,1.0,0.7273,1.5B_grpo
+E2,5a860aa6554299211dda2a45,1,The New York Enterprise Report,Utne Reader,0.0,0.0,1.0,1.5B_grpo
+E2,5a860aa6554299211dda2a45,3,The New York Enterprise Report,Utne Reader,0.0,0.0,1.0,1.5B_grpo
+E2,5ae4585c5542996836b02c89,0,Live,Band of Skulls,0.0,0.0,0.0,1.5B_grpo
+E2,5ae4585c5542996836b02c89,1,Live,Live,1.0,1.0,1.0,1.5B_grpo
+E2,5ae4585c5542996836b02c89,3,Live,Live,1.0,1.0,0.1176,1.5B_grpo
+E2,5adfcb5455429906c02daa48,0,Father Dougal McGuire,Father Dougal McGuire,1.0,1.0,1.0,1.5B_grpo
+E2,5adfcb5455429906c02daa48,1,Father Dougal McGuire,Humphrey Goodman,0.0,0.0,1.0,1.5B_grpo
+E2,5adfcb5455429906c02daa48,3,Father Dougal McGuire,Father Ted Crilly,0.0,0.3333333333333333,1.0,1.5B_grpo
+E2,5a77a41a5542997042120ab9,0,2006,2010,0.0,0.0,0.0,1.5B_grpo
+E2,5a77a41a5542997042120ab9,1,2006,2010,0.0,0.0,0.0,1.5B_grpo
+E2,5a77a41a5542997042120ab9,3,2006,2010,0.0,0.0,0.0,1.5B_grpo
+E2,5a8759395542994775f607e0,0,Joel David Coen,John Anderson,0.0,0.0,0.0,1.5B_grpo
+E2,5a8759395542994775f607e0,1,Joel David Coen,Joel David Coen,1.0,1.0,1.0,1.5B_grpo
+E2,5a8759395542994775f607e0,3,Joel David Coen,Joel David Coen,1.0,1.0,0.8,1.5B_grpo
+E2,5a84992e5542992a431d1a6d,0,Boyd Gaming,Grand Life Hotels,0.0,0.0,0.0,1.5B_grpo
+E2,5a84992e5542992a431d1a6d,1,Boyd Gaming,Boyd Gaming,1.0,1.0,1.0,1.5B_grpo
+E2,5a84992e5542992a431d1a6d,3,Boyd Gaming,Boyd Gaming,1.0,1.0,1.0,1.5B_grpo
+E2,5ac1bce45542994ab5c67def,0,yes,Yes,1.0,1.0,1.0,1.5B_grpo
+E2,5ac1bce45542994ab5c67def,1,yes,Yes,1.0,1.0,1.0,1.5B_grpo
+E2,5ac1bce45542994ab5c67def,3,yes,Yes,1.0,1.0,1.0,1.5B_grpo
+E2,5ac0641f554299294b218fbe,0,2.1 million,152,0.0,0.0,0.0,1.5B_grpo
+E2,5ac0641f554299294b218fbe,1,2.1 million,2.1 million,1.0,1.0,0.8,1.5B_grpo
+E2,5ac0641f554299294b218fbe,3,2.1 million,152 baptized members,0.0,0.0,0.8,1.5B_grpo
+E2,5a87954f5542996e4f308856,0,Bactris,Epigaea,0.0,0.0,1.0,1.5B_grpo
+E2,5a87954f5542996e4f308856,1,Bactris,Epigaea,0.0,0.0,1.0,1.5B_grpo
+E2,5a87954f5542996e4f308856,3,Bactris,Epigaea,0.0,0.0,1.0,1.5B_grpo
+E2,5a8bc03d5542996e8ac88a0b,0,Operation Neptune,Tonkin Gulf Yacht Club,0.0,0.0,0.0,1.5B_grpo
+E2,5a8bc03d5542996e8ac88a0b,1,Operation Neptune,LBK,0.0,0.0,0.0,1.5B_grpo
+E2,5a8bc03d5542996e8ac88a0b,3,Operation Neptune,LBK,0.0,0.0,0.0,1.5B_grpo
+E2,5ab8869155429916710eb081,0,Boeing EA-18G Growler,EA-18G Growler,0.0,0.8,0.8,1.5B_grpo
+E2,5ab8869155429916710eb081,1,Boeing EA-18G Growler,EA-18G Growler,0.0,0.8,0.8,1.5B_grpo
+E2,5ab8869155429916710eb081,3,Boeing EA-18G Growler,EA-18G Growler,0.0,0.8,0.8,1.5B_grpo
+E2,5adde17f5542992200553b87,0,Orlando Magic,Chicago Bulls,0.0,0.0,0.0,1.5B_grpo
+E2,5adde17f5542992200553b87,1,Orlando Magic,Orlando Magic,1.0,1.0,1.0,1.5B_grpo
+E2,5adde17f5542992200553b87,3,Orlando Magic,Golden State Warriors,0.0,0.0,1.0,1.5B_grpo
+E2,5a776ac75542993569682d9b,0,"Daniel Patrick ""Pat"" Moynihan",Daniel Patrick Moynihan,0.0,0.8571428571428571,0.8571,1.5B_grpo
+E2,5a776ac75542993569682d9b,1,"Daniel Patrick ""Pat"" Moynihan",Daniel Patrick Moynihan,0.0,0.8571428571428571,0.8571,1.5B_grpo
+E2,5a776ac75542993569682d9b,3,"Daniel Patrick ""Pat"" Moynihan",Daniel Patrick Moynihan,0.0,0.8571428571428571,0.8571,1.5B_grpo
+E2,5ae70ed7554299572ea546a1,0,Charlie Murphy,Ike Barinholtz,0.0,0.0,1.0,1.5B_grpo
+E2,5ae70ed7554299572ea546a1,1,Charlie Murphy,Eddie Murphy,0.0,0.5,1.0,1.5B_grpo
+E2,5ae70ed7554299572ea546a1,3,Charlie Murphy,Eddie Murphy,0.0,0.5,1.0,1.5B_grpo
+E2,5ae1fbf05542997f29b3c1e7,0,1944,"March 2, 2014",0.0,0.0,0.0,1.5B_grpo
+E2,5ae1fbf05542997f29b3c1e7,1,1944,1944,1.0,1.0,1.0,1.5B_grpo
+E2,5ae1fbf05542997f29b3c1e7,3,1944,1944,1.0,1.0,1.0,1.5B_grpo
+E2,5ac1c9a15542994ab5c67e1c,0,more than 10 million,Lima,0.0,0.0,0.0,1.5B_grpo
+E2,5ac1c9a15542994ab5c67e1c,1,more than 10 million,10 million,0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5ac1c9a15542994ab5c67e1c,3,more than 10 million,10 million,0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5a77c8905542995d831812ce,0,Levi Weeks,Levi Weeks,1.0,1.0,1.0,1.5B_grpo
+E2,5a77c8905542995d831812ce,1,Levi Weeks,Levi Weeks,1.0,1.0,1.0,1.5B_grpo
+E2,5a77c8905542995d831812ce,3,Levi Weeks,Levi Weeks,1.0,1.0,1.0,1.5B_grpo
+E2,5a89f68f5542992e4fca84b6,0,officer,Military commander,0.0,0.0,0.0,1.5B_grpo
+E2,5a89f68f5542992e4fca84b6,1,officer,Military officer,0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5a89f68f5542992e4fca84b6,3,officer,Military commander,0.0,0.0,0.0,1.5B_grpo
+E2,5a7f62405542992e7d278cf0,0,Teriade,Ithys Press,0.0,0.0,0.0,1.5B_grpo
+E2,5a7f62405542992e7d278cf0,1,Teriade,Ithys Press,0.0,0.0,0.0,1.5B_grpo
+E2,5a7f62405542992e7d278cf0,3,Teriade,HarperCollins,0.0,0.0,0.0,1.5B_grpo
+E2,5a7ca4485542990527d554f1,0,2027 Fairmount Avenue,2027 Fairmount Avenue,1.0,1.0,0.3158,1.5B_grpo
+E2,5a7ca4485542990527d554f1,1,2027 Fairmount Avenue,2027 Fairmount Avenue,1.0,1.0,0.3158,1.5B_grpo
+E2,5a7ca4485542990527d554f1,3,2027 Fairmount Avenue,2027 Fairmount Avenue,1.0,1.0,0.3158,1.5B_grpo
+E2,5a8347d65542996488c2e3f6,0,Kurt Russell,Miracle,0.0,0.0,0.0,1.5B_grpo
+E2,5a8347d65542996488c2e3f6,1,Kurt Russell,Herb Brooks,0.0,0.0,0.0,1.5B_grpo
+E2,5a8347d65542996488c2e3f6,3,Kurt Russell,Mathematically Alive,0.0,0.0,0.0,1.5B_grpo
+E2,5ab8634e5542990e739ec8de,0,The Vanguard Group,claiming that Fama and French's research is period dependent,0.0,0.0,0.0,1.5B_grpo
+E2,5ab8634e5542990e739ec8de,1,The Vanguard Group,claiming that Fama and French's research is period dependent,0.0,0.0,0.0,1.5B_grpo
+E2,5ab8634e5542990e739ec8de,3,The Vanguard Group,no value premium exists,0.0,0.0,0.0,1.5B_grpo
+E2,5ab85e9e55429934fafe6d8b,0,1614,1614,1.0,1.0,1.0,1.5B_grpo
+E2,5ab85e9e55429934fafe6d8b,1,1614,1614,1.0,1.0,1.0,1.5B_grpo
+E2,5ab85e9e55429934fafe6d8b,3,1614,1614,1.0,1.0,1.0,1.5B_grpo
+E2,5a79c9c05542994bb94570a5,0,"Robert ""Bobby"" Bunda",Hawaii House of Representatives,0.0,0.0,0.0,1.5B_grpo
+E2,5a79c9c05542994bb94570a5,1,"Robert ""Bobby"" Bunda",Hawaii House of Representatives,0.0,0.0,1.0,1.5B_grpo
+E2,5a79c9c05542994bb94570a5,3,"Robert ""Bobby"" Bunda",Hawaii House of Representatives,0.0,0.0,0.8,1.5B_grpo
+E2,5a8c616f5542995e66a475de,0,Steeles Avenue,Steeles Avenue,1.0,1.0,1.0,1.5B_grpo
+E2,5a8c616f5542995e66a475de,1,Steeles Avenue,Steeles Avenue,1.0,1.0,1.0,1.5B_grpo
+E2,5a8c616f5542995e66a475de,3,Steeles Avenue,Steeles Avenue,1.0,1.0,1.0,1.5B_grpo
+E2,5ab90fdd55429916710eb0fc,0,"London, England","London, England",1.0,1.0,1.0,1.5B_grpo
+E2,5ab90fdd55429916710eb0fc,1,"London, England","London, England",1.0,1.0,1.0,1.5B_grpo
+E2,5ab90fdd55429916710eb0fc,3,"London, England","London, England",1.0,1.0,1.0,1.5B_grpo
+E2,5abe7f695542993f32c2a12d,0,focus on young superheroes,Young Justice,0.0,0.3333333333333333,0.3333,1.5B_grpo
+E2,5abe7f695542993f32c2a12d,1,focus on young superheroes,Young Justice,0.0,0.3333333333333333,0.3333,1.5B_grpo
+E2,5abe7f695542993f32c2a12d,3,focus on young superheroes,Young Justice,0.0,0.3333333333333333,0.0952,1.5B_grpo
+E2,5abeb0da5542997ec76fd34b,0,yes,yes,1.0,1.0,0.0,1.5B_grpo
+E2,5abeb0da5542997ec76fd34b,1,yes,No,0.0,0.0,0.0,1.5B_grpo
+E2,5abeb0da5542997ec76fd34b,3,yes,Yes,1.0,1.0,0.0,1.5B_grpo
+E2,5a7521c55542993748c897c6,0,Burwash Mine,Temagami-Lorrain Mine,0.0,0.5,1.0,1.5B_grpo
+E2,5a7521c55542993748c897c6,1,Burwash Mine,Burwash Mine,1.0,1.0,1.0,1.5B_grpo
+E2,5a7521c55542993748c897c6,3,Burwash Mine,Burwash Mine,1.0,1.0,1.0,1.5B_grpo
+E2,5adfda5255429942ec259b5e,0,Douglas,Dakota County,0.0,0.0,0.0,1.5B_grpo
+E2,5adfda5255429942ec259b5e,1,Douglas,Douglas County,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5adfda5255429942ec259b5e,3,Douglas,Scott County,0.0,0.0,0.6667,1.5B_grpo
+E2,5abaeda95542992ccd8e7e5d,0,Twin Pines/Lone Pine Mall,Twin Pines/Lone Pine Mall,1.0,1.0,1.0,1.5B_grpo
+E2,5abaeda95542992ccd8e7e5d,1,Twin Pines/Lone Pine Mall,Twin Pines/Lone Pine Mall,1.0,1.0,0.5714,1.5B_grpo
+E2,5abaeda95542992ccd8e7e5d,3,Twin Pines/Lone Pine Mall,Twin Pines/Lone Pine Mall,1.0,1.0,1.0,1.5B_grpo
+E2,5ae68e0055429908198fa607,0,Hindi,South Indian film industry,0.0,0.0,0.0,1.5B_grpo
+E2,5ae68e0055429908198fa607,1,Hindi,South Indian film industry,0.0,0.0,0.0,1.5B_grpo
+E2,5ae68e0055429908198fa607,3,Hindi,Hindi films,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a7577785542992d0ec05fa0,0,Tatton Park,Knutsford,0.0,0.0,1.0,1.5B_grpo
+E2,5a7577785542992d0ec05fa0,1,Tatton Park,Tatton Park,1.0,1.0,1.0,1.5B_grpo
+E2,5a7577785542992d0ec05fa0,3,Tatton Park,Tatton Park,1.0,1.0,1.0,1.5B_grpo
+E2,5a7d147955429909bec76942,0,Felicity Rose Hadley Jones,Felicity Jones,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a7d147955429909bec76942,1,Felicity Rose Hadley Jones,Felicity Jones,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a7d147955429909bec76942,3,Felicity Rose Hadley Jones,Felicity Jones,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a83a2a15542993344746063,0,June 1925,June 1925,1.0,1.0,0.6667,1.5B_grpo
+E2,5a83a2a15542993344746063,1,June 1925,June 1925,1.0,1.0,0.6667,1.5B_grpo
+E2,5a83a2a15542993344746063,3,June 1925,June 1925,1.0,1.0,0.6667,1.5B_grpo
+E2,5ac079e9554299294b218fff,0,Navy,Royal Navy,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5ac079e9554299294b218fff,1,Navy,Royal Navy,0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5ac079e9554299294b218fff,3,Navy,Royal Navy,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5adca8375542990d50227cd4,0,2008,2010,0.0,0.0,0.0,1.5B_grpo
+E2,5adca8375542990d50227cd4,1,2008,2010,0.0,0.0,0.0,1.5B_grpo
+E2,5adca8375542990d50227cd4,3,2008,2010,0.0,0.0,0.0,1.5B_grpo
+E2,5add4f3a5542997545bbbd2c,0,United Holy Salvation Army and Uganda Christian Army/Movement,Lord's Resistance Army,0.0,0.18181818181818182,0.1538,1.5B_grpo
+E2,5add4f3a5542997545bbbd2c,1,United Holy Salvation Army and Uganda Christian Army/Movement,United Holy Salvation Army,0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5add4f3a5542997545bbbd2c,3,United Holy Salvation Army and Uganda Christian Army/Movement,Lord's Resistance Army,0.0,0.18181818181818182,0.1818,1.5B_grpo
+E2,5ae26cb15542994d89d5b421,0,"September 30, 2009","September 30, 2009",1.0,1.0,1.0,1.5B_grpo
+E2,5ae26cb15542994d89d5b421,1,"September 30, 2009","September 30, 2009",1.0,1.0,1.0,1.5B_grpo
+E2,5ae26cb15542994d89d5b421,3,"September 30, 2009","September 30, 2009",1.0,1.0,0.0,1.5B_grpo
+E2,5a73cad5554299623ed4ac5e,0,"Wesley ""Wes"" Studi",Kevin Costner,0.0,0.0,0.8,1.5B_grpo
+E2,5a73cad5554299623ed4ac5e,1,"Wesley ""Wes"" Studi",Kevin Costner,0.0,0.0,0.8,1.5B_grpo
+E2,5a73cad5554299623ed4ac5e,3,"Wesley ""Wes"" Studi",Wes Studi,0.0,0.8,0.8,1.5B_grpo
+E2,5ae0d5335542990adbacf674,0,"Robert Smigel, Michael Koman and David Feldman",Robert Smigel,0.0,0.4444444444444445,0.4444,1.5B_grpo
+E2,5ae0d5335542990adbacf674,1,"Robert Smigel, Michael Koman and David Feldman",Robert Smigel,0.0,0.4444444444444445,0.4444,1.5B_grpo
+E2,5ae0d5335542990adbacf674,3,"Robert Smigel, Michael Koman and David Feldman",Robert Smigel,0.0,0.4444444444444445,0.4444,1.5B_grpo
+E2,5ab344fc55429969a97a811e,0,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5ab344fc55429969a97a811e,1,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5ab344fc55429969a97a811e,3,no,tomato juice,0.0,0.0,1.0,1.5B_grpo
+E2,5ae1319c55429920d5234301,0,"""An All-Colored Vaudeville Show""",Swing Street,0.0,0.0,0.0,1.5B_grpo
+E2,5ae1319c55429920d5234301,1,"""An All-Colored Vaudeville Show""",An All-Colored Vaudeville Show,1.0,1.0,1.0,1.5B_grpo
+E2,5ae1319c55429920d5234301,3,"""An All-Colored Vaudeville Show""",An All-Colored Vaudeville Show,1.0,1.0,1.0,1.5B_grpo
+E2,5abee41a5542993fe9a41d79,0,Dirt track racing,Dirt track racing,1.0,1.0,1.0,1.5B_grpo
+E2,5abee41a5542993fe9a41d79,1,Dirt track racing,Dirt track racing,1.0,1.0,1.0,1.5B_grpo
+E2,5abee41a5542993fe9a41d79,3,Dirt track racing,Dirt track racing,1.0,1.0,1.0,1.5B_grpo
+E2,5a7daad55542995f4f4022b7,0,1599,1920,0.0,0.0,0.0,1.5B_grpo
+E2,5a7daad55542995f4f4022b7,1,1599,1991,0.0,0.0,0.0,1.5B_grpo
+E2,5a7daad55542995f4f4022b7,3,1599,1991,0.0,0.0,0.0,1.5B_grpo
+E2,5a8ff6635542995651fb5086,0,Bearno's Pizza,Patxi's Chicago Pizza,0.0,0.4,0.4,1.5B_grpo
+E2,5a8ff6635542995651fb5086,1,Bearno's Pizza,Patxi's Chicago Pizza,0.0,0.4,0.4,1.5B_grpo
+E2,5a8ff6635542995651fb5086,3,Bearno's Pizza,Patxi's Chicago Pizza,0.0,0.4,0.4,1.5B_grpo
+E2,5ae3c0cc5542992f92d82369,0,1957,1957,1.0,1.0,1.0,1.5B_grpo
+E2,5ae3c0cc5542992f92d82369,1,1957,1957,1.0,1.0,1.0,1.5B_grpo
+E2,5ae3c0cc5542992f92d82369,3,1957,1957,1.0,1.0,1.0,1.5B_grpo
+E2,5a8485fa5542992a431d1a41,0,Cuyler Reynolds,Francis Hatch Kimball,0.0,0.0,0.0,1.5B_grpo
+E2,5a8485fa5542992a431d1a41,1,Cuyler Reynolds,Cuyler Reynolds,1.0,1.0,1.0,1.5B_grpo
+E2,5a8485fa5542992a431d1a41,3,Cuyler Reynolds,Cuyler Reynolds,1.0,1.0,1.0,1.5B_grpo
+E2,5ae1389655429901ffe4ae05,0,Southern State Parkway,Southern State Parkway,1.0,1.0,1.0,1.5B_grpo
+E2,5ae1389655429901ffe4ae05,1,Southern State Parkway,Southern State Parkway,1.0,1.0,1.0,1.5B_grpo
+E2,5ae1389655429901ffe4ae05,3,Southern State Parkway,Southern State Parkway,1.0,1.0,1.0,1.5B_grpo
+E2,5a7b73ad5542997c3ec9718c,0,martial arts action films,action films,0.0,0.6666666666666666,0.2857,1.5B_grpo
+E2,5a7b73ad5542997c3ec9718c,1,martial arts action films,action films,0.0,0.6666666666666666,0.5714,1.5B_grpo
+E2,5a7b73ad5542997c3ec9718c,3,martial arts action films,action films,0.0,0.6666666666666666,0.4706,1.5B_grpo
+E2,5a7a68d25542996c55b2dd98,0,second cousin once removed,eldest daughter,0.0,0.0,0.0,1.5B_grpo
+E2,5a7a68d25542996c55b2dd98,1,second cousin once removed,"Louis Mountbatten, 1st Earl Mountbatten of Burma",0.0,0.0,0.0,1.5B_grpo
+E2,5a7a68d25542996c55b2dd98,3,second cousin once removed,Philip Mountbatten,0.0,0.0,0.8,1.5B_grpo
+E2,5ae2bb545542992decbdcd88,0,fortnightly,annually,0.0,0.0,0.0,1.5B_grpo
+E2,5ae2bb545542992decbdcd88,1,fortnightly,fortnightly,1.0,1.0,1.0,1.5B_grpo
+E2,5ae2bb545542992decbdcd88,3,fortnightly,fortnightly,1.0,1.0,1.0,1.5B_grpo
+E2,5a8f47a55542997ba9cb3219,0,Spam,Spam,1.0,1.0,1.0,1.5B_grpo
+E2,5a8f47a55542997ba9cb3219,1,Spam,Spam,1.0,1.0,1.0,1.5B_grpo
+E2,5a8f47a55542997ba9cb3219,3,Spam,Spam,1.0,1.0,1.0,1.5B_grpo
+E2,5ab1ebff5542993be8fa9882,0,Eustoma,Eustoma,1.0,1.0,1.0,1.5B_grpo
+E2,5ab1ebff5542993be8fa9882,1,Eustoma,Eustoma,1.0,1.0,1.0,1.5B_grpo
+E2,5ab1ebff5542993be8fa9882,3,Eustoma,Eustoma,1.0,1.0,1.0,1.5B_grpo
+E2,5a7fd7305542992e7d278dc2,0,The Life of Larry and Larry & Steve,The Life of Larry and Larry & Steve,1.0,1.0,0.3636,1.5B_grpo
+E2,5a7fd7305542992e7d278dc2,1,The Life of Larry and Larry & Steve,The Life of Larry and Larry & Steve,1.0,1.0,0.3871,1.5B_grpo
+E2,5a7fd7305542992e7d278dc2,3,The Life of Larry and Larry & Steve,The Life of Larry and Larry & Steve,1.0,1.0,0.48,1.5B_grpo
+E2,5abb8aaf5542993f40c73b1c,0,Los Angeles,Los Angeles,1.0,1.0,1.0,1.5B_grpo
+E2,5abb8aaf5542993f40c73b1c,1,Los Angeles,Los Angeles,1.0,1.0,1.0,1.5B_grpo
+E2,5abb8aaf5542993f40c73b1c,3,Los Angeles,Los Angeles,1.0,1.0,0.0,1.5B_grpo
+E2,5abba584554299642a094afa,0,"1,925 yards",523,0.0,0.0,0.0,1.5B_grpo
+E2,5abba584554299642a094afa,1,"1,925 yards",523,0.0,0.0,0.0,1.5B_grpo
+E2,5abba584554299642a094afa,3,"1,925 yards","4,595",0.0,0.0,1.0,1.5B_grpo
+E2,5a804510554299485f5985af,0,Nicolas Vanier,Christian Duguay,0.0,0.0,0.0,1.5B_grpo
+E2,5a804510554299485f5985af,1,Nicolas Vanier,Christian Duguay,0.0,0.0,0.0,1.5B_grpo
+E2,5a804510554299485f5985af,3,Nicolas Vanier,Nicolas Vanier,1.0,1.0,1.0,1.5B_grpo
+E2,5abb11c15542992ccd8e7ef8,0,"March 30, 2025","March 30, 2025",1.0,1.0,1.0,1.5B_grpo
+E2,5abb11c15542992ccd8e7ef8,1,"March 30, 2025","March 30, 2025",1.0,1.0,1.0,1.5B_grpo
+E2,5abb11c15542992ccd8e7ef8,3,"March 30, 2025","March 30, 2025",1.0,1.0,1.0,1.5B_grpo
+E2,5ae376a35542990afbd1e163,0,yes,No,0.0,0.0,0.0,1.5B_grpo
+E2,5ae376a35542990afbd1e163,1,yes,No,0.0,0.0,0.0,1.5B_grpo
+E2,5ae376a35542990afbd1e163,3,yes,No,0.0,0.0,0.0,1.5B_grpo
+E2,5adc5b875542996e68525328,0,2006 season,2006,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5adc5b875542996e68525328,1,2006 season,2006,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5adc5b875542996e68525328,3,2006 season,2006,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5ae6b6065542991bbc976168,0,Scott Adkins,Scott Adkins,1.0,1.0,0.0,1.5B_grpo
+E2,5ae6b6065542991bbc976168,1,Scott Adkins,Scott Adkins,1.0,1.0,0.0,1.5B_grpo
+E2,5ae6b6065542991bbc976168,3,Scott Adkins,Scott Adkins,1.0,1.0,1.0,1.5B_grpo
+E2,5a79d2fe5542994f819ef0c3,0,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,0.0,1.5B_grpo
+E2,5a79d2fe5542994f819ef0c3,1,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,1.0,1.5B_grpo
+E2,5a79d2fe5542994f819ef0c3,3,Aleksandr Ivanovsky,Aleksandr Ivanovsky,1.0,1.0,1.0,1.5B_grpo
+E2,5ab38cdd5542992ade7c6de2,0,John Lennon,John Lennon,1.0,1.0,1.0,1.5B_grpo
+E2,5ab38cdd5542992ade7c6de2,1,John Lennon,John Lennon,1.0,1.0,1.0,1.5B_grpo
+E2,5ab38cdd5542992ade7c6de2,3,John Lennon,John Lennon,1.0,1.0,1.0,1.5B_grpo
+E2,5ae73d235542991e8301cc29,0,Free Range Films,Free Range Films,1.0,1.0,1.0,1.5B_grpo
+E2,5ae73d235542991e8301cc29,1,Free Range Films,Free Range Films,1.0,1.0,1.0,1.5B_grpo
+E2,5ae73d235542991e8301cc29,3,Free Range Films,Free Range Films,1.0,1.0,1.0,1.5B_grpo
+E2,5a7a33205542996a35c1712f,0,Province of New York,Province of New York,1.0,1.0,1.0,1.5B_grpo
+E2,5a7a33205542996a35c1712f,1,Province of New York,New York,0.0,0.6666666666666666,1.0,1.5B_grpo
+E2,5a7a33205542996a35c1712f,3,Province of New York,Province of New York,1.0,1.0,1.0,1.5B_grpo
+E2,5a799dfb5542994bb9457029,0,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,1.0,1.5B_grpo
+E2,5a799dfb5542994bb9457029,1,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,1.0,1.5B_grpo
+E2,5a799dfb5542994bb9457029,3,Caesars Palace Grand Prix,Caesars Palace Grand Prix,1.0,1.0,1.0,1.5B_grpo
+E2,5a71095e5542994082a3e4f3,0,David Dunn,David Dunn,1.0,1.0,1.0,1.5B_grpo
+E2,5a71095e5542994082a3e4f3,1,David Dunn,David Dunn,1.0,1.0,1.0,1.5B_grpo
+E2,5a71095e5542994082a3e4f3,3,David Dunn,David Dunn,1.0,1.0,1.0,1.5B_grpo
+E2,5aba77be55429955dce3ee44,0,7°56',south of the equator,0.0,0.0,0.0,1.5B_grpo
+E2,5aba77be55429955dce3ee44,1,7°56',7°56',1.0,1.0,0.6667,1.5B_grpo
+E2,5aba77be55429955dce3ee44,3,7°56',7°56',1.0,1.0,0.6667,1.5B_grpo
+E2,5a8af94455429971feec45b6,0,since 2007,2007,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a8af94455429971feec45b6,1,since 2007,2007,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a8af94455429971feec45b6,3,since 2007,2007,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5abcedb355429959677d6b4f,0,Scott Paul Carson,Scott Carson,0.0,0.8,0.8,1.5B_grpo
+E2,5abcedb355429959677d6b4f,1,Scott Paul Carson,Scott Carson,0.0,0.8,0.8,1.5B_grpo
+E2,5abcedb355429959677d6b4f,3,Scott Paul Carson,Scott Carson,0.0,0.8,0.8,1.5B_grpo
+E2,5a713dcb5542994082a3e6d9,0,"American educator, writer,",Merchant,0.0,0.0,0.0,1.5B_grpo
+E2,5a713dcb5542994082a3e6d9,1,"American educator, writer,",Merchant,0.0,0.0,0.0,1.5B_grpo
+E2,5a713dcb5542994082a3e6d9,3,"American educator, writer,",Merchant,0.0,0.0,0.0,1.5B_grpo
+E2,5ae383e15542992f92d822fb,0,Heavyweights,Heavyweights,1.0,1.0,1.0,1.5B_grpo
+E2,5ae383e15542992f92d822fb,1,Heavyweights,Heavyweights,1.0,1.0,1.0,1.5B_grpo
+E2,5ae383e15542992f92d822fb,3,Heavyweights,Heavyweights,1.0,1.0,1.0,1.5B_grpo
+E2,5a85df525542994c784ddb9f,0,Robert A. Iger,Barack Obama,0.0,0.0,0.0,1.5B_grpo
+E2,5a85df525542994c784ddb9f,1,Robert A. Iger,Barack Obama,0.0,0.0,0.8,1.5B_grpo
+E2,5a85df525542994c784ddb9f,3,Robert A. Iger,Barack Obama,0.0,0.0,0.0,1.5B_grpo
+E2,5a9030ef5542995651fb50e4,0,American football,basketball,0.0,0.0,0.0,1.5B_grpo
+E2,5a9030ef5542995651fb50e4,1,American football,American football,1.0,1.0,1.0,1.5B_grpo
+E2,5a9030ef5542995651fb50e4,3,American football,football,0.0,0.6666666666666666,0.6667,1.5B_grpo
+E2,5a8a2d2155429930ff3c0cdc,0,Academy Award for Best Animated Feature,Academy Awards,0.0,0.25,0.0,1.5B_grpo
+E2,5a8a2d2155429930ff3c0cdc,1,Academy Award for Best Animated Feature,Golden Globe Award for Best Animated Feature Film,0.0,0.7142857142857143,0.7143,1.5B_grpo
+E2,5a8a2d2155429930ff3c0cdc,3,Academy Award for Best Animated Feature,Academy Award for Best Animated Feature Film,0.0,0.923076923076923,1.0,1.5B_grpo
+E2,5a88fa9e5542993b751ca8de,0,the Bears,Oklahoma,0.0,0.0,0.0,1.5B_grpo
+E2,5a88fa9e5542993b751ca8de,1,the Bears,Minnesota Vikings,0.0,0.0,0.0,1.5B_grpo
+E2,5a88fa9e5542993b751ca8de,3,the Bears,Minnesota Vikings,0.0,0.0,0.0,1.5B_grpo
+E2,5ae7882b554299540e5a55dd,0,great-grandfather,drafted,0.0,0.0,0.0,1.5B_grpo
+E2,5ae7882b554299540e5a55dd,1,great-grandfather,Drafted,0.0,0.0,0.0,1.5B_grpo
+E2,5ae7882b554299540e5a55dd,3,great-grandfather,Draft pick signing details,0.0,0.0,0.0,1.5B_grpo
+E2,5a81dacc55429926c1cdada0,0,William Shakespeare,William Walton,0.0,0.5,1.0,1.5B_grpo
+E2,5a81dacc55429926c1cdada0,1,William Shakespeare,William Shakespeare,1.0,1.0,1.0,1.5B_grpo
+E2,5a81dacc55429926c1cdada0,3,William Shakespeare,William Shakespeare,1.0,1.0,1.0,1.5B_grpo
+E2,5ab322b1554299194fa93570,0,fictional character,Magical English nanny,0.0,0.0,1.0,1.5B_grpo
+E2,5ab322b1554299194fa93570,1,fictional character,Magical English nanny,0.0,0.0,0.0,1.5B_grpo
+E2,5ab322b1554299194fa93570,3,fictional character,Magical English nanny,0.0,0.0,0.0,1.5B_grpo
+E2,5a8a764555429930ff3c0de1,0,American-born,The only American-born driver to win the Formula One World Drivers' Championship,0.0,0.18181818181818182,1.0,1.5B_grpo
+E2,5a8a764555429930ff3c0de1,1,American-born,American-born driver,0.0,0.6666666666666666,1.0,1.5B_grpo
+E2,5a8a764555429930ff3c0de1,3,American-born,American-born driver,0.0,0.6666666666666666,0.0,1.5B_grpo
+E2,5a8d93bf554299068b959d46,0,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5a8d93bf554299068b959d46,1,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5a8d93bf554299068b959d46,3,no,No,1.0,1.0,1.0,1.5B_grpo
+E2,5abf04ae5542993fe9a41dbf,0,played,Playing,0.0,0.0,0.5,1.5B_grpo
+E2,5abf04ae5542993fe9a41dbf,1,played,Playing,0.0,0.0,0.0,1.5B_grpo
+E2,5abf04ae5542993fe9a41dbf,3,played,Playing with hands,0.0,0.0,0.0,1.5B_grpo
