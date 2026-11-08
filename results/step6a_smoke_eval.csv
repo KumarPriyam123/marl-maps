@@ -1,0 +1,101 @@
+set,id,t,gold,pred,em,f1,f1_7b,model
+E1,5a72fcd65542992359bc31f3,-1,Black Panther Party for Self-Defense,The Black Panther Party,0.0,0.7499999999999999,,1.5B_untrained
+E1,5a90b6725542995651fb51c7,-1,John Cornyn,John Cornyn,1.0,1.0,,1.5B_untrained
+E1,5a77ee555542992a6e59e005,-1,Swiss International Air Lines,Crossair,0.0,0.0,,1.5B_untrained
+E1,5ae74e1c5542997b22f6a6a2,-1,Quentin Tarantino,Quentin Tarantino directed the 1994 American black comedy neo-noir crime film producted by Harvey Weinstein,0.0,0.25,,1.5B_untrained
+E1,5a8461e85542992ef85e23d5,-1,Tame Impala,Tame Impala,1.0,1.0,,1.5B_untrained
+E1,5adc2c03554299438c868d66,-1,2014,2005,0.0,0.0,,1.5B_untrained
+E1,5ac2527e55429951e9e68548,-1,Ulrich,Ulrich Walter,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ac23da355429951e9e684c4,-1,"3,200","1,250",0.0,0.0,,1.5B_untrained
+E1,5abc3fc05542993a06baf8b5,-1,Florida Atlantic,Florida Atlantic,1.0,1.0,,1.5B_untrained
+E1,5a864e425542994775f60741,-1,Bill Steer,Bill Steer,1.0,1.0,,1.5B_untrained
+E1,5ae77b26554299540e5a55cb,-1,Beximco,Beximco,1.0,1.0,,1.5B_untrained
+E1,5ac4e19a5542996feb3fe964,-1,West Bromwich Albion,Stevenage Football Club,0.0,0.0,,1.5B_untrained
+E1,5ac240c755429951e9e684ee,-1,Ridley Scott,Ridley Scott,1.0,1.0,,1.5B_untrained
+E1,5ae34bc15542990afbd1e107,-1,Miriam Margolyes,Miriam Margolyes,1.0,1.0,,1.5B_untrained
+E1,5abdb3925542996e802b4817,-1,"4,472","4,472",1.0,1.0,,1.5B_untrained
+E1,5ae087e2554299603e41841e,-1,film,Film industry,0.0,0.6666666666666666,,1.5B_untrained
+E1,5ae253365542994d89d5b3d8,-1,Spider-Man 2,Spider-Man 2,1.0,1.0,,1.5B_untrained
+E1,5add2f105542994ed6169cba,-1,no,Yes,0.0,0.0,,1.5B_untrained
+E1,5a86e19c5542996432c57206,-1,five,5,0.0,0.0,,1.5B_untrained
+E1,5ae0ccd855429924de1b7179,-1,Bruce Timm,Bruce Timm,1.0,1.0,,1.5B_untrained
+E2,5a872e8e5542991e7718170c,0,portrait,paintings and pastels,0.0,0.0,0.0,1.5B_untrained
+E2,5a872e8e5542991e7718170c,1,portrait,portraits,0.0,0.0,0.0,1.5B_untrained
+E2,5a872e8e5542991e7718170c,3,portrait,portraits,0.0,0.0,0.0,1.5B_untrained
+E2,5a7265825542997f827839a3,0,a silver medal,Olympic Gold Medal,0.0,0.4,0.0556,1.5B_untrained
+E2,5a7265825542997f827839a3,1,a silver medal,Silver medal,1.0,1.0,0.125,1.5B_untrained
+E2,5a7265825542997f827839a3,3,a silver medal,Silver medal,1.0,1.0,0.0,1.5B_untrained
+E2,5abe2b0155429976d4830a83,0,26–30 August 1914,1914,0.0,0.5,0.8571,1.5B_untrained
+E2,5abe2b0155429976d4830a83,1,26–30 August 1914,1914,0.0,0.5,0.5,1.5B_untrained
+E2,5abe2b0155429976d4830a83,3,26–30 August 1914,1914,0.0,0.5,0.8571,1.5B_untrained
+E2,5ae135fb55429920d523431f,0,WB Television Network,Sons of Anarchy,0.0,0.0,0.1111,1.5B_untrained
+E2,5ae135fb55429920d523431f,1,WB Television Network,Marvel Cinematic Universe,0.0,0.0,0.1111,1.5B_untrained
+E2,5ae135fb55429920d523431f,3,WB Television Network,Yes TV,0.0,0.0,0.0,1.5B_untrained
+E2,5a8f0a01554299458435d539,0,Indianapolis,Indapolis,0.0,0.0,1.0,1.5B_untrained
+E2,5a8f0a01554299458435d539,1,Indianapolis,"Indiepolis, Indiana",0.0,0.0,1.0,1.5B_untrained
+E2,5a8f0a01554299458435d539,3,Indianapolis,Indie,0.0,0.0,1.0,1.5B_untrained
+E2,5ab40e1c5542996a3a969f00,0,1988,1988,1.0,1.0,1.0,1.5B_untrained
+E2,5ab40e1c5542996a3a969f00,1,1988,1988,1.0,1.0,1.0,1.5B_untrained
+E2,5ab40e1c5542996a3a969f00,3,1988,1986,0.0,0.0,1.0,1.5B_untrained
+E2,5ab28c89554299340b525513,0,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_untrained
+E2,5ab28c89554299340b525513,1,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_untrained
+E2,5ab28c89554299340b525513,3,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_untrained
+E2,5a87e3d65542993e715abff8,0,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_untrained
+E2,5a87e3d65542993e715abff8,1,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_untrained
+E2,5a87e3d65542993e715abff8,3,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_untrained
+E2,5addfc425542997dc7907101,0,Esteban Ocon,Esteban Ocon,1.0,1.0,0.0,1.5B_untrained
+E2,5addfc425542997dc7907101,1,Esteban Ocon,Esteban Ocon,1.0,1.0,0.0,1.5B_untrained
+E2,5addfc425542997dc7907101,3,Esteban Ocon,Esteban Ocon,1.0,1.0,1.0,1.5B_untrained
+E2,5ab576dc5542997d4ad1f13d,0,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_untrained
+E2,5ab576dc5542997d4ad1f13d,1,Carnatic music,Carnatic music style,0.0,0.8,1.0,1.5B_untrained
+E2,5ab576dc5542997d4ad1f13d,3,Carnatic music,Carnatic music style,0.0,0.8,1.0,1.5B_untrained
+E1,5a72fcd65542992359bc31f3,-1,Black Panther Party for Self-Defense,The Black Panther Party,0.0,0.7499999999999999,,1.5B_grpo
+E1,5a90b6725542995651fb51c7,-1,John Cornyn,John Cornyn,1.0,1.0,,1.5B_grpo
+E1,5a77ee555542992a6e59e005,-1,Swiss International Air Lines,Crossair,0.0,0.0,,1.5B_grpo
+E1,5ae74e1c5542997b22f6a6a2,-1,Quentin Tarantino,Quentin Tarantino,1.0,1.0,,1.5B_grpo
+E1,5a8461e85542992ef85e23d5,-1,Tame Impala,Tame Impala,1.0,1.0,,1.5B_grpo
+E1,5adc2c03554299438c868d66,-1,2014,2005,0.0,0.0,,1.5B_grpo
+E1,5ac2527e55429951e9e68548,-1,Ulrich,Ulrich Walter,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ac23da355429951e9e684c4,-1,"3,200","1,250",0.0,0.0,,1.5B_grpo
+E1,5abc3fc05542993a06baf8b5,-1,Florida Atlantic,Florida Atlantic,1.0,1.0,,1.5B_grpo
+E1,5a864e425542994775f60741,-1,Bill Steer,Bill Steer,1.0,1.0,,1.5B_grpo
+E1,5ae77b26554299540e5a55cb,-1,Beximco,Beximco,1.0,1.0,,1.5B_grpo
+E1,5ac4e19a5542996feb3fe964,-1,West Bromwich Albion,Stevenage Football Club,0.0,0.0,,1.5B_grpo
+E1,5ac240c755429951e9e684ee,-1,Ridley Scott,Ridley Scott,1.0,1.0,,1.5B_grpo
+E1,5ae34bc15542990afbd1e107,-1,Miriam Margolyes,Miriam Margolyes,1.0,1.0,,1.5B_grpo
+E1,5abdb3925542996e802b4817,-1,"4,472","4,472",1.0,1.0,,1.5B_grpo
+E1,5ae087e2554299603e41841e,-1,film,Film industry,0.0,0.6666666666666666,,1.5B_grpo
+E1,5ae253365542994d89d5b3d8,-1,Spider-Man 2,Spider-Man 2,1.0,1.0,,1.5B_grpo
+E1,5add2f105542994ed6169cba,-1,no,Yes,0.0,0.0,,1.5B_grpo
+E1,5a86e19c5542996432c57206,-1,five,5,0.0,0.0,,1.5B_grpo
+E1,5ae0ccd855429924de1b7179,-1,Bruce Timm,Bruce Timm,1.0,1.0,,1.5B_grpo
+E2,5a872e8e5542991e7718170c,0,portrait,paintings,0.0,0.0,0.0,1.5B_grpo
+E2,5a872e8e5542991e7718170c,1,portrait,portraits,0.0,0.0,0.0,1.5B_grpo
+E2,5a872e8e5542991e7718170c,3,portrait,portraits,0.0,0.0,0.0,1.5B_grpo
+E2,5a7265825542997f827839a3,0,a silver medal,Olympic Gold Medal,0.0,0.4,0.0556,1.5B_grpo
+E2,5a7265825542997f827839a3,1,a silver medal,Silver,0.0,0.6666666666666666,0.125,1.5B_grpo
+E2,5a7265825542997f827839a3,3,a silver medal,Silver medal,1.0,1.0,0.0,1.5B_grpo
+E2,5abe2b0155429976d4830a83,0,26–30 August 1914,1914,0.0,0.5,0.8571,1.5B_grpo
+E2,5abe2b0155429976d4830a83,1,26–30 August 1914,1914,0.0,0.5,0.5,1.5B_grpo
+E2,5abe2b0155429976d4830a83,3,26–30 August 1914,1914,0.0,0.5,0.8571,1.5B_grpo
+E2,5ae135fb55429920d523431f,0,WB Television Network,Sons of Anarchy,0.0,0.0,0.1111,1.5B_grpo
+E2,5ae135fb55429920d523431f,1,WB Television Network,Marvel Cinematic Universe,0.0,0.0,0.1111,1.5B_grpo
+E2,5ae135fb55429920d523431f,3,WB Television Network,Yes TV,0.0,0.0,0.0,1.5B_grpo
+E2,5a8f0a01554299458435d539,0,Indianapolis,Indianapolis,1.0,1.0,1.0,1.5B_grpo
+E2,5a8f0a01554299458435d539,1,Indianapolis,"Indianapolis, Indiana",0.0,0.6666666666666666,1.0,1.5B_grpo
+E2,5a8f0a01554299458435d539,3,Indianapolis,"Indianapolis, Indiana",0.0,0.6666666666666666,1.0,1.5B_grpo
+E2,5ab40e1c5542996a3a969f00,0,1988,1988,1.0,1.0,1.0,1.5B_grpo
+E2,5ab40e1c5542996a3a969f00,1,1988,1988,1.0,1.0,1.0,1.5B_grpo
+E2,5ab40e1c5542996a3a969f00,3,1988,1986,0.0,0.0,1.0,1.5B_grpo
+E2,5ab28c89554299340b525513,0,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_grpo
+E2,5ab28c89554299340b525513,1,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_grpo
+E2,5ab28c89554299340b525513,3,Reichsführer-SS,Obergruppenführer,0.0,0.0,1.0,1.5B_grpo
+E2,5a87e3d65542993e715abff8,0,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_grpo
+E2,5a87e3d65542993e715abff8,1,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_grpo
+E2,5a87e3d65542993e715abff8,3,Game of Thrones,Game of Thrones,1.0,1.0,1.0,1.5B_grpo
+E2,5addfc425542997dc7907101,0,Esteban Ocon,Esteban Ocon,1.0,1.0,0.0,1.5B_grpo
+E2,5addfc425542997dc7907101,1,Esteban Ocon,Esteban Ocon,1.0,1.0,0.0,1.5B_grpo
+E2,5addfc425542997dc7907101,3,Esteban Ocon,Esteban Ocon,1.0,1.0,1.0,1.5B_grpo
+E2,5ab576dc5542997d4ad1f13d,0,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_grpo
+E2,5ab576dc5542997d4ad1f13d,1,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_grpo
+E2,5ab576dc5542997d4ad1f13d,3,Carnatic music,Carnatic music,1.0,1.0,1.0,1.5B_grpo
