@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "run_tag": "step5",
+    "model": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+    "embedder": "all-MiniLM-L6-v2",
+    "start_at": 800,
+    "n_questions": 10,
+    "top_k": 3,
+    "max_rounds": 3,
+    "search_depth": 20,
+    "dup_query_sim": 0.92,
+    "platt": [
+      0.10338,
+      -0.40947
+    ],
+    "lambdas": [
+      0.02,
+      0.05,
+      0.1
+    ],
+    "checks": {
+      "no crashed questions (0%)": true,
+      "4 steps per question": true,
+      "no empty answers (<5%)": true,
+      "judge parseable (>=95%)": true,
+      "confidence captured (>=80%)": true,
+      "answers do change across steps": true,
+      "answer confidence captured (>=80%)": true
+    },
+    "errors": []
+  },
+  "by_step": {
+    "0": {
+      "F1": 60.24,
+      "EM": 50.0,
+      "gold_coverage_pct": 50.0,
+      "said_sufficient_pct": 60.0,
+      "answer_changed_pct": null
+    },
+    "1": {
+      "F1": 57.36,
+      "EM": 50.0,
+      "gold_coverage_pct": 50.0,
+      "said_sufficient_pct": 60.0,
+      "answer_changed_pct": 20.0
+    },
+    "2": {
+      "F1": 68.95,
+      "EM": 60.0,
+      "gold_coverage_pct": 70.0,
+      "said_sufficient_pct": 70.0,
+      "answer_changed_pct": 40.0
+    },
+    "3": {
+      "F1": 68.57,
+      "EM": 60.0,
+      "gold_coverage_pct": 70.0,
+      "said_sufficient_pct": 70.0,
+      "answer_changed_pct": 20.0
+    }
+  },
+  "policies": [
+    {
+      "policy": "stop_at_t0",
+      "F1": 60.24,
+      "EM": 50.0,
+      "avg_extra_retrievals": 0.0,
+      "gold_coverage_pct": 50.0,
+      "llm_calls_judge_policy": 2.0
+    },
+    {
+      "policy": "judge_stop (= Step 3 orchestrator)",
+      "F1": 68.57,
+      "EM": 60.0,
+      "avg_extra_retrievals": 1.1,
+      "gold_coverage_pct": 60.0,
+      "llm_calls_judge_policy": 4.2
+    },
+    {
+      "policy": "fixed_one_extra_search",
+      "F1": 57.36,
+      "EM": 50.0,
+      "avg_extra_retrievals": 1.0,
+      "gold_coverage_pct": 50.0,
+      "llm_calls_judge_policy": 4.0
+    },
+    {
+      "policy": "always_full_budget",
+      "F1": 68.57,
+      "EM": 60.0,
+      "avg_extra_retrievals": 3.0,
+      "gold_coverage_pct": 70.0,
+      "llm_calls_judge_policy": 8.0
+    }
+  ],
+  "oracle_stop": {
+    "0.02": {
+      "F1": 70.93,
+      "avg_extra_retrievals": 0.3
+    },
+    "0.05": {
+      "F1": 70.93,
+      "avg_extra_retrievals": 0.3
+    },
+    "0.1": {
+      "F1": 70.24,
+      "avg_extra_retrievals": 0.2
+    }
+  },
+  "answer_confidence": {
+    "captured_pct": 100.0,
+    "mean_logprob_when_f1_ge_0.5": -0.0215,
+    "mean_logprob_when_f1_lt_0.5": -0.0741
+  }
+}
