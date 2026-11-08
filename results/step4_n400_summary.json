@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "run_tag": "step4",
+    "model": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+    "embedder": "all-MiniLM-L6-v2",
+    "start_at": 400,
+    "n_questions": 400,
+    "top_k": 3,
+    "max_rounds": 3,
+    "search_depth": 20,
+    "dup_query_sim": 0.92,
+    "platt": [
+      0.10338,
+      -0.40947
+    ],
+    "lambdas": [
+      0.02,
+      0.05,
+      0.1
+    ],
+    "checks": {
+      "no crashed questions (0%)": true,
+      "4 steps per question": true,
+      "no empty answers (<5%)": true,
+      "judge parseable (>=95%)": true,
+      "confidence captured (>=80%)": true,
+      "answers do change across steps": true
+    },
+    "errors": []
+  },
+  "by_step": {
+    "0": {
+      "F1": 49.31,
+      "EM": 36.75,
+      "gold_coverage_pct": 37.0,
+      "said_sufficient_pct": 47.25,
+      "answer_changed_pct": null
+    },
+    "1": {
+      "F1": 61.14,
+      "EM": 46.0,
+      "gold_coverage_pct": 70.0,
+      "said_sufficient_pct": 62.75,
+      "answer_changed_pct": 43.25
+    },
+    "2": {
+      "F1": 60.04,
+      "EM": 45.0,
+      "gold_coverage_pct": 76.75,
+      "said_sufficient_pct": 66.0,
+      "answer_changed_pct": 21.5
+    },
+    "3": {
+      "F1": 60.15,
+      "EM": 45.25,
+      "gold_coverage_pct": 79.5,
+      "said_sufficient_pct": 66.0,
+      "answer_changed_pct": 18.5
+    }
+  },
+  "policies": [
+    {
+      "policy": "stop_at_t0",
+      "F1": 49.31,
+      "EM": 36.75,
+      "avg_extra_retrievals": 0.0,
+      "gold_coverage_pct": 37.0,
+      "llm_calls_judge_policy": 2.0
+    },
+    {
+      "policy": "judge_stop (= Step 3 orchestrator)",
+      "F1": 59.47,
+      "EM": 44.75,
+      "avg_extra_retrievals": 1.128,
+      "gold_coverage_pct": 60.25,
+      "llm_calls_judge_policy": 4.255
+    },
+    {
+      "policy": "always_full_budget",
+      "F1": 60.15,
+      "EM": 45.25,
+      "avg_extra_retrievals": 3.0,
+      "gold_coverage_pct": 79.5,
+      "llm_calls_judge_policy": 8.0
+    }
+  ],
+  "oracle_stop": {
+    "0.02": {
+      "F1": 68.78,
+      "avg_extra_retrievals": 0.338
+    },
+    "0.05": {
+      "F1": 68.74,
+      "avg_extra_retrievals": 0.325
+    },
+    "0.1": {
+      "F1": 68.66,
+      "avg_extra_retrievals": 0.315
+    }
+  }
+}
