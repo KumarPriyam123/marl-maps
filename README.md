@@ -7,22 +7,23 @@ An extension of MAPS (a multi-agent RAG system): a learned orchestrator, a share
 | Where | What runs there | Why |
 |---|---|---|
 | Laptop (i7, no GPU) | Code, smoke tests, Claude Code development | Plumbing needs no GPU |
-| Kaggle (GPU T4 x1) | **Every reported number** | The 7B model needs a GPU |
+| Kaggle (GPU T4) | **Every reported number** | The models need a GPU |
 | GitHub (private repo) | The single copy of truth | So work is never lost again |
 
-**Rule:** a number goes into the report only if a `results/stepN_summary.json` file in this repo produced it.
+**Rule:** a number goes into the report only if a file in `results/` produced it.
 
-## Steps
+## Steps (all done; numbers in [RESULTS.md](RESULTS.md))
 
-| # | Step | Done when |
-|---|---|---|
-| 0 | Repo on GitHub + local smoke test | `python run_smoke_test.py` prints a RESULTS block; first commit pushed |
-| 1 | Baselines on Kaggle (`kaggle/step1_kaggle.py`) | 200 questions, all 6 checks PASS, summary committed to `results/` |
-| 2 | Judge confidence + calibration | ECE measured before/after temperature scaling |
-| 3 | SGWM + rule-based orchestrator | Fewer retrievals than Step 1 at equal or better F1 |
-| 4 | Process rewards on logged runs | Reward tracks F1 and redundant retrievals |
-| 5 | GRPO-trained orchestrator (LoRA) | Trained policy beats Step 3 |
-| 6 | MuSiQue + ablations + write-up | Every claim traceable to a results file |
+| # | Step | Notebook / script | Result file |
+|---|---|---|---|
+| 1 | Naive RAG vs scripted MAPS baselines | `kaggle/step1_kaggle.py` | `results/step1_summary.json` |
+| 2 | Judge confidence calibration | `scripts/step2_calibration.py` | `results/step2_calibration.json` |
+| 3 | SGWM + rule-based orchestrator | `kaggle/step3_kaggle.py` | `results/step3_n200_summary.json` |
+| 4 | Full trajectories + learned stop policy | `kaggle/step4_kaggle.py`, `scripts/step4_policy.py` | `results/step4_policy.json` |
+| 5 | Held-out test of the stop policy | `kaggle/step5_kaggle.py`, `scripts/step5_eval.py` | `results/step5_heldout.json` |
+| 6a | GRPO answer agent (1.5B + LoRA) | `kaggle/step6a_kaggle.py` | `results/step6a_summary.json`, `adapters/step6a/` |
+| 6b | GRPO query agent (1.5B + LoRA) | `kaggle/step6b_kaggle.py` | `results/step6b_summary.json`, `adapters/step6b/` |
+| 6c | Full-system test vs 7B | `kaggle/step6c_kaggle.py`, `scripts/step6c_eval.py` | `results/step6c_system.json` |
 
 ## Step 0 — local setup (Windows, Git Bash)
 
